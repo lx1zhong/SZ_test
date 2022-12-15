@@ -1,0 +1,1207 @@
+DAT: EXAALT
+EBMODE: ABS
+EB: 1E-1
+intervals=8192
+treeByteSize=111160, enCodeSize=44195
+[huffman]: 	ratio=0.741489, outsize=155363, time=0.002140
+totalByteLength=155717
+oriSize=115200, outSize=106297.
+[prediction]: expecting compression ratio=1.083756.
+compression time = 0.006961
+intervals=8192
+treeByteSize=147448, enCodeSize=4471649
+[huffman]: 	ratio=2.484845, outsize=4619105, time=0.021104
+totalByteLength=4645600
+compression time = 0.066737
+[ratio]:  2.516782
+EB: 1E-2
+intervals=65536
+treeByteSize=386362, enCodeSize=51016
+[huffman]: 	ratio=0.263383, outsize=437386, time=0.007899
+totalByteLength=439197
+oriSize=115200, outSize=106297.
+[prediction]: expecting compression ratio=1.083756.
+compression time = 0.012810
+intervals=65536
+treeByteSize=1703482, enCodeSize=5576703
+[huffman]: 	ratio=1.576574, outsize=7280193, time=0.056432
+totalByteLength=7449500
+compression time = 0.113884
+[ratio]:  1.818264
+EB: 1E-3
+intervals=65536
+treeByteSize=92638, enCodeSize=11871
+[huffman]: 	ratio=1.102213, outsize=104517, time=0.002904
+totalByteLength=193009
+oriSize=115200, outSize=106297.
+[prediction]: expecting compression ratio=1.083756.
+compression time = 0.008573
+intervals=65536
+treeByteSize=1703274, enCodeSize=1424681
+[huffman]: 	ratio=3.669404, outsize=3127963, time=0.040708
+totalByteLength=11935432
+compression time = 0.161790
+[ratio]:  1.084020
+EB: 1E-4
+intervals=65536
+treeByteSize=10234, enCodeSize=4256
+[huffman]: 	ratio=7.945924, outsize=14498, time=0.001435
+totalByteLength=129326
+oriSize=115200, outSize=106297.
+[prediction]: expecting compression ratio=1.083756.
+compression time = 0.006083
+intervals=65536
+treeByteSize=549370, enCodeSize=457801
+[huffman]: 	ratio=11.395948, outsize=1007179, time=0.019464
+totalByteLength=12460182
+compression time = 0.138483
+[ratio]:  1.084020
+EB: 1E-5
+intervals=65536
+treeByteSize=792, enCodeSize=3641
+[huffman]: 	ratio=25.940104, outsize=4441, time=0.001558
+totalByteLength=120958
+oriSize=115200, outSize=106297.
+[prediction]: expecting compression ratio=1.083756.
+compression time = 0.007204
+intervals=65536
+treeByteSize=68374, enCodeSize=365932
+[huffman]: 	ratio=26.427331, outsize=434314, time=0.011080
+totalByteLength=12049891
+compression time = 0.131117
+[ratio]:  1.084020
+EBMODE: REL
+EB: 1E-2
+intervals=64
+treeByteSize=778, enCodeSize=17531
+[huffman]: 	ratio=6.289240, outsize=18317, time=0.000265
+totalByteLength=18407
+oriSize=115200, outSize=18109.
+[prediction]: expecting compression ratio=6.361478.
+compression time = 0.004970
+intervals=64
+treeByteSize=890, enCodeSize=1743010
+[huffman]: 	ratio=6.581632, outsize=1743908, time=0.016634
+totalByteLength=1744012
+compression time = 0.058475
+[ratio]:  6.581042
+EB: 1E-3
+intervals=512
+treeByteSize=8308, enCodeSize=29458
+[huffman]: 	ratio=3.049717, outsize=37774, time=0.000300
+totalByteLength=37877
+oriSize=115200, outSize=33786.
+[prediction]: expecting compression ratio=3.409696.
+compression time = 0.003831
+intervals=512
+treeByteSize=9208, enCodeSize=2937610
+[huffman]: 	ratio=3.894957, outsize=2946826, time=0.017376
+totalByteLength=2948228
+compression time = 0.059347
+[ratio]:  3.898735
+EB: 1E-4
+intervals=4096
+treeByteSize=62128, enCodeSize=40940
+[huffman]: 	ratio=1.117622, outsize=103076, time=0.001069
+totalByteLength=103403
+oriSize=115200, outSize=69936.
+[prediction]: expecting compression ratio=1.647220.
+compression time = 0.004856
+intervals=4096
+treeByteSize=73720, enCodeSize=4111278
+[huffman]: 	ratio=2.742591, outsize=4185006, time=0.018841
+totalByteLength=4207941
+compression time = 0.063499
+[ratio]:  2.753451
+EB: 1E-5
+intervals=32768
+treeByteSize=305758, enCodeSize=49586
+[huffman]: 	ratio=0.324186, outsize=355352, time=0.004469
+totalByteLength=356987
+oriSize=115200, outSize=106297.
+[prediction]: expecting compression ratio=1.083756.
+compression time = 0.008903
+intervals=65536
+treeByteSize=1198666, enCodeSize=5310166
+[huffman]: 	ratio=1.763411, outsize=6508840, time=0.043250
+totalByteLength=6512043
+compression time = 0.091931
+[ratio]:  2.005639
+EB: 1E-6
+intervals=65536
+treeByteSize=175348, enCodeSize=21036
+[huffman]: 	ratio=0.586582, outsize=196392, time=0.003340
+totalByteLength=263655
+oriSize=115200, outSize=106297.
+[prediction]: expecting compression ratio=1.083756.
+compression time = 0.007409
+intervals=65536
+treeByteSize=1703924, enCodeSize=2461216
+[huffman]: 	ratio=2.755667, outsize=4165148, time=0.047389
+totalByteLength=10842563
+compression time = 0.151911
+[ratio]:  1.307254
+EBMODE: PW_REL
+EB: 1E-2
+intervals=1024
+treeByteSize=11980, enCodeSize=30211
+[huffman]: 	ratio=2.729923, outsize=42199, time=0.000436
+totalByteLength=47908
+oriSize=115200, outSize=41966.
+[prediction]: expecting compression ratio=2.745079.
+compression time = 0.019546
+intervals=512
+treeByteSize=9208, enCodeSize=2993462
+[huffman]: 	ratio=3.822508, outsize=3002678, time=0.017173
+totalByteLength=3620307
+compression time = 0.088687
+[ratio]:  3.186222
+EB: 1E-3
+intervals=8192
+treeByteSize=78346, enCodeSize=41595
+[huffman]: 	ratio=0.960408, outsize=119949, time=0.001307
+totalByteLength=125692
+oriSize=115200, outSize=106297.
+[prediction]: expecting compression ratio=1.083756.
+compression time = 0.016562
+intervals=8192
+treeByteSize=145486, enCodeSize=4205617
+[huffman]: 	ratio=2.637892, outsize=4351111, time=0.019878
+totalByteLength=4905479
+compression time = 0.098857
+[ratio]:  2.379015
+EB: 1E-4
+intervals=65536
+treeByteSize=324640, enCodeSize=50273
+[huffman]: 	ratio=0.307265, outsize=374921, time=0.005608
+totalByteLength=380838
+oriSize=115200, outSize=106297.
+[prediction]: expecting compression ratio=1.083756.
+compression time = 0.028258
+intervals=65536
+treeByteSize=1605722, enCodeSize=5380255
+[huffman]: 	ratio=1.642969, outsize=6985985, time=0.049777
+totalByteLength=7559639
+compression time = 0.191025
+[ratio]:  1.764171
+EB: 1E-5
+intervals=65536
+treeByteSize=178156, enCodeSize=21448
+[huffman]: 	ratio=0.577120, outsize=199612, time=0.003674
+totalByteLength=266919
+oriSize=115200, outSize=106297.
+[prediction]: expecting compression ratio=1.083756.
+compression time = 0.033713
+intervals=65536
+treeByteSize=1703924, enCodeSize=2472380
+[huffman]: 	ratio=2.748300, outsize=4176312, time=0.047014
+totalByteLength=10908084
+compression time = 0.218358
+[ratio]:  1.288123
+EBMODE: PSNR
+EB: 40
+intervals=32
+treeByteSize=442, enCodeSize=14788
+[huffman]: 	ratio=7.560047, outsize=15238, time=0.000154
+totalByteLength=15336
+oriSize=115200, outSize=15346.
+[prediction]: expecting compression ratio=7.506842.
+compression time = 0.003487
+intervals=32
+treeByteSize=442, enCodeSize=1470014
+[huffman]: 	ratio=7.805536, outsize=1470464, time=0.015357
+totalByteLength=1471092
+compression time = 0.051665
+[ratio]:  7.801960
+EB: 60
+intervals=256
+treeByteSize=4582, enCodeSize=26610
+[huffman]: 	ratio=3.692308, outsize=31200, time=0.000234
+totalByteLength=31397
+oriSize=115200, outSize=29123.
+[prediction]: expecting compression ratio=3.955637.
+compression time = 0.003653
+intervals=256
+treeByteSize=4600, enCodeSize=2651566
+[huffman]: 	ratio=4.321163, outsize=2656174, time=0.017178
+totalByteLength=2665825
+compression time = 0.060438
+[ratio]:  4.308958
+EB: 80
+intervals=2048
+treeByteSize=35776, enCodeSize=38060
+[huffman]: 	ratio=1.560046, outsize=73844, time=0.000701
+totalByteLength=74747
+oriSize=115200, outSize=55192.
+[prediction]: expecting compression ratio=2.087259.
+compression time = 0.004454
+intervals=4096
+treeByteSize=59410, enCodeSize=3842546
+[huffman]: 	ratio=2.941534, outsize=3901964, time=0.018722
+totalByteLength=3902188
+compression time = 0.058268
+[ratio]:  2.964929
+EB: 100
+intervals=32768
+treeByteSize=237916, enCodeSize=48458
+[huffman]: 	ratio=0.402260, outsize=286382, time=0.003739
+totalByteLength=286497
+oriSize=115200, outSize=106297.
+[prediction]: expecting compression ratio=1.083756.
+compression time = 0.007289
+intervals=32768
+treeByteSize=504640, enCodeSize=5037147
+[huffman]: 	ratio=2.071127, outsize=5541795, time=0.031622
+totalByteLength=5543895
+compression time = 0.075900
+[ratio]:  2.184403
+EB: 120
+intervals=65536
+treeByteSize=266446, enCodeSize=32575
+[huffman]: 	ratio=0.385247, outsize=299029, time=0.004679
+totalByteLength=343022
+oriSize=115200, outSize=106297.
+[prediction]: expecting compression ratio=1.083756.
+compression time = 0.008547
+intervals=65536
+treeByteSize=1703924, enCodeSize=3719560
+[huffman]: 	ratio=2.116304, outsize=5423492, time=0.051400
+totalByteLength=9771463
+compression time = 0.141860
+[ratio]:  1.430796
+CNT.
+DAT: EXAALT_HELIUM
+EBMODE: ABS
+EB: 1E-1
+block_num_x=103
+block_num_y=61
+sample_block_num_x=10
+sample_block_num_y=6
+r1_=100,r2_=768
+intervals=32
+treeByteSize=414, enCodeSize=12804
+[huffman]: 	ratio=23.226977, outsize=13226, time=0.000264
+totalByteLength=14099
+oriSize=307200, outSize=8218.
+[prediction]: expecting compression ratio=37.381359.
+compression time = 0.010157
+intervals=32
+treeByteSize=442, enCodeSize=1628579
+[huffman]: 	ratio=19.993564, outsize=1629029, time=0.033303
+totalByteLength=1942350
+compression time = 0.197415
+[ratio]:  21.933920
+EB: 1E-2
+block_num_x=103
+block_num_y=61
+sample_block_num_x=10
+sample_block_num_y=6
+r1_=100,r2_=768
+intervals=256
+treeByteSize=4420, enCodeSize=28309
+[huffman]: 	ratio=9.383878, outsize=32737, time=0.000459
+totalByteLength=33826
+oriSize=307200, outSize=30490.
+[prediction]: expecting compression ratio=10.075435.
+compression time = 0.010449
+intervals=512
+treeByteSize=9172, enCodeSize=3155481
+[huffman]: 	ratio=10.291812, outsize=3164661, time=0.043088
+totalByteLength=3197194
+compression time = 0.205106
+[ratio]:  10.493616
+EB: 1E-3
+block_num_x=103
+block_num_y=61
+sample_block_num_x=10
+sample_block_num_y=6
+r1_=100,r2_=768
+intervals=2048
+treeByteSize=24580, enCodeSize=54669
+[huffman]: 	ratio=3.875998, outsize=79257, time=0.000828
+totalByteLength=80786
+oriSize=307200, outSize=68607.
+[prediction]: expecting compression ratio=4.477677.
+compression time = 0.010996
+intervals=4096
+treeByteSize=73684, enCodeSize=5967095
+[huffman]: 	ratio=5.391697, outsize=6040787, time=0.052753
+totalByteLength=6122076
+compression time = 0.213124
+[ratio]:  5.363659
+EB: 1E-4
+block_num_x=103
+block_num_y=61
+sample_block_num_x=10
+sample_block_num_y=6
+r1_=100,r2_=768
+intervals=32768
+treeByteSize=82738, enCodeSize=85551
+[huffman]: 	ratio=1.825344, outsize=168297, time=0.001770
+totalByteLength=169478
+oriSize=307200, outSize=125409.
+[prediction]: expecting compression ratio=2.449585.
+compression time = 0.012742
+intervals=32768
+treeByteSize=588322, enCodeSize=9251758
+[huffman]: 	ratio=3.309940, outsize=9840088, time=0.062576
+totalByteLength=10094573
+compression time = 0.230458
+[ratio]:  3.352216
+EB: 1E-5
+block_num_x=103
+block_num_y=61
+sample_block_num_x=10
+sample_block_num_y=6
+r1_=100,r2_=768
+intervals=65536
+treeByteSize=190900, enCodeSize=109808
+[huffman]: 	ratio=1.021562, outsize=300716, time=0.003824
+totalByteLength=308933
+oriSize=307200, outSize=203454.
+[prediction]: expecting compression ratio=1.509924.
+compression time = 0.016107
+intervals=65536
+treeByteSize=1583544, enCodeSize=11623647
+[huffman]: 	ratio=2.466087, outsize=13207199, time=0.080218
+totalByteLength=14796776
+compression time = 0.264687
+[ratio]:  2.410204
+EBMODE: REL
+EB: 1E-2
+block_num_x=103
+block_num_y=61
+sample_block_num_x=10
+sample_block_num_y=6
+r1_=100,r2_=768
+intervals=32
+treeByteSize=344, enCodeSize=11290
+[huffman]: 	ratio=26.387219, outsize=11642, time=0.000245
+totalByteLength=11795
+oriSize=307200, outSize=4675.
+[prediction]: expecting compression ratio=65.711227.
+compression time = 0.010040
+intervals=32
+treeByteSize=428, enCodeSize=1377703
+[huffman]: 	ratio=23.633390, outsize=1378139, time=0.029098
+totalByteLength=1385343
+compression time = 0.182946
+[ratio]:  46.219959
+EB: 1E-3
+block_num_x=103
+block_num_y=61
+sample_block_num_x=10
+sample_block_num_y=6
+r1_=100,r2_=768
+intervals=128
+treeByteSize=1730, enCodeSize=20872
+[huffman]: 	ratio=13.586908, outsize=22610, time=0.000353
+totalByteLength=23243
+oriSize=307200, outSize=20702.
+[prediction]: expecting compression ratio=14.839146.
+compression time = 0.010616
+intervals=128
+treeByteSize=1786, enCodeSize=2434319
+[huffman]: 	ratio=13.369698, outsize=2436113, time=0.038117
+totalByteLength=2610550
+compression time = 0.209583
+[ratio]:  13.703044
+EB: 1E-4
+block_num_x=103
+block_num_y=61
+sample_block_num_x=10
+sample_block_num_y=6
+r1_=100,r2_=768
+intervals=1024
+treeByteSize=13888, enCodeSize=41824
+[huffman]: 	ratio=5.513281, outsize=55720, time=0.000638
+totalByteLength=56665
+oriSize=307200, outSize=49155.
+[prediction]: expecting compression ratio=6.249619.
+compression time = 0.010803
+intervals=2048
+treeByteSize=36820, enCodeSize=4596191
+[huffman]: 	ratio=7.029994, outsize=4633019, time=0.049577
+totalByteLength=4654604
+compression time = 0.211299
+[ratio]:  7.034685
+EB: 1E-5
+block_num_x=103
+block_num_y=61
+sample_block_num_x=10
+sample_block_num_y=6
+r1_=100,r2_=768
+intervals=8192
+treeByteSize=50806, enCodeSize=72328
+[huffman]: 	ratio=2.494681, outsize=123142, time=0.001060
+totalByteLength=124523
+oriSize=307200, outSize=97395.
+[prediction]: expecting compression ratio=3.154166.
+compression time = 0.011668
+intervals=16384
+treeByteSize=294058, enCodeSize=7879984
+[huffman]: 	ratio=3.984573, outsize=8174050, time=0.060734
+totalByteLength=8250023
+compression time = 0.221829
+[ratio]:  4.035975
+EB: 1E-6
+block_num_x=103
+block_num_y=61
+sample_block_num_x=10
+sample_block_num_y=6
+r1_=100,r2_=768
+intervals=65536
+treeByteSize=135964, enCodeSize=101708
+[huffman]: 	ratio=1.292494, outsize=237680, time=0.003107
+totalByteLength=240661
+oriSize=307200, outSize=165384.
+[prediction]: expecting compression ratio=1.857495.
+compression time = 0.014552
+intervals=65536
+treeByteSize=1677456, enCodeSize=10935799
+[huffman]: 	ratio=2.582210, outsize=12613263, time=0.079533
+totalByteLength=13262480
+compression time = 0.259140
+[ratio]:  2.701186
+EBMODE: PW_REL
+EB: 1E-2
+block_num_x=103
+block_num_y=61
+sample_block_num_x=10
+sample_block_num_y=6
+r1_=100,r2_=768
+intervals=256
+treeByteSize=4600, enCodeSize=26603
+[huffman]: 	ratio=9.842684, outsize=31211, time=0.000461
+totalByteLength=39188
+oriSize=307200, outSize=32445.
+[prediction]: expecting compression ratio=9.468331.
+compression time = 0.017313
+intervals=256
+treeByteSize=4600, enCodeSize=3132339
+[huffman]: 	ratio=10.382737, outsize=3136947, time=0.045410
+totalByteLength=3654467
+compression time = 0.228197
+[ratio]:  9.511136
+EB: 1E-3
+block_num_x=103
+block_num_y=61
+sample_block_num_x=10
+sample_block_num_y=6
+r1_=100,r2_=768
+intervals=4096
+treeByteSize=51850, enCodeSize=44476
+[huffman]: 	ratio=3.188905, outsize=96334, time=0.001180
+totalByteLength=102698
+oriSize=307200, outSize=70811.
+[prediction]: expecting compression ratio=4.338309.
+compression time = 0.018685
+intervals=2048
+treeByteSize=36856, enCodeSize=4776548
+[huffman]: 	ratio=6.766530, outsize=4813412, time=0.054260
+totalByteLength=5623490
+compression time = 0.245546
+[ratio]:  6.074802
+EB: 1E-4
+block_num_x=103
+block_num_y=61
+sample_block_num_x=10
+sample_block_num_y=6
+r1_=100,r2_=768
+intervals=32768
+treeByteSize=136792, enCodeSize=69002
+[huffman]: 	ratio=1.492697, outsize=205802, time=0.002678
+totalByteLength=214159
+oriSize=307200, outSize=135641.
+[prediction]: expecting compression ratio=2.264802.
+compression time = 0.026081
+intervals=16384
+treeByteSize=294904, enCodeSize=7408687
+[huffman]: 	ratio=4.227906, outsize=7703599, time=0.061843
+totalByteLength=8956240
+compression time = 0.287005
+[ratio]:  3.816175
+EB: 1E-5
+block_num_x=103
+block_num_y=61
+sample_block_num_x=10
+sample_block_num_y=6
+r1_=100,r2_=768
+intervals=65536
+treeByteSize=140572, enCodeSize=88403
+[huffman]: 	ratio=1.341584, outsize=228983, time=0.003476
+totalByteLength=255839
+oriSize=307200, outSize=174794.
+[prediction]: expecting compression ratio=1.757497.
+compression time = 0.028911
+intervals=65536
+treeByteSize=1701662, enCodeSize=9802289
+[huffman]: 	ratio=2.831208, outsize=11503959, time=0.085449
+totalByteLength=14266844
+compression time = 0.375261
+[ratio]:  2.577741
+EBMODE: PSNR
+EB: 40
+block_num_x=103
+block_num_y=61
+sample_block_num_x=10
+sample_block_num_y=6
+r1_=100,r2_=768
+intervals=32
+treeByteSize=246, enCodeSize=11178
+[huffman]: 	ratio=26.871938, outsize=11432, time=0.000243
+totalByteLength=11561
+oriSize=307200, outSize=4513.
+[prediction]: expecting compression ratio=68.070023.
+compression time = 0.009943
+intervals=32
+treeByteSize=372, enCodeSize=1256782
+[huffman]: 	ratio=25.907636, outsize=1257162, time=0.027177
+totalByteLength=1261981
+compression time = 0.176358
+[ratio]:  69.214430
+EB: 60
+block_num_x=103
+block_num_y=61
+sample_block_num_x=10
+sample_block_num_y=6
+r1_=100,r2_=768
+intervals=64
+treeByteSize=862, enCodeSize=16978
+[huffman]: 	ratio=17.212013, outsize=17848, time=0.000318
+totalByteLength=18745
+oriSize=307200, outSize=16201.
+[prediction]: expecting compression ratio=18.961792.
+compression time = 0.010895
+intervals=64
+treeByteSize=876, enCodeSize=2013614
+[huffman]: 	ratio=16.167847, outsize=2014498, time=0.035942
+totalByteLength=2341511
+compression time = 0.209202
+[ratio]:  15.578604
+EB: 80
+block_num_x=103
+block_num_y=61
+sample_block_num_x=10
+sample_block_num_y=6
+r1_=100,r2_=768
+intervals=512
+treeByteSize=8488, enCodeSize=35497
+[huffman]: 	ratio=6.982929, outsize=43993, time=0.000544
+totalByteLength=45158
+oriSize=307200, outSize=39778.
+[prediction]: expecting compression ratio=7.722862.
+compression time = 0.010611
+intervals=1024
+treeByteSize=18388, enCodeSize=3915050
+[huffman]: 	ratio=8.280296, outsize=3933446, time=0.045384
+totalByteLength=3985091
+compression time = 0.206835
+[ratio]:  8.358966
+EB: 100
+block_num_x=103
+block_num_y=61
+sample_block_num_x=10
+sample_block_num_y=6
+r1_=100,r2_=768
+intervals=4096
+treeByteSize=36442, enCodeSize=64868
+[huffman]: 	ratio=3.032038, outsize=101318, time=0.000971
+totalByteLength=103555
+oriSize=307200, outSize=85287.
+[prediction]: expecting compression ratio=3.601956.
+compression time = 0.011727
+intervals=8192
+treeByteSize=147412, enCodeSize=7074123
+[huffman]: 	ratio=4.510130, outsize=7221543, time=0.055977
+totalByteLength=7352272
+compression time = 0.220629
+[ratio]:  4.492432
+EB: 120
+block_num_x=103
+block_num_y=61
+sample_block_num_x=10
+sample_block_num_y=6
+r1_=100,r2_=768
+intervals=65536
+treeByteSize=114382, enCodeSize=95494
+[huffman]: 	ratio=1.463666, outsize=209884, time=0.002742
+totalByteLength=210941
+oriSize=307200, outSize=148175.
+[prediction]: expecting compression ratio=2.073224.
+compression time = 0.014197
+intervals=65536
+treeByteSize=1647972, enCodeSize=10334616
+[huffman]: 	ratio=2.718117, outsize=11982596, time=0.076539
+totalByteLength=12289561
+compression time = 0.250356
+[ratio]:  2.918209
+CNT.
+DAT: CESM_ATM
+EBMODE: ABS
+EB: 1E-1
+block_num_x=100
+block_num_y=14
+sample_block_num_x=10
+sample_block_num_y=1
+r1_=360,r2_=128
+intervals=32
+treeByteSize=414, enCodeSize=8912
+[huffman]: 	ratio=19.747161, outsize=9334, time=0.000186
+totalByteLength=9962
+oriSize=184320, outSize=8468.
+[prediction]: expecting compression ratio=21.766651.
+compression time = 0.019690
+intervals=32
+treeByteSize=414, enCodeSize=1365167
+[huffman]: 	ratio=18.980821, outsize=1365589, time=0.026868
+totalByteLength=1455368
+compression time = 0.151746
+[ratio]:  22.086999
+EB: 1E-2
+block_num_x=100
+block_num_y=14
+sample_block_num_x=10
+sample_block_num_y=1
+r1_=360,r2_=128
+intervals=64
+treeByteSize=862, enCodeSize=15868
+[huffman]: 	ratio=11.012068, outsize=16738, time=0.000241
+totalByteLength=19689
+oriSize=184320, outSize=18670.
+[prediction]: expecting compression ratio=9.872522.
+compression time = 0.007776
+intervals=128
+treeByteSize=1758, enCodeSize=2389349
+[huffman]: 	ratio=10.840131, outsize=2391115, time=0.033242
+totalByteLength=2648296
+compression time = 0.164681
+[ratio]:  10.581466
+EB: 1E-3
+block_num_x=100
+block_num_y=14
+sample_block_num_x=10
+sample_block_num_y=1
+r1_=360,r2_=128
+intervals=512
+treeByteSize=8308, enCodeSize=32111
+[huffman]: 	ratio=4.559329, outsize=40427, time=0.000454
+totalByteLength=43838
+oriSize=184320, outSize=38909.
+[prediction]: expecting compression ratio=4.737207.
+compression time = 0.010012
+intervals=2048
+treeByteSize=36820, enCodeSize=4501864
+[huffman]: 	ratio=5.710896, outsize=4538692, time=0.038584
+totalByteLength=4747545
+compression time = 0.168771
+[ratio]:  5.748752
+EB: 1E-4
+block_num_x=100
+block_num_y=14
+sample_block_num_x=10
+sample_block_num_y=1
+r1_=360,r2_=128
+intervals=4096
+treeByteSize=36334, enCodeSize=50171
+[huffman]: 	ratio=2.130547, outsize=86513, time=0.000882
+totalByteLength=90540
+oriSize=184320, outSize=70902.
+[prediction]: expecting compression ratio=2.599645.
+compression time = 0.010617
+intervals=16384
+treeByteSize=294328, enCodeSize=6952309
+[huffman]: 	ratio=3.576828, outsize=7246645, time=0.044556
+totalByteLength=7451856
+compression time = 0.176266
+[ratio]:  3.708832
+EB: 1E-5
+block_num_x=100
+block_num_y=14
+sample_block_num_x=10
+sample_block_num_y=1
+r1_=360,r2_=128
+intervals=65536
+treeByteSize=144244, enCodeSize=67746
+[huffman]: 	ratio=0.869442, outsize=211998, time=0.002939
+totalByteLength=214809
+oriSize=184320, outSize=134138.
+[prediction]: expecting compression ratio=1.374107.
+compression time = 0.012281
+intervals=65536
+treeByteSize=1669864, enCodeSize=8811028
+[huffman]: 	ratio=2.473070, outsize=10480900, time=0.067794
+totalByteLength=12179780
+compression time = 0.212725
+[ratio]:  2.452234
+EBMODE: REL
+EB: 1E-3
+block_num_x=100
+block_num_y=14
+sample_block_num_x=10
+sample_block_num_y=1
+r1_=360,r2_=128
+intervals=32
+treeByteSize=330, enCodeSize=7201
+[huffman]: 	ratio=24.448866, outsize=7539, time=0.000189
+totalByteLength=9276
+oriSize=184320, outSize=5561.
+[prediction]: expecting compression ratio=33.145119.
+compression time = 0.023138
+intervals=32
+treeByteSize=428, enCodeSize=1001382
+[huffman]: 	ratio=25.872963, outsize=1001818, time=0.022483
+totalByteLength=1057603
+compression time = 0.124843
+[ratio]:  53.604333
+EB: 1E-4
+block_num_x=100
+block_num_y=14
+sample_block_num_x=10
+sample_block_num_y=1
+r1_=360,r2_=128
+intervals=32
+treeByteSize=414, enCodeSize=10657
+[huffman]: 	ratio=16.636881, outsize=11079, time=0.000228
+totalByteLength=12630
+oriSize=184320, outSize=11905.
+[prediction]: expecting compression ratio=15.482571.
+compression time = 0.007666
+intervals=64
+treeByteSize=862, enCodeSize=1757268
+[huffman]: 	ratio=14.742870, outsize=1758138, time=0.029618
+totalByteLength=1869824
+compression time = 0.155153
+[ratio]:  15.568932
+EB: 1E-5
+block_num_x=100
+block_num_y=14
+sample_block_num_x=10
+sample_block_num_y=1
+r1_=360,r2_=128
+intervals=128
+treeByteSize=1758, enCodeSize=22029
+[huffman]: 	ratio=7.746165, outsize=23795, time=0.000290
+totalByteLength=27502
+oriSize=184320, outSize=25960.
+[prediction]: expecting compression ratio=7.100154.
+compression time = 0.007848
+intervals=512
+treeByteSize=9172, enCodeSize=3207743
+[huffman]: 	ratio=8.057389, outsize=3216923, time=0.035404
+totalByteLength=3350918
+compression time = 0.162362
+[ratio]:  8.251626
+EB: 1E-6
+block_num_x=100
+block_num_y=14
+sample_block_num_x=10
+sample_block_num_y=1
+r1_=360,r2_=128
+intervals=1024
+treeByteSize=14878, enCodeSize=39840
+[huffman]: 	ratio=3.368052, outsize=54726, time=0.000532
+totalByteLength=58989
+oriSize=184320, outSize=50614.
+[prediction]: expecting compression ratio=3.641680.
+compression time = 0.010187
+intervals=4096
+treeByteSize=73684, enCodeSize=5550020
+[huffman]: 	ratio=4.609055, outsize=5623712, time=0.042314
+totalByteLength=5814371
+compression time = 0.173857
+[ratio]:  4.732831
+EBMODE: PW_REL
+EB: 1E-3
+block_num_x=100
+block_num_y=14
+sample_block_num_x=10
+sample_block_num_y=1
+r1_=360,r2_=128
+intervals=32
+treeByteSize=428, enCodeSize=9203
+[huffman]: 	ratio=19.122316, outsize=9639, time=0.000214
+totalByteLength=9978
+oriSize=184320, outSize=8727.
+[prediction]: expecting compression ratio=21.120661.
+compression time = 0.009393
+intervals=32
+treeByteSize=442, enCodeSize=1483944
+[huffman]: 	ratio=17.461671, outsize=1484394, time=0.027600
+totalByteLength=1549654
+compression time = 0.166046
+[ratio]:  20.296205
+EB: 1E-4
+block_num_x=100
+block_num_y=14
+sample_block_num_x=10
+sample_block_num_y=1
+r1_=360,r2_=128
+intervals=64
+treeByteSize=890, enCodeSize=16974
+[huffman]: 	ratio=10.313339, outsize=17872, time=0.000283
+totalByteLength=19877
+oriSize=184320, outSize=18729.
+[prediction]: expecting compression ratio=9.841422.
+compression time = 0.013218
+intervals=256
+treeByteSize=4600, enCodeSize=2658688
+[huffman]: 	ratio=9.732302, outsize=2663296, time=0.033431
+totalByteLength=2767522
+compression time = 0.172185
+[ratio]:  10.055549
+EB: 1E-5
+block_num_x=100
+block_num_y=14
+sample_block_num_x=10
+sample_block_num_y=1
+r1_=360,r2_=128
+intervals=512
+treeByteSize=8524, enCodeSize=33479
+[huffman]: 	ratio=4.387422, outsize=42011, time=0.000412
+totalByteLength=44715
+oriSize=184320, outSize=39042.
+[prediction]: expecting compression ratio=4.721070.
+compression time = 0.015761
+intervals=2048
+treeByteSize=36856, enCodeSize=4443216
+[huffman]: 	ratio=5.785611, outsize=4480080, time=0.036865
+totalByteLength=4646282
+compression time = 0.191403
+[ratio]:  5.940105
+EBMODE: PSNR
+EB: 60
+block_num_x=100
+block_num_y=14
+sample_block_num_x=10
+sample_block_num_y=1
+r1_=360,r2_=128
+intervals=32
+treeByteSize=232, enCodeSize=6767
+[huffman]: 	ratio=26.305123, outsize=7007, time=0.000162
+totalByteLength=9648
+oriSize=184320, outSize=4756.
+[prediction]: expecting compression ratio=38.755257.
+compression time = 0.019731
+intervals=32
+treeByteSize=414, enCodeSize=945481
+[huffman]: 	ratio=27.402387, outsize=945903, time=0.021800
+totalByteLength=1002483
+compression time = 0.111960
+[ratio]:  68.885422
+EB: 80
+block_num_x=100
+block_num_y=14
+sample_block_num_x=10
+sample_block_num_y=1
+r1_=360,r2_=128
+intervals=32
+treeByteSize=414, enCodeSize=9708
+[huffman]: 	ratio=18.195459, outsize=10130, time=0.000221
+totalByteLength=11129
+oriSize=184320, outSize=10016.
+[prediction]: expecting compression ratio=18.402555.
+compression time = 0.022766
+intervals=32
+treeByteSize=428, enCodeSize=1532954
+[huffman]: 	ratio=16.903723, outsize=1533390, time=0.028538
+totalByteLength=1694614
+compression time = 0.160249
+[ratio]:  17.850698
+EB: 100
+block_num_x=100
+block_num_y=14
+sample_block_num_x=10
+sample_block_num_y=1
+r1_=360,r2_=128
+intervals=64
+treeByteSize=862, enCodeSize=18424
+[huffman]: 	ratio=9.553229, outsize=19294, time=0.000239
+totalByteLength=23589
+oriSize=184320, outSize=22200.
+[prediction]: expecting compression ratio=8.302703.
+compression time = 0.007829
+intervals=256
+treeByteSize=4564, enCodeSize=2734054
+[huffman]: 	ratio=9.464600, outsize=2738626, time=0.033461
+totalByteLength=2946344
+compression time = 0.159857
+[ratio]:  9.391872
+EB: 120
+block_num_x=100
+block_num_y=14
+sample_block_num_x=10
+sample_block_num_y=1
+r1_=360,r2_=128
+intervals=1024
+treeByteSize=14230, enCodeSize=35993
+[huffman]: 	ratio=3.669447, outsize=50231, time=0.000529
+totalByteLength=53018
+oriSize=184320, outSize=45144.
+[prediction]: expecting compression ratio=4.082934.
+compression time = 0.009988
+intervals=2048
+treeByteSize=36820, enCodeSize=4953606
+[huffman]: 	ratio=5.193937, outsize=4990434, time=0.039357
+totalByteLength=5282592
+compression time = 0.170341
+[ratio]:  5.165637
+CNT.
+DAT: eddy_velx_f4
+EBMODE: ABS
+EB: 1E-1
+intervals=65536
+treeByteSize=11188, enCodeSize=2077
+[huffman]: 	ratio=1.774429, outsize=13273, time=0.001796
+totalByteLength=18341
+oriSize=23552, outSize=11772.
+[prediction]: expecting compression ratio=2.000679.
+compression time = 0.002811
+intervals=65536
+treeByteSize=381448, enCodeSize=231539
+[huffman]: 	ratio=3.688330, outsize=612995, time=0.007554
+totalByteLength=1079953
+compression time = 0.018143
+[ratio]:  2.853251
+EB: 1E-2
+intervals=65536
+treeByteSize=17326, enCodeSize=2190
+[huffman]: 	ratio=1.206310, outsize=19524, time=0.001828
+totalByteLength=25646
+oriSize=23552, outSize=15053.
+[prediction]: expecting compression ratio=1.564605.
+compression time = 0.002961
+intervals=65536
+treeByteSize=375040, enCodeSize=243503
+[huffman]: 	ratio=3.655201, outsize=618551, time=0.010027
+totalByteLength=1190623
+compression time = 0.024468
+[ratio]:  2.630601
+EB: 1E-3
+intervals=65536
+treeByteSize=21880, enCodeSize=2040
+[huffman]: 	ratio=0.984286, outsize=23928, time=0.001822
+totalByteLength=31260
+oriSize=23552, outSize=15054.
+[prediction]: expecting compression ratio=1.564501.
+compression time = 0.002922
+intervals=65536
+treeByteSize=442414, enCodeSize=249274
+[huffman]: 	ratio=3.268673, outsize=691696, time=0.009338
+totalByteLength=1378464
+compression time = 0.022881
+[ratio]:  2.278102
+EB: 1E-4
+intervals=65536
+treeByteSize=17992, enCodeSize=1628
+[huffman]: 	ratio=1.199918, outsize=19628, time=0.001811
+totalByteLength=28903
+oriSize=23552, outSize=15053.
+[prediction]: expecting compression ratio=1.564605.
+compression time = 0.002925
+intervals=65536
+treeByteSize=1227630, enCodeSize=221050
+[huffman]: 	ratio=1.560673, outsize=1448688, time=0.017841
+totalByteLength=2326378
+compression time = 0.044262
+[ratio]:  2.074272
+EB: 1E-5
+intervals=65536
+treeByteSize=2620, enCodeSize=500
+[huffman]: 	ratio=7.529412, outsize=3128, time=0.001107
+totalByteLength=16803
+oriSize=23552, outSize=13292.
+[prediction]: expecting compression ratio=1.771893.
+compression time = 0.001803
+intervals=65536
+treeByteSize=197974, enCodeSize=57193
+[huffman]: 	ratio=8.860304, outsize=255175, time=0.004242
+totalByteLength=1558175
+compression time = 0.021735
+[ratio]:  1.981104
+EBMODE: REL
+EB: 1E-2
+intervals=32
+treeByteSize=372, enCodeSize=590
+[huffman]: 	ratio=24.280412, outsize=970, time=0.000031
+totalByteLength=1071
+oriSize=23552, outSize=669.
+[prediction]: expecting compression ratio=35.204784.
+compression time = 0.000566
+intervals=32
+treeByteSize=442, enCodeSize=53809
+[huffman]: 	ratio=41.669179, outsize=54259, time=0.001539
+totalByteLength=54768
+compression time = 0.006738
+[ratio]:  80.520246
+EB: 1E-3
+intervals=128
+treeByteSize=1478, enCodeSize=1001
+[huffman]: 	ratio=9.470044, outsize=2487, time=0.000066
+totalByteLength=2639
+oriSize=23552, outSize=1643.
+[prediction]: expecting compression ratio=14.334753.
+compression time = 0.000620
+intervals=256
+treeByteSize=4600, enCodeSize=93857
+[huffman]: 	ratio=22.961743, outsize=98465, time=0.001186
+totalByteLength=99367
+compression time = 0.004878
+[ratio]:  30.371263
+EB: 1E-4
+intervals=1024
+treeByteSize=7192, enCodeSize=1425
+[huffman]: 	ratio=2.730667, outsize=8625, time=0.000155
+totalByteLength=8829
+oriSize=23552, outSize=4519.
+[prediction]: expecting compression ratio=5.211772.
+compression time = 0.000614
+intervals=2048
+treeByteSize=34120, enCodeSize=145468
+[huffman]: 	ratio=12.588966, outsize=179596, time=0.002314
+totalByteLength=181510
+compression time = 0.007765
+[ratio]:  16.187410
+EB: 1E-5
+intervals=16384
+treeByteSize=14410, enCodeSize=1874
+[huffman]: 	ratio=1.445617, outsize=16292, time=0.000597
+totalByteLength=16428
+oriSize=23552, outSize=7980.
+[prediction]: expecting compression ratio=2.951378.
+compression time = 0.001385
+intervals=16384
+treeByteSize=191584, enCodeSize=204005
+[huffman]: 	ratio=5.715230, outsize=395597, time=0.005477
+totalByteLength=399218
+compression time = 0.012667
+[ratio]:  8.187526
+EB: 1E-6
+intervals=65536
+treeByteSize=18370, enCodeSize=2143
+[huffman]: 	ratio=1.147702, outsize=20521, time=0.001300
+totalByteLength=20931
+oriSize=23552, outSize=10156.
+[prediction]: expecting compression ratio=2.319023.
+compression time = 0.002016
+intervals=65536
+treeByteSize=885704, enCodeSize=254680
+[huffman]: 	ratio=1.982588, outsize=1140392, time=0.013220
+totalByteLength=1164372
+compression time = 0.023226
+[ratio]:  3.988758
+EBMODE: PW_REL
+EB: 1E-2
+intervals=256
+treeByteSize=3862, enCodeSize=2513
+[huffman]: 	ratio=3.689801, outsize=6383, time=0.000130
+totalByteLength=6577
+oriSize=23552, outSize=4353.
+[prediction]: expecting compression ratio=5.410522.
+compression time = 0.001077
+intervals=512
+treeByteSize=8938, enCodeSize=242446
+[huffman]: 	ratio=8.993635, outsize=251392, time=0.001843
+totalByteLength=251591
+compression time = 0.006312
+[ratio]:  9.145815
+EB: 1E-3
+intervals=4096
+treeByteSize=19396, enCodeSize=3594
+[huffman]: 	ratio=1.024089, outsize=22998, time=0.000432
+totalByteLength=23128
+oriSize=23552, outSize=12154.
+[prediction]: expecting compression ratio=1.937798.
+compression time = 0.002140
+intervals=4096
+treeByteSize=66340, enCodeSize=359504
+[huffman]: 	ratio=5.309187, outsize=425852, time=0.002549
+totalByteLength=426479
+compression time = 0.009231
+[ratio]:  5.773638
+EB: 1E-4
+intervals=32768
+treeByteSize=45532, enCodeSize=4159
+[huffman]: 	ratio=0.473893, outsize=49699, time=0.001515
+totalByteLength=49855
+oriSize=23552, outSize=15053.
+[prediction]: expecting compression ratio=1.564605.
+compression time = 0.008602
+intervals=32768
+treeByteSize=389458, enCodeSize=472754
+[huffman]: 	ratio=2.622217, outsize=862220, time=0.009491
+totalByteLength=864837
+compression time = 0.026427
+[ratio]:  3.503381
+EB: 1E-5
+intervals=65536
+treeByteSize=41680, enCodeSize=3585
+[huffman]: 	ratio=0.520222, outsize=45273, time=0.002226
+totalByteLength=47074
+oriSize=23552, outSize=15053.
+[prediction]: expecting compression ratio=1.564605.
+compression time = 0.013295
+intervals=65536
+treeByteSize=1611572, enCodeSize=482445
+[huffman]: 	ratio=1.079704, outsize=2094025, time=0.022372
+totalByteLength=2236161
+compression time = 0.053771
+[ratio]:  1.933974
+EBMODE: PSNR
+EB: 60
+intervals=64
+treeByteSize=848, enCodeSize=874
+[huffman]: 	ratio=13.613873, outsize=1730, time=0.000049
+totalByteLength=1897
+oriSize=23552, outSize=1240.
+[prediction]: expecting compression ratio=18.993547.
+compression time = 0.000671
+intervals=128
+treeByteSize=1786, enCodeSize=83924
+[huffman]: 	ratio=26.376350, outsize=85718, time=0.001530
+totalByteLength=86944
+compression time = 0.006181
+[ratio]:  36.175426
+EB: 80
+intervals=1024
+treeByteSize=6094, enCodeSize=1344
+[huffman]: 	ratio=3.163041, outsize=7446, time=0.000171
+totalByteLength=7574
+oriSize=23552, outSize=3852.
+[prediction]: expecting compression ratio=6.114226.
+compression time = 0.000697
+intervals=1024
+treeByteSize=18316, enCodeSize=131847
+[huffman]: 	ratio=15.055690, outsize=150171, time=0.001913
+totalByteLength=152711
+compression time = 0.006999
+[ratio]:  18.414914
+EB: 100
+intervals=8192
+treeByteSize=12952, enCodeSize=1749
+[huffman]: 	ratio=1.601197, outsize=14709, time=0.000390
+totalByteLength=14872
+oriSize=23552, outSize=7280.
+[prediction]: expecting compression ratio=3.235165.
+compression time = 0.001004
+intervals=16384
+treeByteSize=145666, enCodeSize=191348
+[huffman]: 	ratio=6.708547, outsize=337022, time=0.003632
+totalByteLength=338010
+compression time = 0.009065
+[ratio]:  9.481252
+EB: 120
+intervals=65536
+treeByteSize=18172, enCodeSize=2090
+[huffman]: 	ratio=1.161914, outsize=20270, time=0.001319
+totalByteLength=20480
+oriSize=23552, outSize=9936.
+[prediction]: expecting compression ratio=2.370370.
+compression time = 0.002192
+intervals=65536
+treeByteSize=535978, enCodeSize=248187
+[huffman]: 	ratio=2.883201, outsize=784173, time=0.011660
+totalByteLength=792990
+compression time = 0.020151
+[ratio]:  4.775885
+FINISHED.
