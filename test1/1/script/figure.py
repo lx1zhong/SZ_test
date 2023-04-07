@@ -1,4 +1,4 @@
-# 压缩率随压缩粒度的变化曲线图，每个数据集一个图
+# [Curve chart] Compression ratio ~ Granularity
 
 from cProfile import label
 import matplotlib.pyplot as plt
@@ -216,9 +216,9 @@ plt.subplots_adjust(left=0.1,right=0.96,bottom=0.17,top=0.96,wspace=0.32,hspace=
 # plt.tight_layout()
 # plt.subplots_adjust(wspace=0.3,hspace=0.4) #left=1,right=1,bottom=1,top=1,
 # plt.legend(loc = 'upper right')
-picpath = '/home/zhongyu/test/paper_test/test1/1/fig/ratio_part.png'
+picpath = './fig/ratio_part.png'
 plt.savefig(picpath)
-picpath_pdf = '/home/zhongyu/test/paper_test/test1/1/fig/ratio_part.pdf'
+picpath_pdf = './fig/ratio_part.pdf'
 plt.savefig(picpath_pdf)
 print(picpath_pdf)
 # plt.show()

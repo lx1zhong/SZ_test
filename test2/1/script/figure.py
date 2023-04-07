@@ -10,7 +10,7 @@ import glob2
 import os
 import brewer2mpl
 
-input_files = glob2.glob("/home/zhongyu/test/paper_test/test2/1/output/A*.txt")
+input_files = glob2.glob("./output/ABS.txt")
 
 ID = ['RATIO_ALL','CTIME_ALL','DTIME_ALL']
 RATIO_ALL = 0
@@ -296,7 +296,9 @@ for input_file in input_files:
         print(stat[CTIME_ALL][dataset][HUFFMAN])
         # print(stat[CTIME_ALL][dataset][ZFP])
         print(stat[CTIME_ALL][dataset][FSE])
-    # 总体压缩时间
+
+
+    # overall compression throughput
     i = 1
     ylims=[0,12.6,55,160,240,880,1400,6500,7000]
     fig3 = plt.figure(figsize=[6,5], dpi=100)
@@ -336,14 +338,16 @@ for input_file in input_files:
 
     # plt.subplots_adjust(left=0.06,right=0.96,bottom=0.33,top=0.93,wspace=0.4,hspace=0.6) 
     # plt.tight_layout()
-    picpath = '/home/zhongyu/test/paper_test/test2/1/fig/com_' + ebMode + '_overall.png'
+    picpath = './fig/com_' + ebMode + '_overall.png'
     plt.savefig(picpath)
-    picpath_pdf = '/home/zhongyu/test/paper_test/test2/1/fig/com_' + ebMode + '_overall.pdf'
+    picpath_pdf = './fig/com_' + ebMode + '_overall.pdf'
     plt.savefig(picpath_pdf)
     print(picpath_pdf)
 
 
-    # 总体解压时间
+
+
+    # overall decompression throughput
     i = 1
     fig4 = plt.figure(figsize=size, dpi=100)
     for dataset in filter:
@@ -382,13 +386,16 @@ for input_file in input_files:
     plt.subplots_adjust(left=0.06,right=0.96,bottom=0.16,top=0.94,wspace=0.4,hspace=0.7) 
     # plt.tight_layout()
     # plt.legend(loc = 'upper right')
-    picpath = '/home/zhongyu/test/paper_test/test2/1/fig/decom_' + ebMode + '_overall.png'
+    picpath = './fig/decom_' + ebMode + '_overall.png'
     plt.savefig(picpath)
-    picpath_pdf = '/home/zhongyu/test/paper_test/test2/1/fig/decom_' + ebMode + '_overall.pdf'
+    picpath_pdf = './fig/decom_' + ebMode + '_overall.pdf'
     plt.savefig(picpath_pdf)
     print(picpath_pdf)
 
-    # 总体压缩率
+
+
+
+    # overall compression ratio
     i = 1
     fig5 = plt.figure(figsize=[6,5], dpi=100)
     ylabels=[ 
@@ -440,9 +447,9 @@ for input_file in input_files:
 
     # plt.subplots_adjust(left=0.06,right=0.96,bottom=0.33,top=0.93,wspace=0.4,hspace=0.6) 
     # plt.tight_layout()
-    picpath = '/home/zhongyu/test/paper_test/test2/2/fig/' + ebMode + '_overall.png'
+    picpath = '../2/fig/' + ebMode + '_overall.png'
     plt.savefig(picpath)
-    picpath_pdf = '/home/zhongyu/test/paper_test/test2/2/fig/' + ebMode + '_overall.pdf'
+    picpath_pdf = '../2/fig/' + ebMode + '_overall.pdf'
     plt.savefig(picpath_pdf)
     print(picpath_pdf)
     # os.system('rm -f {} {}' .format(picpath,picpath_pdf))

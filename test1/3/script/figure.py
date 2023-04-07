@@ -10,7 +10,7 @@ import glob2
 import os
 import brewer2mpl
 
-input_files = glob2.glob("/home/zhongyu/test/paper_test/test1/3/output/[2]A*.txt")
+input_files = glob2.glob("./output/ABS.txt")
 
 ID = ['RATIO_PART','RATIO_ALL','CTIME_PART','CTIME_ALL','DTIME_PART','DTIME_ALL']
 RATIO_PART = 0
@@ -425,9 +425,9 @@ for input_file in input_files:
     plt.subplots_adjust(left=0.06,right=0.96,bottom=0.16,top=0.94,wspace=0.4,hspace=0.7) 
     # plt.tight_layout()
     # plt.legend(loc = 'upper right')
-    picpath = '/home/zhongyu/test/paper_test/test1/3/fig/rate_part.png'
+    picpath = './fig/rate_part.png'
     plt.savefig(picpath)
-    picpath_pdf = '/home/zhongyu/test/paper_test/test1/3/fig/rate_part.pdf'
+    picpath_pdf = './fig/rate_part.pdf'
     plt.savefig(picpath_pdf)
     print(picpath_pdf)
 

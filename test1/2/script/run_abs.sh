@@ -13,7 +13,7 @@ DIM=1
 TYPE=f
 
 
-output=/home/zhongyu/test/paper_test/test1/2/output/${ERROR_BOUND_MODE}.txt
+output=./output/${ERROR_BOUND_MODE}.txt
 
 dims=(1 1 1 1)
 
@@ -159,9 +159,6 @@ then
                 
                 rm -rf  $TEST_DIR"/"$dir"/"$file.sz  $TEST_DIR"/"$dir"/"$file.sz.out
 
-                # 验证压缩解压正确性
-                # /bin/python3 /home/zhongyu/tmp/check.py $((filesize_origin/type_len))
-                
             fi
             # A file
         done

@@ -10,7 +10,7 @@ import glob2
 import os
 import brewer2mpl
 
-input_file = "/home/zhongyu/test/paper_test/test2/3/output/result.txt"
+input_file = "./output/result.txt"
 
 ID = ['RATIO_ALL','CTIME_ALL','DTIME_ALL']
 RATIO_ALL = 0

@@ -1,0 +1,5602 @@
+START
+EBMODE: REL
+EB: 1E-1
+FILE: vx.dat2
+===huffman===
+intervals=32
+treeByteSize=120, enCodeSize=673700
+[huffman]: 	ratio=17.033664, outsize=673828, time=0.012059
+totalByteLength=673917
+compression time = 0.057644
+intervals=32
+treeByteSize=120, enCodeSize=673700
+[huffman]: 	ratio=17.033664, outsize=673828, time=0.012080
+totalByteLength=673917
+compression time = 0.048335
+intervals=32
+treeByteSize=120, enCodeSize=673700
+[huffman]: 	ratio=17.033664, outsize=673828, time=0.011738
+totalByteLength=673917
+compression time = 0.047199
+604104/11477760
+[decoder]: time=0.025567
+decompression time = 0.037741 seconds.
+[decoder]: time=0.022233
+decompression time = 0.034026 seconds.
+[decoder]: time=0.022194
+decompression time = 0.034417 seconds.
+===fse===
+intervals=32
+fse_size=623685, streamSize=1
+[fse]: 		ratio=18.402871, outsize=623694, time=0.012806
+totalByteLength=623783
+compression time = 0.053363
+intervals=32
+fse_size=623685, streamSize=1
+[fse]: 		ratio=18.402871, outsize=623694, time=0.012437
+totalByteLength=623783
+compression time = 0.047406
+intervals=32
+fse_size=623685, streamSize=1
+[fse]: 		ratio=18.402871, outsize=623694, time=0.012882
+totalByteLength=623783
+compression time = 0.049035
+623807/11477760
+[decoder]: time=0.019085
+decompression time = 0.034068 seconds.
+[decoder]: time=0.012798
+decompression time = 0.026509 seconds.
+[decoder]: time=0.012589
+decompression time = 0.026300 seconds.
+FILE: vy.dat2
+===huffman===
+intervals=32
+treeByteSize=134, enCodeSize=680026
+[huffman]: 	ratio=16.874890, outsize=680168, time=0.011860
+totalByteLength=680257
+compression time = 0.049054
+intervals=32
+treeByteSize=134, enCodeSize=680026
+[huffman]: 	ratio=16.874890, outsize=680168, time=0.011696
+totalByteLength=680257
+compression time = 0.046728
+intervals=32
+treeByteSize=134, enCodeSize=680026
+[huffman]: 	ratio=16.874890, outsize=680168, time=0.011983
+totalByteLength=680257
+compression time = 0.048190
+614624/11477760
+[decoder]: time=0.030502
+decompression time = 0.043414 seconds.
+[decoder]: time=0.022316
+decompression time = 0.034572 seconds.
+[decoder]: time=0.025303
+decompression time = 0.038000 seconds.
+===fse===
+intervals=32
+fse_size=634278, streamSize=1
+[fse]: 		ratio=18.095531, outsize=634287, time=0.013379
+totalByteLength=634376
+compression time = 0.053970
+intervals=32
+fse_size=634278, streamSize=1
+[fse]: 		ratio=18.095531, outsize=634287, time=0.013168
+totalByteLength=634376
+compression time = 0.048748
+intervals=32
+fse_size=634278, streamSize=1
+[fse]: 		ratio=18.095531, outsize=634287, time=0.013189
+totalByteLength=634376
+compression time = 0.053224
+634400/11477760
+[decoder]: time=0.015594
+decompression time = 0.029481 seconds.
+[decoder]: time=0.016704
+decompression time = 0.034358 seconds.
+[decoder]: time=0.012758
+decompression time = 0.025822 seconds.
+FILE: vz.dat2
+===huffman===
+intervals=32
+treeByteSize=134, enCodeSize=676742
+[huffman]: 	ratio=16.956761, outsize=676884, time=0.011955
+totalByteLength=676973
+compression time = 0.048626
+intervals=32
+treeByteSize=134, enCodeSize=676742
+[huffman]: 	ratio=16.956761, outsize=676884, time=0.011729
+totalByteLength=676973
+compression time = 0.047655
+intervals=32
+treeByteSize=134, enCodeSize=676742
+[huffman]: 	ratio=16.956761, outsize=676884, time=0.012055
+totalByteLength=676973
+compression time = 0.047454
+608087/11477760
+[decoder]: time=0.025435
+decompression time = 0.039600 seconds.
+[decoder]: time=0.022404
+decompression time = 0.034185 seconds.
+[decoder]: time=0.022204
+decompression time = 0.033837 seconds.
+===fse===
+intervals=32
+fse_size=627684, streamSize=1
+[fse]: 		ratio=18.285627, outsize=627693, time=0.012635
+totalByteLength=627782
+compression time = 0.047812
+intervals=32
+fse_size=627684, streamSize=1
+[fse]: 		ratio=18.285627, outsize=627693, time=0.013119
+totalByteLength=627782
+compression time = 0.053834
+intervals=32
+fse_size=627684, streamSize=1
+[fse]: 		ratio=18.285627, outsize=627693, time=0.012966
+totalByteLength=627782
+compression time = 0.047886
+627806/11477760
+[decoder]: time=0.013320
+decompression time = 0.026451 seconds.
+[decoder]: time=0.016822
+decompression time = 0.030893 seconds.
+[decoder]: time=0.016554
+decompression time = 0.031348 seconds.
+FILE: xx.dat2
+===huffman===
+intervals=32
+treeByteSize=120, enCodeSize=495161
+[huffman]: 	ratio=23.173864, outsize=495289, time=0.010583
+totalByteLength=495379
+compression time = 0.056945
+intervals=32
+treeByteSize=120, enCodeSize=495161
+[huffman]: 	ratio=23.173864, outsize=495289, time=0.010772
+totalByteLength=495379
+compression time = 0.054645
+intervals=32
+treeByteSize=120, enCodeSize=495161
+[huffman]: 	ratio=23.173864, outsize=495289, time=0.010522
+totalByteLength=495379
+compression time = 0.056127
+284539/11477760
+[decoder]: time=0.016194
+decompression time = 0.028522 seconds.
+[decoder]: time=0.014220
+decompression time = 0.025902 seconds.
+[decoder]: time=0.013408
+decompression time = 0.025623 seconds.
+===fse===
+intervals=32
+fse_size=385440, streamSize=1
+[fse]: 		ratio=29.777636, outsize=385449, time=0.012981
+totalByteLength=385539
+compression time = 0.049696
+intervals=32
+fse_size=385440, streamSize=1
+[fse]: 		ratio=29.777636, outsize=385449, time=0.012935
+totalByteLength=385539
+compression time = 0.052521
+intervals=32
+fse_size=385440, streamSize=1
+[fse]: 		ratio=29.777636, outsize=385449, time=0.013081
+totalByteLength=385539
+compression time = 0.048629
+385557/11477760
+[decoder]: time=0.019565
+decompression time = 0.034413 seconds.
+[decoder]: time=0.012916
+decompression time = 0.025811 seconds.
+[decoder]: time=0.016819
+decompression time = 0.029597 seconds.
+FILE: yy.dat2
+===huffman===
+intervals=32
+treeByteSize=106, enCodeSize=484837
+[huffman]: 	ratio=23.667876, outsize=484951, time=0.010398
+totalByteLength=485040
+compression time = 0.056759
+intervals=32
+treeByteSize=106, enCodeSize=484837
+[huffman]: 	ratio=23.667876, outsize=484951, time=0.010098
+totalByteLength=485040
+compression time = 0.048998
+intervals=32
+treeByteSize=106, enCodeSize=484837
+[huffman]: 	ratio=23.667876, outsize=484951, time=0.010429
+totalByteLength=485040
+compression time = 0.056597
+264083/11477760
+[decoder]: time=0.016655
+decompression time = 0.028650 seconds.
+[decoder]: time=0.017252
+decompression time = 0.033827 seconds.
+[decoder]: time=0.014703
+decompression time = 0.026662 seconds.
+===fse===
+intervals=32
+fse_size=367239, streamSize=1
+[fse]: 		ratio=31.253431, outsize=367248, time=0.012753
+totalByteLength=367337
+compression time = 0.047767
+intervals=32
+fse_size=367239, streamSize=1
+[fse]: 		ratio=31.253431, outsize=367248, time=0.012775
+totalByteLength=367337
+compression time = 0.047876
+intervals=32
+fse_size=367239, streamSize=1
+[fse]: 		ratio=31.253431, outsize=367248, time=0.012867
+totalByteLength=367337
+compression time = 0.048214
+367355/11477760
+[decoder]: time=0.016108
+decompression time = 0.029217 seconds.
+[decoder]: time=0.013444
+decompression time = 0.026807 seconds.
+[decoder]: time=0.013914
+decompression time = 0.027292 seconds.
+FILE: zz.dat2
+===huffman===
+intervals=32
+treeByteSize=120, enCodeSize=545528
+[huffman]: 	ratio=21.034791, outsize=545656, time=0.011259
+totalByteLength=545745
+compression time = 0.058336
+intervals=32
+treeByteSize=120, enCodeSize=545528
+[huffman]: 	ratio=21.034791, outsize=545656, time=0.011330
+totalByteLength=545745
+compression time = 0.059010
+intervals=32
+treeByteSize=120, enCodeSize=545528
+[huffman]: 	ratio=21.034791, outsize=545656, time=0.011201
+totalByteLength=545745
+compression time = 0.051032
+374918/11477760
+[decoder]: time=0.019402
+decompression time = 0.032362 seconds.
+[decoder]: time=0.016294
+decompression time = 0.028437 seconds.
+[decoder]: time=0.016452
+decompression time = 0.028591 seconds.
+===fse===
+intervals=32
+fse_size=465298, streamSize=1
+[fse]: 		ratio=24.667069, outsize=465307, time=0.012857
+totalByteLength=465396
+compression time = 0.048478
+intervals=32
+fse_size=465298, streamSize=1
+[fse]: 		ratio=24.667069, outsize=465307, time=0.012820
+totalByteLength=465396
+compression time = 0.048470
+intervals=32
+fse_size=465298, streamSize=1
+[fse]: 		ratio=24.667069, outsize=465307, time=0.012719
+totalByteLength=465396
+compression time = 0.048142
+465417/11477760
+[decoder]: time=0.018436
+decompression time = 0.033707 seconds.
+[decoder]: time=0.012813
+decompression time = 0.026218 seconds.
+[decoder]: time=0.012891
+decompression time = 0.025871 seconds.
+CNT:
+EB: 1E-2
+FILE: vx.dat2
+===huffman===
+intervals=64
+treeByteSize=890, enCodeSize=1743010
+[huffman]: 	ratio=6.581632, outsize=1743908, time=0.014712
+totalByteLength=1744012
+compression time = 0.052828
+intervals=64
+treeByteSize=890, enCodeSize=1743010
+[huffman]: 	ratio=6.581632, outsize=1743908, time=0.014621
+totalByteLength=1744012
+compression time = 0.051906
+intervals=64
+treeByteSize=890, enCodeSize=1743010
+[huffman]: 	ratio=6.581632, outsize=1743908, time=0.014911
+totalByteLength=1744012
+compression time = 0.052844
+1744064/11477760
+[decoder]: time=0.039833
+decompression time = 0.051817 seconds.
+[decoder]: time=0.039359
+decompression time = 0.051052 seconds.
+[decoder]: time=0.039650
+decompression time = 0.051390 seconds.
+===fse===
+intervals=64
+fse_size=1724435, streamSize=8918
+[fse]: 		ratio=6.621679, outsize=1733361, time=0.013324
+totalByteLength=1733465
+compression time = 0.052320
+intervals=64
+fse_size=1724435, streamSize=8918
+[fse]: 		ratio=6.621679, outsize=1733361, time=0.016294
+totalByteLength=1733465
+compression time = 0.058787
+intervals=64
+fse_size=1724435, streamSize=8918
+[fse]: 		ratio=6.621679, outsize=1733361, time=0.013406
+totalByteLength=1733465
+compression time = 0.051010
+1733517/11477760
+[decoder]: time=0.017088
+decompression time = 0.031060 seconds.
+[decoder]: time=0.018020
+decompression time = 0.036629 seconds.
+[decoder]: time=0.013958
+decompression time = 0.028226 seconds.
+FILE: vy.dat2
+===huffman===
+intervals=64
+treeByteSize=890, enCodeSize=1760841
+[huffman]: 	ratio=6.515017, outsize=1761739, time=0.015111
+totalByteLength=1761879
+compression time = 0.056208
+intervals=64
+treeByteSize=890, enCodeSize=1760841
+[huffman]: 	ratio=6.515017, outsize=1761739, time=0.015116
+totalByteLength=1761879
+compression time = 0.052283
+intervals=64
+treeByteSize=890, enCodeSize=1760841
+[huffman]: 	ratio=6.515017, outsize=1761739, time=0.014979
+totalByteLength=1761879
+compression time = 0.052034
+1761931/11477760
+[decoder]: time=0.042634
+decompression time = 0.054882 seconds.
+[decoder]: time=0.039771
+decompression time = 0.051570 seconds.
+[decoder]: time=0.043369
+decompression time = 0.055318 seconds.
+===fse===
+intervals=64
+fse_size=1739054, streamSize=10745
+[fse]: 		ratio=6.559443, outsize=1749807, time=0.013157
+totalByteLength=1749947
+compression time = 0.050220
+intervals=64
+fse_size=1739054, streamSize=10745
+[fse]: 		ratio=6.559443, outsize=1749807, time=0.013459
+totalByteLength=1749947
+compression time = 0.050913
+intervals=64
+fse_size=1739054, streamSize=10745
+[fse]: 		ratio=6.559443, outsize=1749807, time=0.013523
+totalByteLength=1749947
+compression time = 0.058223
+1749999/11477760
+[decoder]: time=0.020227
+decompression time = 0.035496 seconds.
+[decoder]: time=0.013881
+decompression time = 0.027857 seconds.
+[decoder]: time=0.018083
+decompression time = 0.033631 seconds.
+FILE: vz.dat2
+===huffman===
+intervals=64
+treeByteSize=890, enCodeSize=1748988
+[huffman]: 	ratio=6.559147, outsize=1749886, time=0.014813
+totalByteLength=1750003
+compression time = 0.054441
+intervals=64
+treeByteSize=890, enCodeSize=1748988
+[huffman]: 	ratio=6.559147, outsize=1749886, time=0.014803
+totalByteLength=1750003
+compression time = 0.051199
+intervals=64
+treeByteSize=890, enCodeSize=1748988
+[huffman]: 	ratio=6.559147, outsize=1749886, time=0.014920
+totalByteLength=1750003
+compression time = 0.051569
+1750055/11477760
+[decoder]: time=0.045651
+decompression time = 0.057938 seconds.
+[decoder]: time=0.039280
+decompression time = 0.050774 seconds.
+[decoder]: time=0.039229
+decompression time = 0.051116 seconds.
+===fse===
+intervals=64
+fse_size=1729604, streamSize=9429
+[fse]: 		ratio=6.600051, outsize=1739041, time=0.013464
+totalByteLength=1739158
+compression time = 0.050248
+intervals=64
+fse_size=1729604, streamSize=9429
+[fse]: 		ratio=6.600051, outsize=1739041, time=0.013560
+totalByteLength=1739158
+compression time = 0.051125
+intervals=64
+fse_size=1729604, streamSize=9429
+[fse]: 		ratio=6.600051, outsize=1739041, time=0.013731
+totalByteLength=1739158
+compression time = 0.051196
+1739210/11477760
+[decoder]: time=0.018528
+decompression time = 0.033971 seconds.
+[decoder]: time=0.016544
+decompression time = 0.031753 seconds.
+[decoder]: time=0.013850
+decompression time = 0.027451 seconds.
+FILE: xx.dat2
+===huffman===
+intervals=32
+treeByteSize=442, enCodeSize=1366234
+[huffman]: 	ratio=8.398254, outsize=1366684, time=0.013341
+totalByteLength=1367290
+compression time = 0.051269
+intervals=32
+treeByteSize=442, enCodeSize=1366234
+[huffman]: 	ratio=8.398254, outsize=1366684, time=0.013282
+totalByteLength=1367290
+compression time = 0.051075
+intervals=32
+treeByteSize=442, enCodeSize=1366234
+[huffman]: 	ratio=8.398254, outsize=1366684, time=0.013219
+totalByteLength=1367290
+compression time = 0.050935
+1367333/11477760
+[decoder]: time=0.037095
+decompression time = 0.049070 seconds.
+[decoder]: time=0.034226
+decompression time = 0.045860 seconds.
+[decoder]: time=0.034153
+decompression time = 0.045721 seconds.
+===fse===
+intervals=32
+fse_size=1355680, streamSize=1
+[fse]: 		ratio=8.466367, outsize=1355689, time=0.013561
+totalByteLength=1356295
+compression time = 0.050621
+intervals=32
+fse_size=1355680, streamSize=1
+[fse]: 		ratio=8.466367, outsize=1355689, time=0.013137
+totalByteLength=1356295
+compression time = 0.049626
+intervals=32
+fse_size=1355680, streamSize=1
+[fse]: 		ratio=8.466367, outsize=1355689, time=0.013325
+totalByteLength=1356295
+compression time = 0.050040
+1356338/11477760
+[decoder]: time=0.012846
+decompression time = 0.026312 seconds.
+[decoder]: time=0.012797
+decompression time = 0.026618 seconds.
+[decoder]: time=0.012362
+decompression time = 0.026094 seconds.
+FILE: yy.dat2
+===huffman===
+intervals=32
+treeByteSize=442, enCodeSize=1343123
+[huffman]: 	ratio=8.542714, outsize=1343573, time=0.014096
+totalByteLength=1344392
+compression time = 0.051782
+intervals=32
+treeByteSize=442, enCodeSize=1343123
+[huffman]: 	ratio=8.542714, outsize=1343573, time=0.013871
+totalByteLength=1344392
+compression time = 0.050487
+intervals=32
+treeByteSize=442, enCodeSize=1343123
+[huffman]: 	ratio=8.542714, outsize=1343573, time=0.013962
+totalByteLength=1344392
+compression time = 0.051005
+1344435/11477760
+[decoder]: time=0.040864
+decompression time = 0.053219 seconds.
+[decoder]: time=0.037567
+decompression time = 0.049564 seconds.
+[decoder]: time=0.034195
+decompression time = 0.045915 seconds.
+===fse===
+intervals=32
+fse_size=1334375, streamSize=1
+[fse]: 		ratio=8.601542, outsize=1334384, time=0.013458
+totalByteLength=1335203
+compression time = 0.049950
+intervals=32
+fse_size=1334375, streamSize=1
+[fse]: 		ratio=8.601542, outsize=1334384, time=0.013338
+totalByteLength=1335203
+compression time = 0.049703
+intervals=32
+fse_size=1334375, streamSize=1
+[fse]: 		ratio=8.601542, outsize=1334384, time=0.013302
+totalByteLength=1335203
+compression time = 0.051525
+1335246/11477760
+[decoder]: time=0.015232
+decompression time = 0.029127 seconds.
+[decoder]: time=0.016505
+decompression time = 0.031895 seconds.
+[decoder]: time=0.012582
+decompression time = 0.026196 seconds.
+FILE: zz.dat2
+===huffman===
+intervals=32
+treeByteSize=442, enCodeSize=1520141
+[huffman]: 	ratio=7.548223, outsize=1520591, time=0.013646
+totalByteLength=1522036
+compression time = 0.055888
+intervals=32
+treeByteSize=442, enCodeSize=1520141
+[huffman]: 	ratio=7.548223, outsize=1520591, time=0.013628
+totalByteLength=1522036
+compression time = 0.050334
+intervals=32
+treeByteSize=442, enCodeSize=1520141
+[huffman]: 	ratio=7.548223, outsize=1520591, time=0.013573
+totalByteLength=1522036
+compression time = 0.050512
+1522082/11477760
+[decoder]: time=0.041576
+decompression time = 0.053663 seconds.
+[decoder]: time=0.032475
+decompression time = 0.044373 seconds.
+[decoder]: time=0.039527
+decompression time = 0.052284 seconds.
+===fse===
+intervals=32
+fse_size=1505077, streamSize=1
+[fse]: 		ratio=7.625983, outsize=1505086, time=0.013392
+totalByteLength=1506531
+compression time = 0.050468
+intervals=32
+fse_size=1505077, streamSize=1
+[fse]: 		ratio=7.625983, outsize=1505086, time=0.013379
+totalByteLength=1506531
+compression time = 0.050198
+intervals=32
+fse_size=1505077, streamSize=1
+[fse]: 		ratio=7.625983, outsize=1505086, time=0.013303
+totalByteLength=1506531
+compression time = 0.050272
+1506577/11477760
+[decoder]: time=0.017044
+decompression time = 0.032723 seconds.
+[decoder]: time=0.012535
+decompression time = 0.026274 seconds.
+[decoder]: time=0.012558
+decompression time = 0.026215 seconds.
+CNT:
+EB: 1E-3
+FILE: vx.dat2
+===huffman===
+intervals=512
+treeByteSize=9208, enCodeSize=2937610
+[huffman]: 	ratio=3.894957, outsize=2946826, time=0.015289
+totalByteLength=2948228
+compression time = 0.055358
+intervals=512
+treeByteSize=9208, enCodeSize=2937610
+[huffman]: 	ratio=3.894957, outsize=2946826, time=0.015163
+totalByteLength=2948228
+compression time = 0.062003
+intervals=512
+treeByteSize=9208, enCodeSize=2937610
+[huffman]: 	ratio=3.894957, outsize=2946826, time=0.015144
+totalByteLength=2948228
+compression time = 0.054272
+2943970/11477760
+[decoder]: time=0.054272
+decompression time = 0.067226 seconds.
+[decoder]: time=0.052644
+decompression time = 0.065021 seconds.
+[decoder]: time=0.052461
+decompression time = 0.064807 seconds.
+===fse===
+intervals=512
+fse_size=1710830, streamSize=1241290
+[fse]: 		ratio=3.887961, outsize=2952128, time=0.013822
+totalByteLength=2953530
+compression time = 0.053510
+intervals=512
+fse_size=1710830, streamSize=1241290
+[fse]: 		ratio=3.887961, outsize=2952128, time=0.013710
+totalByteLength=2953530
+compression time = 0.056871
+intervals=512
+fse_size=1710830, streamSize=1241290
+[fse]: 		ratio=3.887961, outsize=2952128, time=0.013626
+totalByteLength=2953530
+compression time = 0.053381
+2953609/11477760
+[decoder]: time=0.024052
+decompression time = 0.039709 seconds.
+[decoder]: time=0.018572
+decompression time = 0.032879 seconds.
+[decoder]: time=0.018888
+decompression time = 0.033101 seconds.
+FILE: vy.dat2
+===huffman===
+intervals=512
+treeByteSize=9208, enCodeSize=2953846
+[huffman]: 	ratio=3.873615, outsize=2963062, time=0.014900
+totalByteLength=2965346
+compression time = 0.059557
+intervals=512
+treeByteSize=9208, enCodeSize=2953846
+[huffman]: 	ratio=3.873615, outsize=2963062, time=0.015457
+totalByteLength=2965346
+compression time = 0.054592
+intervals=512
+treeByteSize=9208, enCodeSize=2953846
+[huffman]: 	ratio=3.873615, outsize=2963062, time=0.015139
+totalByteLength=2965346
+compression time = 0.053753
+2961075/11477760
+[decoder]: time=0.057154
+decompression time = 0.069956 seconds.
+[decoder]: time=0.056343
+decompression time = 0.069653 seconds.
+[decoder]: time=0.049832
+decompression time = 0.062079 seconds.
+===fse===
+intervals=512
+fse_size=1699586, streamSize=1268728
+[fse]: 		ratio=3.866750, outsize=2968322, time=0.013732
+totalByteLength=2970606
+compression time = 0.053249
+intervals=512
+fse_size=1699586, streamSize=1268728
+[fse]: 		ratio=3.866750, outsize=2968322, time=0.013863
+totalByteLength=2970606
+compression time = 0.053093
+intervals=512
+fse_size=1699586, streamSize=1268728
+[fse]: 		ratio=3.866750, outsize=2968322, time=0.013936
+totalByteLength=2970606
+compression time = 0.053946
+2970685/11477760
+[decoder]: time=0.021225
+decompression time = 0.036414 seconds.
+[decoder]: time=0.018428
+decompression time = 0.032871 seconds.
+[decoder]: time=0.018417
+decompression time = 0.032905 seconds.
+FILE: vz.dat2
+===huffman===
+intervals=512
+treeByteSize=9208, enCodeSize=2943378
+[huffman]: 	ratio=3.887348, outsize=2952594, time=0.015584
+totalByteLength=2954114
+compression time = 0.060170
+intervals=512
+treeByteSize=9208, enCodeSize=2943378
+[huffman]: 	ratio=3.887348, outsize=2952594, time=0.015234
+totalByteLength=2954114
+compression time = 0.054268
+intervals=512
+treeByteSize=9208, enCodeSize=2943378
+[huffman]: 	ratio=3.887348, outsize=2952594, time=0.015421
+totalByteLength=2954114
+compression time = 0.055065
+2949858/11477760
+[decoder]: time=0.058810
+decompression time = 0.073089 seconds.
+[decoder]: time=0.051984
+decompression time = 0.064794 seconds.
+[decoder]: time=0.051759
+decompression time = 0.063999 seconds.
+===fse===
+intervals=512
+fse_size=1706864, streamSize=1251016
+[fse]: 		ratio=3.880390, outsize=2957888, time=0.013715
+totalByteLength=2959408
+compression time = 0.058157
+intervals=512
+fse_size=1706864, streamSize=1251016
+[fse]: 		ratio=3.880390, outsize=2957888, time=0.013314
+totalByteLength=2959408
+compression time = 0.052022
+intervals=512
+fse_size=1706864, streamSize=1251016
+[fse]: 		ratio=3.880390, outsize=2957888, time=0.013651
+totalByteLength=2959408
+compression time = 0.052586
+2959487/11477760
+[decoder]: time=0.023524
+decompression time = 0.039305 seconds.
+[decoder]: time=0.018754
+decompression time = 0.033273 seconds.
+[decoder]: time=0.023397
+decompression time = 0.039209 seconds.
+FILE: xx.dat2
+===huffman===
+intervals=256
+treeByteSize=4600, enCodeSize=2556297
+[huffman]: 	ratio=4.481916, outsize=2560905, time=0.015764
+totalByteLength=2563008
+compression time = 0.056513
+intervals=256
+treeByteSize=4600, enCodeSize=2556297
+[huffman]: 	ratio=4.481916, outsize=2560905, time=0.015500
+totalByteLength=2563008
+compression time = 0.053585
+intervals=256
+treeByteSize=4600, enCodeSize=2556297
+[huffman]: 	ratio=4.481916, outsize=2560905, time=0.015512
+totalByteLength=2563008
+compression time = 0.056930
+2560828/11477760
+[decoder]: time=0.054981
+decompression time = 0.067936 seconds.
+[decoder]: time=0.046174
+decompression time = 0.058323 seconds.
+[decoder]: time=0.046306
+decompression time = 0.058658 seconds.
+===fse===
+intervals=256
+fse_size=1945288, streamSize=621605
+[fse]: 		ratio=4.471446, outsize=2566901, time=0.013922
+totalByteLength=2569004
+compression time = 0.056887
+intervals=256
+fse_size=1945288, streamSize=621605
+[fse]: 		ratio=4.471446, outsize=2566901, time=0.013744
+totalByteLength=2569004
+compression time = 0.052849
+intervals=256
+fse_size=1945288, streamSize=621605
+[fse]: 		ratio=4.471446, outsize=2566901, time=0.013937
+totalByteLength=2569004
+compression time = 0.052958
+2569074/11477760
+[decoder]: time=0.025028
+decompression time = 0.040108 seconds.
+[decoder]: time=0.021764
+decompression time = 0.036122 seconds.
+[decoder]: time=0.021677
+decompression time = 0.036304 seconds.
+FILE: yy.dat2
+===huffman===
+intervals=256
+treeByteSize=4600, enCodeSize=2534421
+[huffman]: 	ratio=4.520531, outsize=2539029, time=0.015867
+totalByteLength=2541186
+compression time = 0.061739
+intervals=256
+treeByteSize=4600, enCodeSize=2534421
+[huffman]: 	ratio=4.520531, outsize=2539029, time=0.016267
+totalByteLength=2541186
+compression time = 0.054985
+intervals=256
+treeByteSize=4600, enCodeSize=2534421
+[huffman]: 	ratio=4.520531, outsize=2539029, time=0.015983
+totalByteLength=2541186
+compression time = 0.054509
+2539026/11477760
+[decoder]: time=0.051873
+decompression time = 0.064543 seconds.
+[decoder]: time=0.048843
+decompression time = 0.061134 seconds.
+[decoder]: time=0.053178
+decompression time = 0.065720 seconds.
+===fse===
+intervals=256
+fse_size=1957626, streamSize=585723
+[fse]: 		ratio=4.512839, outsize=2543357, time=0.013627
+totalByteLength=2545514
+compression time = 0.052588
+intervals=256
+fse_size=1957626, streamSize=585723
+[fse]: 		ratio=4.512839, outsize=2543357, time=0.013645
+totalByteLength=2545514
+compression time = 0.052329
+intervals=256
+fse_size=1957626, streamSize=585723
+[fse]: 		ratio=4.512839, outsize=2543357, time=0.014134
+totalByteLength=2545514
+compression time = 0.052724
+2545584/11477760
+[decoder]: time=0.024975
+decompression time = 0.039581 seconds.
+[decoder]: time=0.027458
+decompression time = 0.042449 seconds.
+[decoder]: time=0.022015
+decompression time = 0.036114 seconds.
+FILE: zz.dat2
+===huffman===
+intervals=256
+treeByteSize=4600, enCodeSize=2697884
+[huffman]: 	ratio=4.247102, outsize=2702492, time=0.015146
+totalByteLength=2711354
+compression time = 0.054058
+intervals=256
+treeByteSize=4600, enCodeSize=2697884
+[huffman]: 	ratio=4.247102, outsize=2702492, time=0.015205
+totalByteLength=2711354
+compression time = 0.053782
+intervals=256
+treeByteSize=4600, enCodeSize=2697884
+[huffman]: 	ratio=4.247102, outsize=2702492, time=0.014916
+totalByteLength=2711354
+compression time = 0.053547
+2709111/11477760
+[decoder]: time=0.048820
+decompression time = 0.061506 seconds.
+[decoder]: time=0.055563
+decompression time = 0.068481 seconds.
+[decoder]: time=0.052550
+decompression time = 0.067532 seconds.
+===fse===
+intervals=256
+fse_size=1850235, streamSize=870286
+[fse]: 		ratio=4.218944, outsize=2720529, time=0.013775
+totalByteLength=2729391
+compression time = 0.060089
+intervals=256
+fse_size=1850235, streamSize=870286
+[fse]: 		ratio=4.218944, outsize=2720529, time=0.013408
+totalByteLength=2729391
+compression time = 0.052707
+intervals=256
+fse_size=1850235, streamSize=870286
+[fse]: 		ratio=4.218944, outsize=2720529, time=0.013719
+totalByteLength=2729391
+compression time = 0.057382
+2729464/11477760
+[decoder]: time=0.023114
+decompression time = 0.038283 seconds.
+[decoder]: time=0.020083
+decompression time = 0.034485 seconds.
+[decoder]: time=0.020092
+decompression time = 0.034721 seconds.
+CNT:
+EB: 1E-4
+FILE: vx.dat2
+===huffman===
+intervals=4096
+treeByteSize=73720, enCodeSize=4111278
+[huffman]: 	ratio=2.742591, outsize=4185006, time=0.017895
+totalByteLength=4207941
+compression time = 0.059556
+intervals=4096
+treeByteSize=73720, enCodeSize=4111278
+[huffman]: 	ratio=2.742591, outsize=4185006, time=0.017664
+totalByteLength=4207941
+compression time = 0.064281
+intervals=4096
+treeByteSize=73720, enCodeSize=4111278
+[huffman]: 	ratio=2.742591, outsize=4185006, time=0.017792
+totalByteLength=4207941
+compression time = 0.059947
+4168499/11477760
+[decoder]: time=0.093468
+decompression time = 0.107590 seconds.
+[decoder]: time=0.094747
+decompression time = 0.109129 seconds.
+[decoder]: time=0.091021
+decompression time = 0.104567 seconds.
+===fse===
+intervals=4096
+fse_size=1319728, streamSize=2812091
+[fse]: 		ratio=2.777890, outsize=4131827, time=0.014556
+totalByteLength=4154762
+compression time = 0.055632
+intervals=4096
+fse_size=1319728, streamSize=2812091
+[fse]: 		ratio=2.777890, outsize=4131827, time=0.014319
+totalByteLength=4154762
+compression time = 0.056140
+intervals=4096
+fse_size=1319728, streamSize=2812091
+[fse]: 		ratio=2.777890, outsize=4131827, time=0.014561
+totalByteLength=4154762
+compression time = 0.056375
+4154868/11477760
+[decoder]: time=0.017505
+decompression time = 0.033666 seconds.
+[decoder]: time=0.015662
+decompression time = 0.030865 seconds.
+[decoder]: time=0.018460
+decompression time = 0.034239 seconds.
+FILE: vy.dat2
+===huffman===
+intervals=4096
+treeByteSize=73720, enCodeSize=4123192
+[huffman]: 	ratio=2.734806, outsize=4196920, time=0.017623
+totalByteLength=4228326
+compression time = 0.064851
+intervals=4096
+treeByteSize=73720, enCodeSize=4123192
+[huffman]: 	ratio=2.734806, outsize=4196920, time=0.017759
+totalByteLength=4228326
+compression time = 0.059001
+intervals=4096
+treeByteSize=73720, enCodeSize=4123192
+[huffman]: 	ratio=2.734806, outsize=4196920, time=0.017941
+totalByteLength=4228326
+compression time = 0.060017
+4185936/11477760
+[decoder]: time=0.096490
+decompression time = 0.110516 seconds.
+[decoder]: time=0.092298
+decompression time = 0.105697 seconds.
+[decoder]: time=0.092291
+decompression time = 0.105731 seconds.
+===fse===
+intervals=4096
+fse_size=1317414, streamSize=2826251
+[fse]: 		ratio=2.769948, outsize=4143673, time=0.014257
+totalByteLength=4175079
+compression time = 0.060231
+intervals=4096
+fse_size=1317414, streamSize=2826251
+[fse]: 		ratio=2.769948, outsize=4143673, time=0.014778
+totalByteLength=4175079
+compression time = 0.056994
+intervals=4096
+fse_size=1317414, streamSize=2826251
+[fse]: 		ratio=2.769948, outsize=4143673, time=0.014680
+totalByteLength=4175079
+compression time = 0.056635
+4175185/11477760
+[decoder]: time=0.016888
+decompression time = 0.033213 seconds.
+[decoder]: time=0.015648
+decompression time = 0.030862 seconds.
+[decoder]: time=0.019917
+decompression time = 0.036890 seconds.
+FILE: vz.dat2
+===huffman===
+intervals=4096
+treeByteSize=73720, enCodeSize=4115820
+[huffman]: 	ratio=2.739618, outsize=4189548, time=0.018445
+totalByteLength=4214375
+compression time = 0.065576
+intervals=4096
+treeByteSize=73720, enCodeSize=4115820
+[huffman]: 	ratio=2.739618, outsize=4189548, time=0.017940
+totalByteLength=4214375
+compression time = 0.059770
+intervals=4096
+treeByteSize=73720, enCodeSize=4115820
+[huffman]: 	ratio=2.739618, outsize=4189548, time=0.019676
+totalByteLength=4214375
+compression time = 0.062767
+4173829/11477760
+[decoder]: time=0.096403
+decompression time = 0.110184 seconds.
+[decoder]: time=0.092154
+decompression time = 0.105928 seconds.
+[decoder]: time=0.092459
+decompression time = 0.106220 seconds.
+===fse===
+intervals=4096
+fse_size=1317929, streamSize=2818561
+[fse]: 		ratio=2.774753, outsize=4136498, time=0.014393
+totalByteLength=4161325
+compression time = 0.056356
+intervals=4096
+fse_size=1317929, streamSize=2818561
+[fse]: 		ratio=2.774753, outsize=4136498, time=0.014641
+totalByteLength=4161325
+compression time = 0.056374
+intervals=4096
+fse_size=1317929, streamSize=2818561
+[fse]: 		ratio=2.774753, outsize=4136498, time=0.014831
+totalByteLength=4161325
+compression time = 0.056727
+4161431/11477760
+[decoder]: time=0.020068
+decompression time = 0.036981 seconds.
+[decoder]: time=0.015858
+decompression time = 0.031270 seconds.
+[decoder]: time=0.022233
+decompression time = 0.038946 seconds.
+FILE: xx.dat2
+===huffman===
+intervals=2048
+treeByteSize=36856, enCodeSize=3739667
+[huffman]: 	ratio=3.039234, outsize=3776531, time=0.016749
+totalByteLength=3783528
+compression time = 0.058078
+intervals=2048
+treeByteSize=36856, enCodeSize=3739667
+[huffman]: 	ratio=3.039234, outsize=3776531, time=0.016965
+totalByteLength=3783528
+compression time = 0.057363
+intervals=2048
+treeByteSize=36856, enCodeSize=3739667
+[huffman]: 	ratio=3.039234, outsize=3776531, time=0.016622
+totalByteLength=3783528
+compression time = 0.057569
+3765944/11477760
+[decoder]: time=0.067942
+decompression time = 0.081939 seconds.
+[decoder]: time=0.071138
+decompression time = 0.084732 seconds.
+[decoder]: time=0.065392
+decompression time = 0.078471 seconds.
+===fse===
+intervals=2048
+fse_size=1362208, streamSize=2402841
+[fse]: 		ratio=3.048496, outsize=3765057, time=0.014200
+totalByteLength=3772054
+compression time = 0.056488
+intervals=2048
+fse_size=1362208, streamSize=2402841
+[fse]: 		ratio=3.048496, outsize=3765057, time=0.014496
+totalByteLength=3772054
+compression time = 0.054758
+intervals=2048
+fse_size=1362208, streamSize=2402841
+[fse]: 		ratio=3.048496, outsize=3765057, time=0.014028
+totalByteLength=3772054
+compression time = 0.059970
+3772151/11477760
+[decoder]: time=0.017192
+decompression time = 0.033265 seconds.
+[decoder]: time=0.016133
+decompression time = 0.031004 seconds.
+[decoder]: time=0.016276
+decompression time = 0.031177 seconds.
+FILE: yy.dat2
+===huffman===
+intervals=2048
+treeByteSize=36730, enCodeSize=3721398
+[huffman]: 	ratio=3.054110, outsize=3758136, time=0.017039
+totalByteLength=3764132
+compression time = 0.058673
+intervals=2048
+treeByteSize=36730, enCodeSize=3721398
+[huffman]: 	ratio=3.054110, outsize=3758136, time=0.016796
+totalByteLength=3764132
+compression time = 0.057836
+intervals=2048
+treeByteSize=36730, enCodeSize=3721398
+[huffman]: 	ratio=3.054110, outsize=3758136, time=0.016700
+totalByteLength=3764132
+compression time = 0.057801
+3746250/11477760
+[decoder]: time=0.066449
+decompression time = 0.079637 seconds.
+[decoder]: time=0.066547
+decompression time = 0.079433 seconds.
+[decoder]: time=0.065992
+decompression time = 0.078566 seconds.
+===fse===
+intervals=2048
+fse_size=1377224, streamSize=2371396
+[fse]: 		ratio=3.061856, outsize=3748628, time=0.014440
+totalByteLength=3754624
+compression time = 0.056958
+intervals=2048
+fse_size=1377224, streamSize=2371396
+[fse]: 		ratio=3.061856, outsize=3748628, time=0.014508
+totalByteLength=3754624
+compression time = 0.055315
+intervals=2048
+fse_size=1377224, streamSize=2371396
+[fse]: 		ratio=3.061856, outsize=3748628, time=0.014248
+totalByteLength=3754624
+compression time = 0.055016
+3754721/11477760
+[decoder]: time=0.020404
+decompression time = 0.036463 seconds.
+[decoder]: time=0.016332
+decompression time = 0.031242 seconds.
+[decoder]: time=0.016304
+decompression time = 0.031665 seconds.
+FILE: zz.dat2
+===huffman===
+intervals=4096
+treeByteSize=61480, enCodeSize=3894556
+[huffman]: 	ratio=2.901323, outsize=3956044, time=0.017428
+totalByteLength=3956942
+compression time = 0.058862
+intervals=4096
+treeByteSize=61480, enCodeSize=3894556
+[huffman]: 	ratio=2.901323, outsize=3956044, time=0.017287
+totalByteLength=3956942
+compression time = 0.059004
+intervals=4096
+treeByteSize=61480, enCodeSize=3894556
+[huffman]: 	ratio=2.901323, outsize=3956044, time=0.017526
+totalByteLength=3956942
+compression time = 0.059002
+3924516/11477760
+[decoder]: time=0.087636
+decompression time = 0.101565 seconds.
+[decoder]: time=0.085500
+decompression time = 0.098386 seconds.
+[decoder]: time=0.084967
+decompression time = 0.097930 seconds.
+===fse===
+intervals=4096
+fse_size=1326972, streamSize=2585156
+[fse]: 		ratio=2.933886, outsize=3912136, time=0.014167
+totalByteLength=3913034
+compression time = 0.056907
+intervals=4096
+fse_size=1326972, streamSize=2585156
+[fse]: 		ratio=2.933886, outsize=3912136, time=0.014415
+totalByteLength=3913034
+compression time = 0.060343
+intervals=4096
+fse_size=1326972, streamSize=2585156
+[fse]: 		ratio=2.933886, outsize=3912136, time=0.014376
+totalByteLength=3913034
+compression time = 0.054616
+3913134/11477760
+[decoder]: time=0.019518
+decompression time = 0.036475 seconds.
+[decoder]: time=0.016057
+decompression time = 0.031037 seconds.
+[decoder]: time=0.020195
+decompression time = 0.036778 seconds.
+CNT:
+EB: 1E-5
+FILE: vx.dat2
+===huffman===
+intervals=65536
+treeByteSize=1198666, enCodeSize=5310166
+[huffman]: 	ratio=1.763411, outsize=6508840, time=0.046166
+totalByteLength=6512043
+compression time = 0.100517
+intervals=65536
+treeByteSize=1198666, enCodeSize=5310166
+[huffman]: 	ratio=1.763411, outsize=6508840, time=0.045340
+totalByteLength=6512043
+compression time = 0.095057
+intervals=65536
+treeByteSize=1198666, enCodeSize=5310166
+[huffman]: 	ratio=1.763411, outsize=6508840, time=0.045820
+totalByteLength=6512043
+compression time = 0.095585
+5722742/11477760
+[decoder]: time=0.193038
+decompression time = 0.210849 seconds.
+[decoder]: time=0.190100
+decompression time = 0.207225 seconds.
+[decoder]: time=0.190136
+decompression time = 0.206921 seconds.
+===fse===
+intervals=65536
+fse_size=1280858, streamSize=4056857
+[fse]: 		ratio=2.150310, outsize=5337723, time=0.014909
+totalByteLength=5340926
+compression time = 0.057469
+intervals=65536
+fse_size=1280858, streamSize=4056857
+[fse]: 		ratio=2.150310, outsize=5337723, time=0.014785
+totalByteLength=5340926
+compression time = 0.065660
+intervals=65536
+fse_size=1280858, streamSize=4056857
+[fse]: 		ratio=2.150310, outsize=5337723, time=0.014749
+totalByteLength=5340926
+compression time = 0.057648
+5341059/11477760
+[decoder]: time=0.019690
+decompression time = 0.037294 seconds.
+[decoder]: time=0.015548
+decompression time = 0.031404 seconds.
+[decoder]: time=0.019090
+decompression time = 0.035894 seconds.
+FILE: vy.dat2
+===huffman===
+intervals=65536
+treeByteSize=1234416, enCodeSize=5327555
+[huffman]: 	ratio=1.749131, outsize=6561979, time=0.044538
+totalByteLength=6565884
+compression time = 0.094750
+intervals=65536
+treeByteSize=1234416, enCodeSize=5327555
+[huffman]: 	ratio=1.749131, outsize=6561979, time=0.046656
+totalByteLength=6565884
+compression time = 0.102434
+intervals=65536
+treeByteSize=1234416, enCodeSize=5327555
+[huffman]: 	ratio=1.749131, outsize=6561979, time=0.045301
+totalByteLength=6565884
+compression time = 0.095624
+5752196/11477760
+[decoder]: time=0.195923
+decompression time = 0.213064 seconds.
+[decoder]: time=0.192576
+decompression time = 0.207967 seconds.
+[decoder]: time=0.193544
+decompression time = 0.210802 seconds.
+===fse===
+intervals=65536
+fse_size=1281060, streamSize=4073354
+[fse]: 		ratio=2.143604, outsize=5354422, time=0.014986
+totalByteLength=5358327
+compression time = 0.058172
+intervals=65536
+fse_size=1281060, streamSize=4073354
+[fse]: 		ratio=2.143604, outsize=5354422, time=0.014934
+totalByteLength=5358327
+compression time = 0.058488
+intervals=65536
+fse_size=1281060, streamSize=4073354
+[fse]: 		ratio=2.143604, outsize=5354422, time=0.015274
+totalByteLength=5358327
+compression time = 0.057919
+5358460/11477760
+[decoder]: time=0.017354
+decompression time = 0.034405 seconds.
+[decoder]: time=0.015649
+decompression time = 0.031529 seconds.
+[decoder]: time=0.015621
+decompression time = 0.031396 seconds.
+FILE: vz.dat2
+===huffman===
+intervals=65536
+treeByteSize=1207558, enCodeSize=5315928
+[huffman]: 	ratio=1.759450, outsize=6523494, time=0.045193
+totalByteLength=6528268
+compression time = 0.102633
+intervals=65536
+treeByteSize=1207558, enCodeSize=5315928
+[huffman]: 	ratio=1.759450, outsize=6523494, time=0.044476
+totalByteLength=6528268
+compression time = 0.094588
+intervals=65536
+treeByteSize=1207558, enCodeSize=5315928
+[huffman]: 	ratio=1.759450, outsize=6523494, time=0.044843
+totalByteLength=6528268
+compression time = 0.094273
+5732462/11477760
+[decoder]: time=0.195506
+decompression time = 0.212728 seconds.
+[decoder]: time=0.190264
+decompression time = 0.205770 seconds.
+[decoder]: time=0.195747
+decompression time = 0.212975 seconds.
+===fse===
+intervals=65536
+fse_size=1280559, streamSize=4062583
+[fse]: 		ratio=2.148126, outsize=5343150, time=0.014719
+totalByteLength=5347924
+compression time = 0.057389
+intervals=65536
+fse_size=1280559, streamSize=4062583
+[fse]: 		ratio=2.148126, outsize=5343150, time=0.014814
+totalByteLength=5347924
+compression time = 0.065522
+intervals=65536
+fse_size=1280559, streamSize=4062583
+[fse]: 		ratio=2.148126, outsize=5343150, time=0.015168
+totalByteLength=5347924
+compression time = 0.060271
+5348057/11477760
+[decoder]: time=0.017303
+decompression time = 0.034292 seconds.
+[decoder]: time=0.015592
+decompression time = 0.031423 seconds.
+[decoder]: time=0.015566
+decompression time = 0.031427 seconds.
+FILE: xx.dat2
+===huffman===
+intervals=16384
+treeByteSize=294904, enCodeSize=4895645
+[huffman]: 	ratio=2.211277, outsize=5190557, time=0.024933
+totalByteLength=5264561
+compression time = 0.075813
+intervals=16384
+treeByteSize=294904, enCodeSize=4895645
+[huffman]: 	ratio=2.211277, outsize=5190557, time=0.025118
+totalByteLength=5264561
+compression time = 0.070097
+intervals=16384
+treeByteSize=294904, enCodeSize=4895645
+[huffman]: 	ratio=2.211277, outsize=5190557, time=0.025086
+totalByteLength=5264561
+compression time = 0.074664
+5089315/11477760
+[decoder]: time=0.128518
+decompression time = 0.144408 seconds.
+[decoder]: time=0.125979
+decompression time = 0.140683 seconds.
+[decoder]: time=0.128822
+decompression time = 0.146773 seconds.
+===fse===
+intervals=16384
+fse_size=1269499, streamSize=3644617
+[fse]: 		ratio=2.335668, outsize=4914124, time=0.014727
+totalByteLength=4988128
+compression time = 0.057558
+intervals=16384
+fse_size=1269499, streamSize=3644617
+[fse]: 		ratio=2.335668, outsize=4914124, time=0.014928
+totalByteLength=4988128
+compression time = 0.058367
+intervals=16384
+fse_size=1269499, streamSize=3644617
+[fse]: 		ratio=2.335668, outsize=4914124, time=0.014797
+totalByteLength=4988128
+compression time = 0.062169
+4984404/11477760
+[decoder]: time=0.021824
+decompression time = 0.039572 seconds.
+[decoder]: time=0.015821
+decompression time = 0.031833 seconds.
+[decoder]: time=0.015951
+decompression time = 0.032072 seconds.
+FILE: yy.dat2
+===huffman===
+intervals=16384
+treeByteSize=294904, enCodeSize=4886914
+[huffman]: 	ratio=2.215003, outsize=5181826, time=0.025066
+totalByteLength=5225509
+compression time = 0.074881
+intervals=16384
+treeByteSize=294904, enCodeSize=4886914
+[huffman]: 	ratio=2.215003, outsize=5181826, time=0.025258
+totalByteLength=5225509
+compression time = 0.070598
+intervals=16384
+treeByteSize=294904, enCodeSize=4886914
+[huffman]: 	ratio=2.215003, outsize=5181826, time=0.025386
+totalByteLength=5225509
+compression time = 0.074718
+5054576/11477760
+[decoder]: time=0.127787
+decompression time = 0.143334 seconds.
+[decoder]: time=0.128723
+decompression time = 0.143807 seconds.
+[decoder]: time=0.133869
+decompression time = 0.149341 seconds.
+===fse===
+intervals=16384
+fse_size=1275928, streamSize=3631946
+[fse]: 		ratio=2.338638, outsize=4907882, time=0.014658
+totalByteLength=4951565
+compression time = 0.062029
+intervals=16384
+fse_size=1275928, streamSize=3631946
+[fse]: 		ratio=2.338638, outsize=4907882, time=0.014631
+totalByteLength=4951565
+compression time = 0.059705
+intervals=16384
+fse_size=1275928, streamSize=3631946
+[fse]: 		ratio=2.338638, outsize=4907882, time=0.015003
+totalByteLength=4951565
+compression time = 0.057984
+4951689/11477760
+[decoder]: time=0.016839
+decompression time = 0.034084 seconds.
+[decoder]: time=0.015543
+decompression time = 0.031448 seconds.
+[decoder]: time=0.019348
+decompression time = 0.037436 seconds.
+FILE: zz.dat2
+===huffman===
+intervals=32768
+treeByteSize=493426, enCodeSize=5086665
+[huffman]: 	ratio=2.056910, outsize=5580099, time=0.032542
+totalByteLength=5583768
+compression time = 0.079819
+intervals=32768
+treeByteSize=493426, enCodeSize=5086665
+[huffman]: 	ratio=2.056910, outsize=5580099, time=0.032022
+totalByteLength=5583768
+compression time = 0.078223
+intervals=32768
+treeByteSize=493426, enCodeSize=5086665
+[huffman]: 	ratio=2.056910, outsize=5580099, time=0.032031
+totalByteLength=5583768
+compression time = 0.078089
+5301848/11477760
+[decoder]: time=0.145715
+decompression time = 0.161336 seconds.
+[decoder]: time=0.143248
+decompression time = 0.157961 seconds.
+[decoder]: time=0.144296
+decompression time = 0.159152 seconds.
+===fse===
+intervals=32768
+fse_size=1273587, streamSize=3842015
+[fse]: 		ratio=2.243674, outsize=5115610, time=0.014811
+totalByteLength=5119279
+compression time = 0.057543
+intervals=32768
+fse_size=1273587, streamSize=3842015
+[fse]: 		ratio=2.243674, outsize=5115610, time=0.015147
+totalByteLength=5119279
+compression time = 0.058432
+intervals=32768
+fse_size=1273587, streamSize=3842015
+[fse]: 		ratio=2.243674, outsize=5115610, time=0.015019
+totalByteLength=5119279
+compression time = 0.057790
+5119230/11477760
+[decoder]: time=0.017030
+decompression time = 0.033800 seconds.
+[decoder]: time=0.017647
+decompression time = 0.034188 seconds.
+[decoder]: time=0.015589
+decompression time = 0.031232 seconds.
+CNT:
+EBMODE: PW_REL
+EB: 1E-1
+FILE: vx.dat2
+===huffman===
+intervals=64
+treeByteSize=890, enCodeSize=1845006
+[huffman]: 	ratio=6.217961, outsize=1845904, time=0.016325
+totalByteLength=2419429
+compression time = 0.084498
+intervals=64
+treeByteSize=890, enCodeSize=1845006
+[huffman]: 	ratio=6.217961, outsize=1845904, time=0.016415
+totalByteLength=2419429
+compression time = 0.084374
+intervals=64
+treeByteSize=890, enCodeSize=1845006
+[huffman]: 	ratio=6.217961, outsize=1845904, time=0.016108
+totalByteLength=2419429
+compression time = 0.089380
+2414511/11477760
+[decoder]: time=0.018580
+decompression time = 0.052886 seconds.
+[decoder]: time=0.018784
+decompression time = 0.053039 seconds.
+[decoder]: time=0.018837
+decompression time = 0.053359 seconds.
+===fse===
+intervals=64
+fse_size=1802928, streamSize=32121
+[fse]: 		ratio=6.254716, outsize=1835057, time=0.013240
+totalByteLength=2408582
+compression time = 0.081565
+intervals=64
+fse_size=1802928, streamSize=32121
+[fse]: 		ratio=6.254716, outsize=1835057, time=0.013209
+totalByteLength=2408582
+compression time = 0.081269
+intervals=64
+fse_size=1802928, streamSize=32121
+[fse]: 		ratio=6.254716, outsize=1835057, time=0.013452
+totalByteLength=2408582
+compression time = 0.081625
+2402988/11477760
+[decoder]: time=0.017617
+decompression time = 0.053699 seconds.
+[decoder]: time=0.014813
+decompression time = 0.050530 seconds.
+[decoder]: time=0.014577
+decompression time = 0.050579 seconds.
+FILE: vy.dat2
+===huffman===
+intervals=64
+treeByteSize=890, enCodeSize=1844826
+[huffman]: 	ratio=6.218568, outsize=1845724, time=0.016128
+totalByteLength=2419452
+compression time = 0.085124
+intervals=64
+treeByteSize=890, enCodeSize=1844826
+[huffman]: 	ratio=6.218568, outsize=1845724, time=0.015836
+totalByteLength=2419452
+compression time = 0.089140
+intervals=64
+treeByteSize=890, enCodeSize=1844826
+[huffman]: 	ratio=6.218568, outsize=1845724, time=0.016106
+totalByteLength=2419452
+compression time = 0.083401
+2414121/11477760
+[decoder]: time=0.026520
+decompression time = 0.061896 seconds.
+[decoder]: time=0.023728
+decompression time = 0.058336 seconds.
+[decoder]: time=0.018710
+decompression time = 0.052516 seconds.
+===fse===
+intervals=64
+fse_size=1802946, streamSize=32092
+[fse]: 		ratio=6.254753, outsize=1835046, time=0.013132
+totalByteLength=2408774
+compression time = 0.081266
+intervals=64
+fse_size=1802946, streamSize=32092
+[fse]: 		ratio=6.254753, outsize=1835046, time=0.012987
+totalByteLength=2408774
+compression time = 0.080802
+intervals=64
+fse_size=1802946, streamSize=32092
+[fse]: 		ratio=6.254753, outsize=1835046, time=0.013165
+totalByteLength=2408774
+compression time = 0.080509
+2402923/11477760
+[decoder]: time=0.019353
+decompression time = 0.058882 seconds.
+[decoder]: time=0.014878
+decompression time = 0.050692 seconds.
+[decoder]: time=0.014893
+decompression time = 0.050988 seconds.
+FILE: vz.dat2
+===huffman===
+intervals=64
+treeByteSize=890, enCodeSize=1844943
+[huffman]: 	ratio=6.218174, outsize=1845841, time=0.016509
+totalByteLength=2419435
+compression time = 0.084863
+intervals=64
+treeByteSize=890, enCodeSize=1844943
+[huffman]: 	ratio=6.218174, outsize=1845841, time=0.016503
+totalByteLength=2419435
+compression time = 0.084824
+intervals=64
+treeByteSize=890, enCodeSize=1844943
+[huffman]: 	ratio=6.218174, outsize=1845841, time=0.016238
+totalByteLength=2419435
+compression time = 0.084274
+2414690/11477760
+[decoder]: time=0.026362
+decompression time = 0.062015 seconds.
+[decoder]: time=0.023320
+decompression time = 0.058707 seconds.
+[decoder]: time=0.019077
+decompression time = 0.053019 seconds.
+===fse===
+intervals=64
+fse_size=1803033, streamSize=32166
+[fse]: 		ratio=6.254205, outsize=1835207, time=0.013083
+totalByteLength=2408801
+compression time = 0.083509
+intervals=64
+fse_size=1803033, streamSize=32166
+[fse]: 		ratio=6.254205, outsize=1835207, time=0.013242
+totalByteLength=2408801
+compression time = 0.081445
+intervals=64
+fse_size=1803033, streamSize=32166
+[fse]: 		ratio=6.254205, outsize=1835207, time=0.013553
+totalByteLength=2408801
+compression time = 0.081435
+2403379/11477760
+[decoder]: time=0.017972
+decompression time = 0.054157 seconds.
+[decoder]: time=0.015309
+decompression time = 0.051393 seconds.
+[decoder]: time=0.014953
+decompression time = 0.051334 seconds.
+FILE: xx.dat2
+===huffman===
+intervals=64
+treeByteSize=890, enCodeSize=1728332
+[huffman]: 	ratio=6.637498, outsize=1729230, time=0.015527
+totalByteLength=2135110
+compression time = 0.078259
+intervals=64
+treeByteSize=890, enCodeSize=1728332
+[huffman]: 	ratio=6.637498, outsize=1729230, time=0.015512
+totalByteLength=2135110
+compression time = 0.077688
+intervals=64
+treeByteSize=890, enCodeSize=1728332
+[huffman]: 	ratio=6.637498, outsize=1729230, time=0.015810
+totalByteLength=2135110
+compression time = 0.077865
+2131719/11477760
+[decoder]: time=0.026150
+decompression time = 0.055681 seconds.
+[decoder]: time=0.018730
+decompression time = 0.046779 seconds.
+[decoder]: time=0.018649
+decompression time = 0.046726 seconds.
+===fse===
+intervals=64
+fse_size=1694280, streamSize=21123
+[fse]: 		ratio=6.690968, outsize=1715411, time=0.013257
+totalByteLength=2121291
+compression time = 0.073896
+intervals=64
+fse_size=1694280, streamSize=21123
+[fse]: 		ratio=6.690968, outsize=1715411, time=0.013463
+totalByteLength=2121291
+compression time = 0.075114
+intervals=64
+fse_size=1694280, streamSize=21123
+[fse]: 		ratio=6.690968, outsize=1715411, time=0.013423
+totalByteLength=2121291
+compression time = 0.074045
+2117404/11477760
+[decoder]: time=0.019001
+decompression time = 0.052577 seconds.
+[decoder]: time=0.014585
+decompression time = 0.044739 seconds.
+[decoder]: time=0.015004
+decompression time = 0.045331 seconds.
+FILE: yy.dat2
+===huffman===
+intervals=32
+treeByteSize=442, enCodeSize=1244845
+[huffman]: 	ratio=9.216900, outsize=1245295, time=0.014367
+totalByteLength=1336489
+compression time = 0.072243
+intervals=32
+treeByteSize=442, enCodeSize=1244845
+[huffman]: 	ratio=9.216900, outsize=1245295, time=0.014568
+totalByteLength=1336489
+compression time = 0.067652
+intervals=32
+treeByteSize=442, enCodeSize=1244845
+[huffman]: 	ratio=9.216900, outsize=1245295, time=0.014799
+totalByteLength=1336489
+compression time = 0.067615
+1328972/11477760
+[decoder]: time=0.024005
+decompression time = 0.048693 seconds.
+[decoder]: time=0.017755
+decompression time = 0.039235 seconds.
+[decoder]: time=0.023009
+decompression time = 0.046121 seconds.
+===fse===
+intervals=32
+fse_size=1229768, streamSize=1
+[fse]: 		ratio=9.333204, outsize=1229777, time=0.012980
+totalByteLength=1320971
+compression time = 0.064873
+intervals=32
+fse_size=1229768, streamSize=1
+[fse]: 		ratio=9.333204, outsize=1229777, time=0.013242
+totalByteLength=1320971
+compression time = 0.067466
+intervals=32
+fse_size=1229768, streamSize=1
+[fse]: 		ratio=9.333204, outsize=1229777, time=0.013333
+totalByteLength=1320971
+compression time = 0.065429
+1311276/11477760
+[decoder]: time=0.016949
+decompression time = 0.042862 seconds.
+[decoder]: time=0.012802
+decompression time = 0.036528 seconds.
+[decoder]: time=0.015905
+decompression time = 0.040405 seconds.
+FILE: zz.dat2
+===huffman===
+intervals=64
+treeByteSize=890, enCodeSize=1646327
+[huffman]: 	ratio=6.967937, outsize=1647225, time=0.016354
+totalByteLength=1904193
+compression time = 0.078908
+intervals=64
+treeByteSize=890, enCodeSize=1646327
+[huffman]: 	ratio=6.967937, outsize=1647225, time=0.015925
+totalByteLength=1904193
+compression time = 0.072995
+intervals=64
+treeByteSize=890, enCodeSize=1646327
+[huffman]: 	ratio=6.967937, outsize=1647225, time=0.015967
+totalByteLength=1904193
+compression time = 0.073827
+1902411/11477760
+[decoder]: time=0.023820
+decompression time = 0.051596 seconds.
+[decoder]: time=0.018164
+decompression time = 0.042521 seconds.
+[decoder]: time=0.018336
+decompression time = 0.043323 seconds.
+===fse===
+intervals=64
+fse_size=1619291, streamSize=15377
+[fse]: 		ratio=7.021428, outsize=1634676, time=0.013407
+totalByteLength=1891644
+compression time = 0.070032
+intervals=64
+fse_size=1619291, streamSize=15377
+[fse]: 		ratio=7.021428, outsize=1634676, time=0.013112
+totalByteLength=1891644
+compression time = 0.077592
+intervals=64
+fse_size=1619291, streamSize=15377
+[fse]: 		ratio=7.021428, outsize=1634676, time=0.013359
+totalByteLength=1891644
+compression time = 0.069914
+1890044/11477760
+[decoder]: time=0.018428
+decompression time = 0.047516 seconds.
+[decoder]: time=0.014006
+decompression time = 0.040899 seconds.
+[decoder]: time=0.014083
+decompression time = 0.041034 seconds.
+CNT:
+EB: 1E-2
+FILE: vx.dat2
+===huffman===
+intervals=512
+treeByteSize=9208, enCodeSize=2993462
+[huffman]: 	ratio=3.822508, outsize=3002678, time=0.015350
+totalByteLength=3620307
+compression time = 0.093820
+intervals=512
+treeByteSize=9208, enCodeSize=2993462
+[huffman]: 	ratio=3.822508, outsize=3002678, time=0.014821
+totalByteLength=3620307
+compression time = 0.086787
+intervals=512
+treeByteSize=9208, enCodeSize=2993462
+[huffman]: 	ratio=3.822508, outsize=3002678, time=0.015193
+totalByteLength=3620307
+compression time = 0.087534
+3602310/11477760
+[decoder]: time=0.018385
+decompression time = 0.053792 seconds.
+[decoder]: time=0.018211
+decompression time = 0.053019 seconds.
+[decoder]: time=0.018138
+decompression time = 0.053298 seconds.
+===fse===
+intervals=512
+fse_size=1747481, streamSize=1250674
+[fse]: 		ratio=3.828264, outsize=2998163, time=0.013646
+totalByteLength=3615792
+compression time = 0.085504
+intervals=512
+fse_size=1747481, streamSize=1250674
+[fse]: 		ratio=3.828264, outsize=2998163, time=0.013629
+totalByteLength=3615792
+compression time = 0.085518
+intervals=512
+fse_size=1747481, streamSize=1250674
+[fse]: 		ratio=3.828264, outsize=2998163, time=0.013688
+totalByteLength=3615792
+compression time = 0.086164
+3601849/11477760
+[decoder]: time=0.023585
+decompression time = 0.061744 seconds.
+[decoder]: time=0.018663
+decompression time = 0.055241 seconds.
+[decoder]: time=0.018515
+decompression time = 0.054751 seconds.
+FILE: vy.dat2
+===huffman===
+intervals=512
+treeByteSize=9208, enCodeSize=2993394
+[huffman]: 	ratio=3.822594, outsize=3002610, time=0.015475
+totalByteLength=3620230
+compression time = 0.094777
+intervals=512
+treeByteSize=9208, enCodeSize=2993394
+[huffman]: 	ratio=3.822594, outsize=3002610, time=0.015277
+totalByteLength=3620230
+compression time = 0.086993
+intervals=512
+treeByteSize=9208, enCodeSize=2993394
+[huffman]: 	ratio=3.822594, outsize=3002610, time=0.015229
+totalByteLength=3620230
+compression time = 0.092336
+3602167/11477760
+[decoder]: time=0.018544
+decompression time = 0.053197 seconds.
+[decoder]: time=0.018328
+decompression time = 0.053036 seconds.
+[decoder]: time=0.018045
+decompression time = 0.053066 seconds.
+===fse===
+intervals=512
+fse_size=1747164, streamSize=1251057
+[fse]: 		ratio=3.828180, outsize=2998229, time=0.013754
+totalByteLength=3615849
+compression time = 0.085502
+intervals=512
+fse_size=1747164, streamSize=1251057
+[fse]: 		ratio=3.828180, outsize=2998229, time=0.014059
+totalByteLength=3615849
+compression time = 0.085745
+intervals=512
+fse_size=1747164, streamSize=1251057
+[fse]: 		ratio=3.828180, outsize=2998229, time=0.013836
+totalByteLength=3615849
+compression time = 0.086177
+3601756/11477760
+[decoder]: time=0.020590
+decompression time = 0.058373 seconds.
+[decoder]: time=0.018544
+decompression time = 0.055509 seconds.
+[decoder]: time=0.019017
+decompression time = 0.055742 seconds.
+FILE: vz.dat2
+===huffman===
+intervals=512
+treeByteSize=9208, enCodeSize=2993760
+[huffman]: 	ratio=3.822128, outsize=3002976, time=0.015123
+totalByteLength=3620183
+compression time = 0.087302
+intervals=512
+treeByteSize=9208, enCodeSize=2993760
+[huffman]: 	ratio=3.822128, outsize=3002976, time=0.015343
+totalByteLength=3620183
+compression time = 0.086933
+intervals=512
+treeByteSize=9208, enCodeSize=2993760
+[huffman]: 	ratio=3.822128, outsize=3002976, time=0.015293
+totalByteLength=3620183
+compression time = 0.087169
+3602532/11477760
+[decoder]: time=0.025171
+decompression time = 0.062570 seconds.
+[decoder]: time=0.017997
+decompression time = 0.052944 seconds.
+[decoder]: time=0.018129
+decompression time = 0.053290 seconds.
+===fse===
+intervals=512
+fse_size=1747481, streamSize=1250940
+[fse]: 		ratio=3.827925, outsize=2998429, time=0.014103
+totalByteLength=3615636
+compression time = 0.093955
+intervals=512
+fse_size=1747481, streamSize=1250940
+[fse]: 		ratio=3.827925, outsize=2998429, time=0.013707
+totalByteLength=3615636
+compression time = 0.092070
+intervals=512
+fse_size=1747481, streamSize=1250940
+[fse]: 		ratio=3.827925, outsize=2998429, time=0.013608
+totalByteLength=3615636
+compression time = 0.087589
+3601764/11477760
+[decoder]: time=0.019871
+decompression time = 0.057374 seconds.
+[decoder]: time=0.019150
+decompression time = 0.056241 seconds.
+[decoder]: time=0.025347
+decompression time = 0.063578 seconds.
+FILE: xx.dat2
+===huffman===
+intervals=512
+treeByteSize=9208, enCodeSize=2876087
+[huffman]: 	ratio=3.978009, outsize=2885303, time=0.014964
+totalByteLength=3319858
+compression time = 0.082649
+intervals=512
+treeByteSize=9208, enCodeSize=2876087
+[huffman]: 	ratio=3.978009, outsize=2885303, time=0.014904
+totalByteLength=3319858
+compression time = 0.078215
+intervals=512
+treeByteSize=9208, enCodeSize=2876087
+[huffman]: 	ratio=3.978009, outsize=2885303, time=0.014836
+totalByteLength=3319858
+compression time = 0.078840
+3306797/11477760
+[decoder]: time=0.020004
+decompression time = 0.049418 seconds.
+[decoder]: time=0.020006
+decompression time = 0.049223 seconds.
+[decoder]: time=0.019923
+decompression time = 0.049304 seconds.
+===fse===
+intervals=512
+fse_size=1888352, streamSize=994198
+[fse]: 		ratio=3.981797, outsize=2882558, time=0.013481
+totalByteLength=3317113
+compression time = 0.077279
+intervals=512
+fse_size=1888352, streamSize=994198
+[fse]: 		ratio=3.981797, outsize=2882558, time=0.013867
+totalByteLength=3317113
+compression time = 0.077308
+intervals=512
+fse_size=1888352, streamSize=994198
+[fse]: 		ratio=3.981797, outsize=2882558, time=0.013563
+totalByteLength=3317113
+compression time = 0.081090
+3307816/11477760
+[decoder]: time=0.025723
+decompression time = 0.058361 seconds.
+[decoder]: time=0.020328
+decompression time = 0.051631 seconds.
+[decoder]: time=0.020389
+decompression time = 0.051657 seconds.
+FILE: yy.dat2
+===huffman===
+intervals=256
+treeByteSize=4600, enCodeSize=2386411
+[huffman]: 	ratio=4.800363, outsize=2391019, time=0.016307
+totalByteLength=2512616
+compression time = 0.076226
+intervals=256
+treeByteSize=4600, enCodeSize=2386411
+[huffman]: 	ratio=4.800363, outsize=2391019, time=0.016857
+totalByteLength=2512616
+compression time = 0.076146
+intervals=256
+treeByteSize=4600, enCodeSize=2386411
+[huffman]: 	ratio=4.800363, outsize=2391019, time=0.016850
+totalByteLength=2512616
+compression time = 0.071561
+2499605/11477760
+[decoder]: time=0.021657
+decompression time = 0.044280 seconds.
+[decoder]: time=0.018812
+decompression time = 0.040899 seconds.
+[decoder]: time=0.019047
+decompression time = 0.040997 seconds.
+===fse===
+intervals=256
+fse_size=2034515, streamSize=342739
+[fse]: 		ratio=4.828143, outsize=2377262, time=0.013222
+totalByteLength=2498859
+compression time = 0.066403
+intervals=256
+fse_size=2034515, streamSize=342739
+[fse]: 		ratio=4.828143, outsize=2377262, time=0.013555
+totalByteLength=2498859
+compression time = 0.067724
+intervals=256
+fse_size=2034515, streamSize=342739
+[fse]: 		ratio=4.828143, outsize=2377262, time=0.013706
+totalByteLength=2498859
+compression time = 0.067887
+2487642/11477760
+[decoder]: time=0.029488
+decompression time = 0.055037 seconds.
+[decoder]: time=0.021742
+decompression time = 0.045966 seconds.
+[decoder]: time=0.022382
+decompression time = 0.046868 seconds.
+FILE: zz.dat2
+===huffman===
+intervals=512
+treeByteSize=9208, enCodeSize=2803179
+[huffman]: 	ratio=4.081134, outsize=2812395, time=0.015436
+totalByteLength=3089768
+compression time = 0.076497
+intervals=512
+treeByteSize=9208, enCodeSize=2803179
+[huffman]: 	ratio=4.081134, outsize=2812395, time=0.015784
+totalByteLength=3089768
+compression time = 0.075563
+intervals=512
+treeByteSize=9208, enCodeSize=2803179
+[huffman]: 	ratio=4.081134, outsize=2812395, time=0.015277
+totalByteLength=3089768
+compression time = 0.075004
+3081120/11477760
+[decoder]: time=0.027171
+decompression time = 0.054134 seconds.
+[decoder]: time=0.022095
+decompression time = 0.047134 seconds.
+[decoder]: time=0.021838
+decompression time = 0.046759 seconds.
+===fse===
+intervals=512
+fse_size=1943803, streamSize=860136
+[fse]: 		ratio=4.093430, outsize=2803947, time=0.013718
+totalByteLength=3081320
+compression time = 0.072836
+intervals=512
+fse_size=1943803, streamSize=860136
+[fse]: 		ratio=4.093430, outsize=2803947, time=0.013538
+totalByteLength=3081320
+compression time = 0.078215
+intervals=512
+fse_size=1943803, streamSize=860136
+[fse]: 		ratio=4.093430, outsize=2803947, time=0.013487
+totalByteLength=3081320
+compression time = 0.081004
+3076423/11477760
+[decoder]: time=0.026638
+decompression time = 0.055833 seconds.
+[decoder]: time=0.026294
+decompression time = 0.057364 seconds.
+[decoder]: time=0.021066
+decompression time = 0.048868 seconds.
+CNT:
+EB: 1E-3
+FILE: vx.dat2
+===huffman===
+intervals=8192
+treeByteSize=145486, enCodeSize=4205617
+[huffman]: 	ratio=2.637892, outsize=4351111, time=0.018858
+totalByteLength=4905479
+compression time = 0.101079
+intervals=8192
+treeByteSize=145486, enCodeSize=4205617
+[huffman]: 	ratio=2.637892, outsize=4351111, time=0.019004
+totalByteLength=4905479
+compression time = 0.106620
+intervals=8192
+treeByteSize=145486, enCodeSize=4205617
+[huffman]: 	ratio=2.637892, outsize=4351111, time=0.019352
+totalByteLength=4905479
+compression time = 0.102712
+4824583/11477760
+[decoder]: time=0.032111
+decompression time = 0.068760 seconds.
+[decoder]: time=0.031646
+decompression time = 0.066971 seconds.
+[decoder]: time=0.031317
+decompression time = 0.066819 seconds.
+===fse===
+intervals=8192
+fse_size=1375099, streamSize=2845964
+[fse]: 		ratio=2.719158, outsize=4221071, time=0.013703
+totalByteLength=4775439
+compression time = 0.095032
+intervals=8192
+fse_size=1375099, streamSize=2845964
+[fse]: 		ratio=2.719158, outsize=4221071, time=0.014148
+totalByteLength=4775439
+compression time = 0.096714
+intervals=8192
+fse_size=1375099, streamSize=2845964
+[fse]: 		ratio=2.719158, outsize=4221071, time=0.013826
+totalByteLength=4775439
+compression time = 0.095224
+4775560/11477760
+[decoder]: time=0.017998
+decompression time = 0.055881 seconds.
+[decoder]: time=0.018616
+decompression time = 0.056284 seconds.
+[decoder]: time=0.015762
+decompression time = 0.052290 seconds.
+FILE: vy.dat2
+===huffman===
+intervals=8192
+treeByteSize=145918, enCodeSize=4205497
+[huffman]: 	ratio=2.637703, outsize=4351423, time=0.019195
+totalByteLength=4905963
+compression time = 0.102094
+intervals=8192
+treeByteSize=145918, enCodeSize=4205497
+[huffman]: 	ratio=2.637703, outsize=4351423, time=0.019279
+totalByteLength=4905963
+compression time = 0.101228
+intervals=8192
+treeByteSize=145918, enCodeSize=4205497
+[huffman]: 	ratio=2.637703, outsize=4351423, time=0.018820
+totalByteLength=4905963
+compression time = 0.100821
+4824655/11477760
+[decoder]: time=0.034161
+decompression time = 0.070515 seconds.
+[decoder]: time=0.027292
+decompression time = 0.062481 seconds.
+[decoder]: time=0.027588
+decompression time = 0.062795 seconds.
+===fse===
+intervals=8192
+fse_size=1374000, streamSize=2846608
+[fse]: 		ratio=2.719451, outsize=4220616, time=0.014132
+totalByteLength=4775156
+compression time = 0.100453
+intervals=8192
+fse_size=1374000, streamSize=2846608
+[fse]: 		ratio=2.719451, outsize=4220616, time=0.014169
+totalByteLength=4775156
+compression time = 0.095474
+intervals=8192
+fse_size=1374000, streamSize=2846608
+[fse]: 		ratio=2.719451, outsize=4220616, time=0.013858
+totalByteLength=4775156
+compression time = 0.095041
+4775277/11477760
+[decoder]: time=0.019900
+decompression time = 0.062269 seconds.
+[decoder]: time=0.019579
+decompression time = 0.057467 seconds.
+[decoder]: time=0.016902
+decompression time = 0.055002 seconds.
+FILE: vz.dat2
+===huffman===
+intervals=8192
+treeByteSize=145792, enCodeSize=4205514
+[huffman]: 	ratio=2.637769, outsize=4351314, time=0.019347
+totalByteLength=4905970
+compression time = 0.102776
+intervals=8192
+treeByteSize=145792, enCodeSize=4205514
+[huffman]: 	ratio=2.637769, outsize=4351314, time=0.018948
+totalByteLength=4905970
+compression time = 0.102055
+intervals=8192
+treeByteSize=145792, enCodeSize=4205514
+[huffman]: 	ratio=2.637769, outsize=4351314, time=0.019502
+totalByteLength=4905970
+compression time = 0.101162
+4824677/11477760
+[decoder]: time=0.031076
+decompression time = 0.067066 seconds.
+[decoder]: time=0.026977
+decompression time = 0.062130 seconds.
+[decoder]: time=0.026944
+decompression time = 0.061882 seconds.
+===fse===
+intervals=8192
+fse_size=1373970, streamSize=2846724
+[fse]: 		ratio=2.719396, outsize=4220702, time=0.013852
+totalByteLength=4775358
+compression time = 0.095329
+intervals=8192
+fse_size=1373970, streamSize=2846724
+[fse]: 		ratio=2.719396, outsize=4220702, time=0.014332
+totalByteLength=4775358
+compression time = 0.095878
+intervals=8192
+fse_size=1373970, streamSize=2846724
+[fse]: 		ratio=2.719396, outsize=4220702, time=0.013819
+totalByteLength=4775358
+compression time = 0.103581
+4775479/11477760
+[decoder]: time=0.015768
+decompression time = 0.053047 seconds.
+[decoder]: time=0.015846
+decompression time = 0.052835 seconds.
+[decoder]: time=0.015641
+decompression time = 0.052584 seconds.
+FILE: xx.dat2
+===huffman===
+intervals=8192
+treeByteSize=143506, enCodeSize=4084331
+[huffman]: 	ratio=2.714802, outsize=4227845, time=0.019079
+totalByteLength=4621025
+compression time = 0.095384
+intervals=8192
+treeByteSize=143506, enCodeSize=4084331
+[huffman]: 	ratio=2.714802, outsize=4227845, time=0.018637
+totalByteLength=4621025
+compression time = 0.092911
+intervals=8192
+treeByteSize=143506, enCodeSize=4084331
+[huffman]: 	ratio=2.714802, outsize=4227845, time=0.018936
+totalByteLength=4621025
+compression time = 0.093254
+4541800/11477760
+[decoder]: time=0.029208
+decompression time = 0.060346 seconds.
+[decoder]: time=0.027211
+decompression time = 0.056951 seconds.
+[decoder]: time=0.027558
+decompression time = 0.057522 seconds.
+===fse===
+intervals=8192
+fse_size=1451998, streamSize=2643507
+[fse]: 		ratio=2.802521, outsize=4095513, time=0.014067
+totalByteLength=4488693
+compression time = 0.086922
+intervals=8192
+fse_size=1451998, streamSize=2643507
+[fse]: 		ratio=2.802521, outsize=4095513, time=0.014107
+totalByteLength=4488693
+compression time = 0.090254
+intervals=8192
+fse_size=1451998, streamSize=2643507
+[fse]: 		ratio=2.802521, outsize=4095513, time=0.013947
+totalByteLength=4488693
+compression time = 0.087098
+4488808/11477760
+[decoder]: time=0.021779
+decompression time = 0.056205 seconds.
+[decoder]: time=0.015511
+decompression time = 0.046907 seconds.
+[decoder]: time=0.020011
+decompression time = 0.053363 seconds.
+FILE: yy.dat2
+===huffman===
+intervals=4096
+treeByteSize=73720, enCodeSize=3590438
+[huffman]: 	ratio=3.132435, outsize=3664166, time=0.017192
+totalByteLength=3735713
+compression time = 0.081325
+intervals=4096
+treeByteSize=73720, enCodeSize=3590438
+[huffman]: 	ratio=3.132435, outsize=3664166, time=0.016731
+totalByteLength=3735713
+compression time = 0.077407
+intervals=4096
+treeByteSize=73720, enCodeSize=3590438
+[huffman]: 	ratio=3.132435, outsize=3664166, time=0.016712
+totalByteLength=3735713
+compression time = 0.082669
+3696190/11477760
+[decoder]: time=0.031244
+decompression time = 0.054529 seconds.
+[decoder]: time=0.025983
+decompression time = 0.049364 seconds.
+[decoder]: time=0.026599
+decompression time = 0.049623 seconds.
+===fse===
+intervals=4096
+fse_size=1545269, streamSize=2058171
+[fse]: 		ratio=3.185216, outsize=3603448, time=0.013916
+totalByteLength=3674995
+compression time = 0.081849
+intervals=4096
+fse_size=1545269, streamSize=2058171
+[fse]: 		ratio=3.185216, outsize=3603448, time=0.013718
+totalByteLength=3674995
+compression time = 0.078312
+intervals=4096
+fse_size=1545269, streamSize=2058171
+[fse]: 		ratio=3.185216, outsize=3603448, time=0.014126
+totalByteLength=3674995
+compression time = 0.074203
+3674891/11477760
+[decoder]: time=0.021073
+decompression time = 0.047699 seconds.
+[decoder]: time=0.016747
+decompression time = 0.042071 seconds.
+[decoder]: time=0.022977
+decompression time = 0.049477 seconds.
+FILE: zz.dat2
+===huffman===
+intervals=4096
+treeByteSize=73720, enCodeSize=3948555
+[huffman]: 	ratio=2.853544, outsize=4022283, time=0.017589
+totalByteLength=4362531
+compression time = 0.087410
+intervals=4096
+treeByteSize=73720, enCodeSize=3948555
+[huffman]: 	ratio=2.853544, outsize=4022283, time=0.017212
+totalByteLength=4362531
+compression time = 0.086196
+intervals=4096
+treeByteSize=73720, enCodeSize=3948555
+[huffman]: 	ratio=2.853544, outsize=4022283, time=0.017051
+totalByteLength=4362531
+compression time = 0.085832
+4312557/11477760
+[decoder]: time=0.027858
+decompression time = 0.055653 seconds.
+[decoder]: time=0.028795
+decompression time = 0.056745 seconds.
+[decoder]: time=0.026575
+decompression time = 0.054107 seconds.
+===fse===
+intervals=4096
+fse_size=1468078, streamSize=2489443
+[fse]: 		ratio=2.900234, outsize=3957529, time=0.014274
+totalByteLength=4297777
+compression time = 0.082938
+intervals=4096
+fse_size=1468078, streamSize=2489443
+[fse]: 		ratio=2.900234, outsize=3957529, time=0.014204
+totalByteLength=4297777
+compression time = 0.084218
+intervals=4096
+fse_size=1468078, streamSize=2489443
+[fse]: 		ratio=2.900234, outsize=3957529, time=0.014136
+totalByteLength=4297777
+compression time = 0.082922
+4282061/11477760
+[decoder]: time=0.020357
+decompression time = 0.050277 seconds.
+[decoder]: time=0.016105
+decompression time = 0.045188 seconds.
+[decoder]: time=0.016097
+decompression time = 0.045184 seconds.
+CNT:
+EB: 1E-4
+FILE: vx.dat2
+===huffman===
+intervals=65536
+treeByteSize=1605722, enCodeSize=5380255
+[huffman]: 	ratio=1.642969, outsize=6985985, time=0.051762
+totalByteLength=7559639
+compression time = 0.198329
+intervals=65536
+treeByteSize=1605722, enCodeSize=5380255
+[huffman]: 	ratio=1.642969, outsize=6985985, time=0.051953
+totalByteLength=7559639
+compression time = 0.197539
+intervals=65536
+treeByteSize=1605722, enCodeSize=5380255
+[huffman]: 	ratio=1.642969, outsize=6985985, time=0.054442
+totalByteLength=7559639
+compression time = 0.201092
+6506034/11477760
+[decoder]: time=0.046006
+decompression time = 0.085167 seconds.
+[decoder]: time=0.045681
+decompression time = 0.084908 seconds.
+[decoder]: time=0.045331
+decompression time = 0.084783 seconds.
+===fse===
+intervals=65536
+fse_size=1332680, streamSize=4069966
+[fse]: 		ratio=2.124467, outsize=5402654, time=0.014869
+totalByteLength=5976308
+compression time = 0.152359
+intervals=65536
+fse_size=1332680, streamSize=4069966
+[fse]: 		ratio=2.124467, outsize=5402654, time=0.014928
+totalByteLength=5976308
+compression time = 0.151849
+intervals=65536
+fse_size=1332680, streamSize=4069966
+[fse]: 		ratio=2.124467, outsize=5402654, time=0.014526
+totalByteLength=5976308
+compression time = 0.150650
+5976456/11477760
+[decoder]: time=0.021867
+decompression time = 0.062601 seconds.
+[decoder]: time=0.015639
+decompression time = 0.054410 seconds.
+[decoder]: time=0.019334
+decompression time = 0.063345 seconds.
+FILE: vy.dat2
+===huffman===
+intervals=65536
+treeByteSize=1605150, enCodeSize=5379746
+[huffman]: 	ratio=1.643224, outsize=6984904, time=0.053351
+totalByteLength=7559410
+compression time = 0.207382
+intervals=65536
+treeByteSize=1605150, enCodeSize=5379746
+[huffman]: 	ratio=1.643224, outsize=6984904, time=0.054628
+totalByteLength=7559410
+compression time = 0.207235
+intervals=65536
+treeByteSize=1605150, enCodeSize=5379746
+[huffman]: 	ratio=1.643224, outsize=6984904, time=0.052310
+totalByteLength=7559410
+compression time = 0.201651
+6506304/11477760
+[decoder]: time=0.052358
+decompression time = 0.094117 seconds.
+[decoder]: time=0.045703
+decompression time = 0.084515 seconds.
+[decoder]: time=0.047435
+decompression time = 0.088835 seconds.
+===fse===
+intervals=65536
+fse_size=1332164, streamSize=4069859
+[fse]: 		ratio=2.124712, outsize=5402031, time=0.014784
+totalByteLength=5976537
+compression time = 0.152710
+intervals=65536
+fse_size=1332164, streamSize=4069859
+[fse]: 		ratio=2.124712, outsize=5402031, time=0.014915
+totalByteLength=5976537
+compression time = 0.152618
+intervals=65536
+fse_size=1332164, streamSize=4069859
+[fse]: 		ratio=2.124712, outsize=5402031, time=0.014886
+totalByteLength=5976537
+compression time = 0.152373
+5976685/11477760
+[decoder]: time=0.021744
+decompression time = 0.062745 seconds.
+[decoder]: time=0.015291
+decompression time = 0.054400 seconds.
+[decoder]: time=0.019188
+decompression time = 0.059440 seconds.
+FILE: vz.dat2
+===huffman===
+intervals=65536
+treeByteSize=1605592, enCodeSize=5380328
+[huffman]: 	ratio=1.642983, outsize=6985928, time=0.052348
+totalByteLength=7559603
+compression time = 0.205217
+intervals=65536
+treeByteSize=1605592, enCodeSize=5380328
+[huffman]: 	ratio=1.642983, outsize=6985928, time=0.052313
+totalByteLength=7559603
+compression time = 0.198374
+intervals=65536
+treeByteSize=1605592, enCodeSize=5380328
+[huffman]: 	ratio=1.642983, outsize=6985928, time=0.052109
+totalByteLength=7559603
+compression time = 0.198200
+6506621/11477760
+[decoder]: time=0.046545
+decompression time = 0.087789 seconds.
+[decoder]: time=0.046084
+decompression time = 0.085328 seconds.
+[decoder]: time=0.048645
+decompression time = 0.089404 seconds.
+===fse===
+intervals=65536
+fse_size=1331967, streamSize=4070815
+[fse]: 		ratio=2.124413, outsize=5402790, time=0.014657
+totalByteLength=5976465
+compression time = 0.153972
+intervals=65536
+fse_size=1331967, streamSize=4070815
+[fse]: 		ratio=2.124413, outsize=5402790, time=0.014894
+totalByteLength=5976465
+compression time = 0.152448
+intervals=65536
+fse_size=1331967, streamSize=4070815
+[fse]: 		ratio=2.124413, outsize=5402790, time=0.014777
+totalByteLength=5976465
+compression time = 0.151658
+5976613/11477760
+[decoder]: time=0.016111
+decompression time = 0.055647 seconds.
+[decoder]: time=0.015650
+decompression time = 0.054787 seconds.
+[decoder]: time=0.015831
+decompression time = 0.054990 seconds.
+FILE: xx.dat2
+===huffman===
+intervals=65536
+treeByteSize=1541008, enCodeSize=5265507
+[huffman]: 	ratio=1.686288, outsize=6806523, time=0.049711
+totalByteLength=7212674
+compression time = 0.187742
+intervals=65536
+treeByteSize=1541008, enCodeSize=5265507
+[huffman]: 	ratio=1.686288, outsize=6806523, time=0.049090
+totalByteLength=7212674
+compression time = 0.183476
+intervals=65536
+treeByteSize=1541008, enCodeSize=5265507
+[huffman]: 	ratio=1.686288, outsize=6806523, time=0.049846
+totalByteLength=7212674
+compression time = 0.186958
+6205133/11477760
+[decoder]: time=0.048231
+decompression time = 0.084336 seconds.
+[decoder]: time=0.048061
+decompression time = 0.084158 seconds.
+[decoder]: time=0.045123
+decompression time = 0.079276 seconds.
+===fse===
+intervals=65536
+fse_size=1384579, streamSize=3896538
+[fse]: 		ratio=2.173355, outsize=5281125, time=0.015018
+totalByteLength=5687276
+compression time = 0.140629
+intervals=65536
+fse_size=1384579, streamSize=3896538
+[fse]: 		ratio=2.173355, outsize=5281125, time=0.015091
+totalByteLength=5687276
+compression time = 0.138411
+intervals=65536
+fse_size=1384579, streamSize=3896538
+[fse]: 		ratio=2.173355, outsize=5281125, time=0.014716
+totalByteLength=5687276
+compression time = 0.138065
+5687418/11477760
+[decoder]: time=0.017186
+decompression time = 0.051074 seconds.
+[decoder]: time=0.015693
+decompression time = 0.049314 seconds.
+[decoder]: time=0.015585
+decompression time = 0.048783 seconds.
+FILE: yy.dat2
+===huffman===
+intervals=32768
+treeByteSize=570952, enCodeSize=4763418
+[huffman]: 	ratio=2.151659, outsize=5334378, time=0.031308
+totalByteLength=5434727
+compression time = 0.125961
+intervals=32768
+treeByteSize=570952, enCodeSize=4763418
+[huffman]: 	ratio=2.151659, outsize=5334378, time=0.030466
+totalByteLength=5434727
+compression time = 0.120148
+intervals=32768
+treeByteSize=570952, enCodeSize=4763418
+[huffman]: 	ratio=2.151659, outsize=5334378, time=0.030052
+totalByteLength=5434727
+compression time = 0.118842
+5104078/11477760
+[decoder]: time=0.037124
+decompression time = 0.063314 seconds.
+[decoder]: time=0.035251
+decompression time = 0.060415 seconds.
+[decoder]: time=0.035897
+decompression time = 0.060848 seconds.
+===fse===
+intervals=32768
+fse_size=1382299, streamSize=3393615
+[fse]: 		ratio=2.403255, outsize=4775922, time=0.014592
+totalByteLength=4876271
+compression time = 0.099806
+intervals=32768
+fse_size=1382299, streamSize=3393615
+[fse]: 		ratio=2.403255, outsize=4775922, time=0.014494
+totalByteLength=4876271
+compression time = 0.099274
+intervals=32768
+fse_size=1382299, streamSize=3393615
+[fse]: 		ratio=2.403255, outsize=4775922, time=0.013986
+totalByteLength=4876271
+compression time = 0.099100
+4874947/11477760
+[decoder]: time=0.020496
+decompression time = 0.048546 seconds.
+[decoder]: time=0.015713
+decompression time = 0.041645 seconds.
+[decoder]: time=0.015721
+decompression time = 0.042042 seconds.
+FILE: zz.dat2
+===huffman===
+intervals=65536
+treeByteSize=1480714, enCodeSize=5183336
+[huffman]: 	ratio=1.722338, outsize=6664058, time=0.050550
+totalByteLength=6921194
+compression time = 0.173237
+intervals=65536
+treeByteSize=1480714, enCodeSize=5183336
+[huffman]: 	ratio=1.722338, outsize=6664058, time=0.047473
+totalByteLength=6921194
+compression time = 0.170310
+intervals=65536
+treeByteSize=1480714, enCodeSize=5183336
+[huffman]: 	ratio=1.722338, outsize=6664058, time=0.047616
+totalByteLength=6921194
+compression time = 0.171462
+5951249/11477760
+[decoder]: time=0.045075
+decompression time = 0.077334 seconds.
+[decoder]: time=0.045931
+decompression time = 0.076157 seconds.
+[decoder]: time=0.045893
+decompression time = 0.076746 seconds.
+===fse===
+intervals=65536
+fse_size=1392697, streamSize=3807154
+[fse]: 		ratio=2.207321, outsize=5199859, time=0.014705
+totalByteLength=5456995
+compression time = 0.130383
+intervals=65536
+fse_size=1392697, streamSize=3807154
+[fse]: 		ratio=2.207321, outsize=5199859, time=0.014758
+totalByteLength=5456995
+compression time = 0.132446
+intervals=65536
+fse_size=1392697, streamSize=3807154
+[fse]: 		ratio=2.207321, outsize=5199859, time=0.014907
+totalByteLength=5456995
+compression time = 0.135094
+5457131/11477760
+[decoder]: time=0.021016
+decompression time = 0.053863 seconds.
+[decoder]: time=0.015417
+decompression time = 0.045355 seconds.
+[decoder]: time=0.019318
+decompression time = 0.050686 seconds.
+CNT:
+EB: 1E-5
+FILE: vx.dat2
+===huffman===
+intervals=65536
+treeByteSize=1703924, enCodeSize=2472380
+[huffman]: 	ratio=2.748300, outsize=4176312, time=0.049023
+totalByteLength=10908084
+compression time = 0.227504
+intervals=65536
+treeByteSize=1703924, enCodeSize=2472380
+[huffman]: 	ratio=2.748300, outsize=4176312, time=0.048600
+totalByteLength=10908084
+compression time = 0.222029
+intervals=65536
+treeByteSize=1703924, enCodeSize=2472380
+[huffman]: 	ratio=2.748300, outsize=4176312, time=0.048447
+totalByteLength=10908084
+compression time = 0.223272
+8910449/11477760
+[decoder]: time=0.047906
+decompression time = 0.131747 seconds.
+[decoder]: time=0.047940
+decompression time = 0.130822 seconds.
+[decoder]: time=0.047403
+decompression time = 0.127462 seconds.
+===fse===
+intervals=65536
+fse_size=752709, streamSize=1712182
+[fse]: 		ratio=4.656483, outsize=2464899, time=0.017646
+totalByteLength=9196671
+compression time = 0.182120
+intervals=65536
+fse_size=752709, streamSize=1712182
+[fse]: 		ratio=4.656483, outsize=2464899, time=0.018021
+totalByteLength=9196671
+compression time = 0.182251
+intervals=65536
+fse_size=752709, streamSize=1712182
+[fse]: 		ratio=4.656483, outsize=2464899, time=0.017649
+totalByteLength=9196671
+compression time = 0.182861
+8344790/11477760
+[decoder]: time=0.021927
+decompression time = 0.103577 seconds.
+[decoder]: time=0.021723
+decompression time = 0.103005 seconds.
+[decoder]: time=0.019977
+decompression time = 0.098470 seconds.
+FILE: vy.dat2
+===huffman===
+intervals=65536
+treeByteSize=1703924, enCodeSize=2472404
+[huffman]: 	ratio=2.748285, outsize=4176336, time=0.048614
+totalByteLength=10907607
+compression time = 0.225512
+intervals=65536
+treeByteSize=1703924, enCodeSize=2472404
+[huffman]: 	ratio=2.748285, outsize=4176336, time=0.048817
+totalByteLength=10907607
+compression time = 0.224042
+intervals=65536
+treeByteSize=1703924, enCodeSize=2472404
+[huffman]: 	ratio=2.748285, outsize=4176336, time=0.048372
+totalByteLength=10907607
+compression time = 0.222772
+8909924/11477760
+[decoder]: time=0.048394
+decompression time = 0.132035 seconds.
+[decoder]: time=0.048903
+decompression time = 0.131500 seconds.
+[decoder]: time=0.047962
+decompression time = 0.127422 seconds.
+===fse===
+intervals=65536
+fse_size=752332, streamSize=1712471
+[fse]: 		ratio=4.656649, outsize=2464811, time=0.017965
+totalByteLength=9196082
+compression time = 0.182776
+intervals=65536
+fse_size=752332, streamSize=1712471
+[fse]: 		ratio=4.656649, outsize=2464811, time=0.017354
+totalByteLength=9196082
+compression time = 0.185484
+intervals=65536
+fse_size=752332, streamSize=1712471
+[fse]: 		ratio=4.656649, outsize=2464811, time=0.017625
+totalByteLength=9196082
+compression time = 0.188127
+8345253/11477760
+[decoder]: time=0.022237
+decompression time = 0.103775 seconds.
+[decoder]: time=0.019947
+decompression time = 0.097300 seconds.
+[decoder]: time=0.019884
+decompression time = 0.097894 seconds.
+FILE: vz.dat2
+===huffman===
+intervals=65536
+treeByteSize=1703924, enCodeSize=2473399
+[huffman]: 	ratio=2.747630, outsize=4177331, time=0.049434
+totalByteLength=10907698
+compression time = 0.235154
+intervals=65536
+treeByteSize=1703924, enCodeSize=2473399
+[huffman]: 	ratio=2.747630, outsize=4177331, time=0.048766
+totalByteLength=10907698
+compression time = 0.227062
+intervals=65536
+treeByteSize=1703924, enCodeSize=2473399
+[huffman]: 	ratio=2.747630, outsize=4177331, time=0.048068
+totalByteLength=10907698
+compression time = 0.223169
+8909708/11477760
+[decoder]: time=0.048635
+decompression time = 0.131586 seconds.
+[decoder]: time=0.047615
+decompression time = 0.126812 seconds.
+[decoder]: time=0.047704
+decompression time = 0.127696 seconds.
+===fse===
+intervals=65536
+fse_size=752435, streamSize=1713471
+[fse]: 		ratio=4.654566, outsize=2465914, time=0.017711
+totalByteLength=9196281
+compression time = 0.181997
+intervals=65536
+fse_size=752435, streamSize=1713471
+[fse]: 		ratio=4.654566, outsize=2465914, time=0.017839
+totalByteLength=9196281
+compression time = 0.183115
+intervals=65536
+fse_size=752435, streamSize=1713471
+[fse]: 		ratio=4.654566, outsize=2465914, time=0.017560
+totalByteLength=9196281
+compression time = 0.182501
+8344547/11477760
+[decoder]: time=0.020691
+decompression time = 0.102181 seconds.
+[decoder]: time=0.019948
+decompression time = 0.098458 seconds.
+[decoder]: time=0.019615
+decompression time = 0.098858 seconds.
+FILE: xx.dat2
+===huffman===
+intervals=65536
+treeByteSize=1703924, enCodeSize=3232459
+[huffman]: 	ratio=2.325132, outsize=4936391, time=0.051757
+totalByteLength=10103639
+compression time = 0.227264
+intervals=65536
+treeByteSize=1703924, enCodeSize=3232459
+[huffman]: 	ratio=2.325132, outsize=4936391, time=0.051344
+totalByteLength=10103639
+compression time = 0.221630
+intervals=65536
+treeByteSize=1703924, enCodeSize=3232459
+[huffman]: 	ratio=2.325132, outsize=4936391, time=0.051713
+totalByteLength=10103639
+compression time = 0.224198
+8397083/11477760
+[decoder]: time=0.053285
+decompression time = 0.121482 seconds.
+[decoder]: time=0.054638
+decompression time = 0.123400 seconds.
+[decoder]: time=0.054238
+decompression time = 0.119566 seconds.
+===fse===
+intervals=65536
+fse_size=936388, streamSize=2304941
+[fse]: 		ratio=3.541057, outsize=3241337, time=0.019129
+totalByteLength=8408585
+compression time = 0.181547
+intervals=65536
+fse_size=936388, streamSize=2304941
+[fse]: 		ratio=3.541057, outsize=3241337, time=0.019257
+totalByteLength=8408585
+compression time = 0.182523
+intervals=65536
+fse_size=936388, streamSize=2304941
+[fse]: 		ratio=3.541057, outsize=3241337, time=0.019003
+totalByteLength=8408585
+compression time = 0.181106
+7842580/11477760
+[decoder]: time=0.023519
+decompression time = 0.091807 seconds.
+[decoder]: time=0.023360
+decompression time = 0.094398 seconds.
+[decoder]: time=0.020991
+decompression time = 0.086084 seconds.
+FILE: yy.dat2
+===huffman===
+intervals=65536
+treeByteSize=1703924, enCodeSize=5053763
+[huffman]: 	ratio=1.698473, outsize=6757695, time=0.056603
+totalByteLength=8184936
+compression time = 0.215228
+intervals=65536
+treeByteSize=1703924, enCodeSize=5053763
+[huffman]: 	ratio=1.698473, outsize=6757695, time=0.056471
+totalByteLength=8184936
+compression time = 0.208809
+intervals=65536
+treeByteSize=1703924, enCodeSize=5053763
+[huffman]: 	ratio=1.698473, outsize=6757695, time=0.057191
+totalByteLength=8184936
+compression time = 0.209076
+6911122/11477760
+[decoder]: time=0.044986
+decompression time = 0.085948 seconds.
+[decoder]: time=0.046819
+decompression time = 0.087645 seconds.
+[decoder]: time=0.045770
+decompression time = 0.086962 seconds.
+===fse===
+intervals=65536
+fse_size=1261424, streamSize=3799529
+[fse]: 		ratio=2.267901, outsize=5060961, time=0.016460
+totalByteLength=6488202
+compression time = 0.158577
+intervals=65536
+fse_size=1261424, streamSize=3799529
+[fse]: 		ratio=2.267901, outsize=5060961, time=0.016379
+totalByteLength=6488202
+compression time = 0.164546
+intervals=65536
+fse_size=1261424, streamSize=3799529
+[fse]: 		ratio=2.267901, outsize=5060961, time=0.015842
+totalByteLength=6488202
+compression time = 0.157584
+6338740/11477760
+[decoder]: time=0.018476
+decompression time = 0.057874 seconds.
+[decoder]: time=0.020925
+decompression time = 0.060555 seconds.
+[decoder]: time=0.018079
+decompression time = 0.055641 seconds.
+FILE: zz.dat2
+===huffman===
+intervals=65536
+treeByteSize=1703924, enCodeSize=3644744
+[huffman]: 	ratio=2.145907, outsize=5348676, time=0.052784
+totalByteLength=9642879
+compression time = 0.226840
+intervals=65536
+treeByteSize=1703924, enCodeSize=3644744
+[huffman]: 	ratio=2.145907, outsize=5348676, time=0.053571
+totalByteLength=9642879
+compression time = 0.222531
+intervals=65536
+treeByteSize=1703924, enCodeSize=3644744
+[huffman]: 	ratio=2.145907, outsize=5348676, time=0.053709
+totalByteLength=9642879
+compression time = 0.223284
+7999649/11477760
+[decoder]: time=0.056724
+decompression time = 0.121783 seconds.
+[decoder]: time=0.056386
+decompression time = 0.119242 seconds.
+[decoder]: time=0.057158
+decompression time = 0.119485 seconds.
+===fse===
+intervals=65536
+fse_size=1017774, streamSize=2629629
+[fse]: 		ratio=3.146824, outsize=3647411, time=0.018675
+totalByteLength=7941614
+compression time = 0.181602
+intervals=65536
+fse_size=1017774, streamSize=2629629
+[fse]: 		ratio=3.146824, outsize=3647411, time=0.018904
+totalByteLength=7941614
+compression time = 0.175027
+intervals=65536
+fse_size=1017774, streamSize=2629629
+[fse]: 		ratio=3.146824, outsize=3647411, time=0.019046
+totalByteLength=7941614
+compression time = 0.181235
+7438610/11477760
+[decoder]: time=0.023483
+decompression time = 0.087811 seconds.
+[decoder]: time=0.020951
+decompression time = 0.081841 seconds.
+[decoder]: time=0.023205
+decompression time = 0.086277 seconds.
+CNT:
+EBMODE: PSNR
+EB: 40
+FILE: vx.dat2
+===huffman===
+intervals=32
+treeByteSize=442, enCodeSize=1470014
+[huffman]: 	ratio=7.805536, outsize=1470464, time=0.013919
+totalByteLength=1471092
+compression time = 0.051146
+intervals=32
+treeByteSize=442, enCodeSize=1470014
+[huffman]: 	ratio=7.805536, outsize=1470464, time=0.013854
+totalByteLength=1471092
+compression time = 0.050535
+intervals=32
+treeByteSize=442, enCodeSize=1470014
+[huffman]: 	ratio=7.805536, outsize=1470464, time=0.013963
+totalByteLength=1471092
+compression time = 0.050618
+1471138/11477760
+[decoder]: time=0.037215
+decompression time = 0.049223 seconds.
+[decoder]: time=0.033503
+decompression time = 0.045139 seconds.
+[decoder]: time=0.033451
+decompression time = 0.045093 seconds.
+===fse===
+intervals=32
+fse_size=1455136, streamSize=1
+[fse]: 		ratio=7.887709, outsize=1455145, time=0.013719
+totalByteLength=1455773
+compression time = 0.050516
+intervals=32
+fse_size=1455136, streamSize=1
+[fse]: 		ratio=7.887709, outsize=1455145, time=0.013262
+totalByteLength=1455773
+compression time = 0.051618
+intervals=32
+fse_size=1455136, streamSize=1
+[fse]: 		ratio=7.887709, outsize=1455145, time=0.012988
+totalByteLength=1455773
+compression time = 0.049393
+1455819/11477760
+[decoder]: time=0.012441
+decompression time = 0.025955 seconds.
+[decoder]: time=0.013220
+decompression time = 0.027288 seconds.
+[decoder]: time=0.018014
+decompression time = 0.032990 seconds.
+FILE: vy.dat2
+===huffman===
+intervals=32
+treeByteSize=442, enCodeSize=1487944
+[huffman]: 	ratio=7.711506, outsize=1488394, time=0.014074
+totalByteLength=1489380
+compression time = 0.055495
+intervals=32
+treeByteSize=442, enCodeSize=1487944
+[huffman]: 	ratio=7.711506, outsize=1488394, time=0.014130
+totalByteLength=1489380
+compression time = 0.051087
+intervals=32
+treeByteSize=442, enCodeSize=1487944
+[huffman]: 	ratio=7.711506, outsize=1488394, time=0.013909
+totalByteLength=1489380
+compression time = 0.050634
+1489426/11477760
+[decoder]: time=0.037429
+decompression time = 0.049395 seconds.
+[decoder]: time=0.034591
+decompression time = 0.046094 seconds.
+[decoder]: time=0.034879
+decompression time = 0.046460 seconds.
+===fse===
+intervals=32
+fse_size=1471547, streamSize=1
+[fse]: 		ratio=7.799744, outsize=1471556, time=0.013449
+totalByteLength=1472542
+compression time = 0.050204
+intervals=32
+fse_size=1471547, streamSize=1
+[fse]: 		ratio=7.799744, outsize=1471556, time=0.013278
+totalByteLength=1472542
+compression time = 0.050204
+intervals=32
+fse_size=1471547, streamSize=1
+[fse]: 		ratio=7.799744, outsize=1471556, time=0.013162
+totalByteLength=1472542
+compression time = 0.050422
+1472588/11477760
+[decoder]: time=0.015840
+decompression time = 0.030215 seconds.
+[decoder]: time=0.012484
+decompression time = 0.025871 seconds.
+[decoder]: time=0.012374
+decompression time = 0.026123 seconds.
+FILE: vz.dat2
+===huffman===
+intervals=32
+treeByteSize=442, enCodeSize=1476134
+[huffman]: 	ratio=7.773185, outsize=1476584, time=0.014231
+totalByteLength=1477292
+compression time = 0.051449
+intervals=32
+treeByteSize=442, enCodeSize=1476134
+[huffman]: 	ratio=7.773185, outsize=1476584, time=0.013915
+totalByteLength=1477292
+compression time = 0.050505
+intervals=32
+treeByteSize=442, enCodeSize=1476134
+[huffman]: 	ratio=7.773185, outsize=1476584, time=0.014208
+totalByteLength=1477292
+compression time = 0.055568
+1477338/11477760
+[decoder]: time=0.040675
+decompression time = 0.053669 seconds.
+[decoder]: time=0.037803
+decompression time = 0.049777 seconds.
+[decoder]: time=0.034653
+decompression time = 0.046288 seconds.
+===fse===
+intervals=32
+fse_size=1460734, streamSize=1
+[fse]: 		ratio=7.857481, outsize=1460743, time=0.013235
+totalByteLength=1461451
+compression time = 0.055347
+intervals=32
+fse_size=1460734, streamSize=1
+[fse]: 		ratio=7.857481, outsize=1460743, time=0.013169
+totalByteLength=1461451
+compression time = 0.052171
+intervals=32
+fse_size=1460734, streamSize=1
+[fse]: 		ratio=7.857481, outsize=1460743, time=0.013245
+totalByteLength=1461451
+compression time = 0.049807
+1461497/11477760
+[decoder]: time=0.016715
+decompression time = 0.032717 seconds.
+[decoder]: time=0.012716
+decompression time = 0.026337 seconds.
+[decoder]: time=0.012373
+decompression time = 0.025704 seconds.
+FILE: xx.dat2
+===huffman===
+intervals=32
+treeByteSize=428, enCodeSize=1105930
+[huffman]: 	ratio=10.374288, outsize=1106366, time=0.012641
+totalByteLength=1106465
+compression time = 0.051848
+intervals=32
+treeByteSize=428, enCodeSize=1105930
+[huffman]: 	ratio=10.374288, outsize=1106366, time=0.012914
+totalByteLength=1106465
+compression time = 0.050704
+intervals=32
+treeByteSize=428, enCodeSize=1105930
+[huffman]: 	ratio=10.374288, outsize=1106366, time=0.012852
+totalByteLength=1106465
+compression time = 0.050615
+1106502/11477760
+[decoder]: time=0.027678
+decompression time = 0.039530 seconds.
+[decoder]: time=0.034734
+decompression time = 0.046783 seconds.
+[decoder]: time=0.025728
+decompression time = 0.037519 seconds.
+===fse===
+intervals=32
+fse_size=1085885, streamSize=1
+[fse]: 		ratio=10.569871, outsize=1085894, time=0.013193
+totalByteLength=1085993
+compression time = 0.050074
+intervals=32
+fse_size=1085885, streamSize=1
+[fse]: 		ratio=10.569871, outsize=1085894, time=0.013221
+totalByteLength=1085993
+compression time = 0.048833
+intervals=32
+fse_size=1085885, streamSize=1
+[fse]: 		ratio=10.569871, outsize=1085894, time=0.013328
+totalByteLength=1085993
+compression time = 0.049083
+1086030/11477760
+[decoder]: time=0.019190
+decompression time = 0.034470 seconds.
+[decoder]: time=0.012811
+decompression time = 0.026222 seconds.
+[decoder]: time=0.019181
+decompression time = 0.034668 seconds.
+FILE: yy.dat2
+===huffman===
+intervals=32
+treeByteSize=442, enCodeSize=1086895
+[huffman]: 	ratio=10.555767, outsize=1087345, time=0.013892
+totalByteLength=1087447
+compression time = 0.059336
+intervals=32
+treeByteSize=442, enCodeSize=1086895
+[huffman]: 	ratio=10.555767, outsize=1087345, time=0.014023
+totalByteLength=1087447
+compression time = 0.054371
+intervals=32
+treeByteSize=442, enCodeSize=1086895
+[huffman]: 	ratio=10.555767, outsize=1087345, time=0.014387
+totalByteLength=1087447
+compression time = 0.055229
+1060960/11477760
+[decoder]: time=0.034271
+decompression time = 0.047420 seconds.
+[decoder]: time=0.037259
+decompression time = 0.050060 seconds.
+[decoder]: time=0.031995
+decompression time = 0.044477 seconds.
+===fse===
+intervals=32
+fse_size=1065633, streamSize=1
+[fse]: 		ratio=10.770747, outsize=1065642, time=0.013173
+totalByteLength=1065744
+compression time = 0.048909
+intervals=32
+fse_size=1065633, streamSize=1
+[fse]: 		ratio=10.770747, outsize=1065642, time=0.013155
+totalByteLength=1065744
+compression time = 0.048891
+intervals=32
+fse_size=1065633, streamSize=1
+[fse]: 		ratio=10.770747, outsize=1065642, time=0.013094
+totalByteLength=1065744
+compression time = 0.048645
+1065781/11477760
+[decoder]: time=0.015292
+decompression time = 0.028908 seconds.
+[decoder]: time=0.012980
+decompression time = 0.026369 seconds.
+[decoder]: time=0.012595
+decompression time = 0.026166 seconds.
+FILE: zz.dat2
+===huffman===
+intervals=32
+treeByteSize=442, enCodeSize=1243016
+[huffman]: 	ratio=9.230457, outsize=1243466, time=0.013232
+totalByteLength=1243602
+compression time = 0.050253
+intervals=32
+treeByteSize=442, enCodeSize=1243016
+[huffman]: 	ratio=9.230457, outsize=1243466, time=0.012996
+totalByteLength=1243602
+compression time = 0.049452
+intervals=32
+treeByteSize=442, enCodeSize=1243016
+[huffman]: 	ratio=9.230457, outsize=1243466, time=0.013293
+totalByteLength=1243602
+compression time = 0.049388
+1243642/11477760
+[decoder]: time=0.026936
+decompression time = 0.038531 seconds.
+[decoder]: time=0.026903
+decompression time = 0.038271 seconds.
+[decoder]: time=0.026967
+decompression time = 0.038286 seconds.
+===fse===
+intervals=32
+fse_size=1232667, streamSize=1
+[fse]: 		ratio=9.311255, outsize=1232676, time=0.012879
+totalByteLength=1232812
+compression time = 0.048928
+intervals=32
+fse_size=1232667, streamSize=1
+[fse]: 		ratio=9.311255, outsize=1232676, time=0.013011
+totalByteLength=1232812
+compression time = 0.048933
+intervals=32
+fse_size=1232667, streamSize=1
+[fse]: 		ratio=9.311255, outsize=1232676, time=0.013121
+totalByteLength=1232812
+compression time = 0.049749
+1232852/11477760
+[decoder]: time=0.015389
+decompression time = 0.029350 seconds.
+[decoder]: time=0.012389
+decompression time = 0.025925 seconds.
+[decoder]: time=0.012277
+decompression time = 0.026223 seconds.
+CNT:
+EB: 60
+FILE: vx.dat2
+===huffman===
+intervals=256
+treeByteSize=4600, enCodeSize=2651566
+[huffman]: 	ratio=4.321163, outsize=2656174, time=0.015159
+totalByteLength=2665825
+compression time = 0.058085
+intervals=256
+treeByteSize=4600, enCodeSize=2651566
+[huffman]: 	ratio=4.321163, outsize=2656174, time=0.015427
+totalByteLength=2665825
+compression time = 0.054027
+intervals=256
+treeByteSize=4600, enCodeSize=2651566
+[huffman]: 	ratio=4.321163, outsize=2656174, time=0.015011
+totalByteLength=2665825
+compression time = 0.057831
+2663697/11477760
+[decoder]: time=0.049303
+decompression time = 0.062856 seconds.
+[decoder]: time=0.043299
+decompression time = 0.055867 seconds.
+[decoder]: time=0.043788
+decompression time = 0.056377 seconds.
+===fse===
+intervals=256
+fse_size=1897693, streamSize=767217
+[fse]: 		ratio=4.306984, outsize=2664918, time=0.013704
+totalByteLength=2674569
+compression time = 0.052754
+intervals=256
+fse_size=1897693, streamSize=767217
+[fse]: 		ratio=4.306984, outsize=2664918, time=0.013920
+totalByteLength=2674569
+compression time = 0.053086
+intervals=256
+fse_size=1897693, streamSize=767217
+[fse]: 		ratio=4.306984, outsize=2664918, time=0.013656
+totalByteLength=2674569
+compression time = 0.052507
+2673778/11477760
+[decoder]: time=0.028676
+decompression time = 0.044359 seconds.
+[decoder]: time=0.020564
+decompression time = 0.034878 seconds.
+[decoder]: time=0.020663
+decompression time = 0.034901 seconds.
+FILE: vy.dat2
+===huffman===
+intervals=256
+treeByteSize=4600, enCodeSize=2665113
+[huffman]: 	ratio=4.299236, outsize=2669721, time=0.014987
+totalByteLength=2683017
+compression time = 0.053607
+intervals=256
+treeByteSize=4600, enCodeSize=2665113
+[huffman]: 	ratio=4.299236, outsize=2669721, time=0.014508
+totalByteLength=2683017
+compression time = 0.052933
+intervals=256
+treeByteSize=4600, enCodeSize=2665113
+[huffman]: 	ratio=4.299236, outsize=2669721, time=0.015082
+totalByteLength=2683017
+compression time = 0.053953
+2680844/11477760
+[decoder]: time=0.044917
+decompression time = 0.057915 seconds.
+[decoder]: time=0.041732
+decompression time = 0.054183 seconds.
+[decoder]: time=0.042549
+decompression time = 0.054991 seconds.
+===fse===
+intervals=256
+fse_size=1887360, streamSize=793092
+[fse]: 		ratio=4.282011, outsize=2680460, time=0.014000
+totalByteLength=2693756
+compression time = 0.055959
+intervals=256
+fse_size=1887360, streamSize=793092
+[fse]: 		ratio=4.282011, outsize=2680460, time=0.013532
+totalByteLength=2693756
+compression time = 0.052862
+intervals=256
+fse_size=1887360, streamSize=793092
+[fse]: 		ratio=4.282011, outsize=2680460, time=0.013746
+totalByteLength=2693756
+compression time = 0.060312
+2693829/11477760
+[decoder]: time=0.025915
+decompression time = 0.042551 seconds.
+[decoder]: time=0.021003
+decompression time = 0.035368 seconds.
+[decoder]: time=0.023639
+decompression time = 0.038388 seconds.
+FILE: vz.dat2
+===huffman===
+intervals=256
+treeByteSize=4600, enCodeSize=2656266
+[huffman]: 	ratio=4.313530, outsize=2660874, time=0.015225
+totalByteLength=2671274
+compression time = 0.059740
+intervals=256
+treeByteSize=4600, enCodeSize=2656266
+[huffman]: 	ratio=4.313530, outsize=2660874, time=0.014954
+totalByteLength=2671274
+compression time = 0.053133
+intervals=256
+treeByteSize=4600, enCodeSize=2656266
+[huffman]: 	ratio=4.313530, outsize=2660874, time=0.015051
+totalByteLength=2671274
+compression time = 0.053523
+2669126/11477760
+[decoder]: time=0.047089
+decompression time = 0.059906 seconds.
+[decoder]: time=0.041139
+decompression time = 0.053451 seconds.
+[decoder]: time=0.046858
+decompression time = 0.059434 seconds.
+===fse===
+intervals=256
+fse_size=1894067, streamSize=776594
+[fse]: 		ratio=4.297710, outsize=2670669, time=0.013540
+totalByteLength=2681069
+compression time = 0.052869
+intervals=256
+fse_size=1894067, streamSize=776594
+[fse]: 		ratio=4.297710, outsize=2670669, time=0.013768
+totalByteLength=2681069
+compression time = 0.052758
+intervals=256
+fse_size=1894067, streamSize=776594
+[fse]: 		ratio=4.297710, outsize=2670669, time=0.013927
+totalByteLength=2681069
+compression time = 0.052835
+2681142/11477760
+[decoder]: time=0.023600
+decompression time = 0.038497 seconds.
+[decoder]: time=0.020979
+decompression time = 0.035314 seconds.
+[decoder]: time=0.020812
+decompression time = 0.035057 seconds.
+FILE: xx.dat2
+===huffman===
+intervals=128
+treeByteSize=1786, enCodeSize=2274342
+[huffman]: 	ratio=5.042651, outsize=2276136, time=0.016320
+totalByteLength=2280135
+compression time = 0.055338
+intervals=128
+treeByteSize=1786, enCodeSize=2274342
+[huffman]: 	ratio=5.042651, outsize=2276136, time=0.016343
+totalByteLength=2280135
+compression time = 0.054264
+intervals=128
+treeByteSize=1786, enCodeSize=2274342
+[huffman]: 	ratio=5.042651, outsize=2276136, time=0.016348
+totalByteLength=2280135
+compression time = 0.059949
+2280199/11477760
+[decoder]: time=0.042563
+decompression time = 0.055159 seconds.
+[decoder]: time=0.037790
+decompression time = 0.049637 seconds.
+[decoder]: time=0.037719
+decompression time = 0.049923 seconds.
+===fse===
+intervals=128
+fse_size=1987120, streamSize=278123
+[fse]: 		ratio=5.066882, outsize=2265251, time=0.013498
+totalByteLength=2269250
+compression time = 0.056988
+intervals=128
+fse_size=1987120, streamSize=278123
+[fse]: 		ratio=5.066882, outsize=2265251, time=0.013719
+totalByteLength=2269250
+compression time = 0.051858
+intervals=128
+fse_size=1987120, streamSize=278123
+[fse]: 		ratio=5.066882, outsize=2265251, time=0.013629
+totalByteLength=2269250
+compression time = 0.051700
+2269314/11477760
+[decoder]: time=0.025323
+decompression time = 0.040017 seconds.
+[decoder]: time=0.026429
+decompression time = 0.041099 seconds.
+[decoder]: time=0.022431
+decompression time = 0.036544 seconds.
+FILE: yy.dat2
+===huffman===
+intervals=128
+treeByteSize=1786, enCodeSize=2255652
+[huffman]: 	ratio=5.084401, outsize=2257446, time=0.016449
+totalByteLength=2260929
+compression time = 0.058789
+intervals=128
+treeByteSize=1786, enCodeSize=2255652
+[huffman]: 	ratio=5.084401, outsize=2257446, time=0.016547
+totalByteLength=2260929
+compression time = 0.054401
+intervals=128
+treeByteSize=1786, enCodeSize=2255652
+[huffman]: 	ratio=5.084401, outsize=2257446, time=0.016533
+totalByteLength=2260929
+compression time = 0.059658
+2260993/11477760
+[decoder]: time=0.044943
+decompression time = 0.057519 seconds.
+[decoder]: time=0.045936
+decompression time = 0.060046 seconds.
+[decoder]: time=0.048494
+decompression time = 0.061047 seconds.
+===fse===
+intervals=128
+fse_size=1985473, streamSize=258438
+[fse]: 		ratio=5.115051, outsize=2243919, time=0.013657
+totalByteLength=2247402
+compression time = 0.051266
+intervals=128
+fse_size=1985473, streamSize=258438
+[fse]: 		ratio=5.115051, outsize=2243919, time=0.013812
+totalByteLength=2247402
+compression time = 0.052050
+intervals=128
+fse_size=1985473, streamSize=258438
+[fse]: 		ratio=5.115051, outsize=2243919, time=0.013638
+totalByteLength=2247402
+compression time = 0.051907
+2247466/11477760
+[decoder]: time=0.024345
+decompression time = 0.038822 seconds.
+[decoder]: time=0.021999
+decompression time = 0.036149 seconds.
+[decoder]: time=0.022132
+decompression time = 0.036267 seconds.
+FILE: zz.dat2
+===huffman===
+intervals=128
+treeByteSize=1786, enCodeSize=2407342
+[huffman]: 	ratio=4.764264, outsize=2409136, time=0.016195
+totalByteLength=2461114
+compression time = 0.059545
+intervals=128
+treeByteSize=1786, enCodeSize=2407342
+[huffman]: 	ratio=4.764264, outsize=2409136, time=0.016487
+totalByteLength=2461114
+compression time = 0.055957
+intervals=128
+treeByteSize=1786, enCodeSize=2407342
+[huffman]: 	ratio=4.764264, outsize=2409136, time=0.016602
+totalByteLength=2461114
+compression time = 0.055439
+2456406/11477760
+[decoder]: time=0.046427
+decompression time = 0.059715 seconds.
+[decoder]: time=0.054432
+decompression time = 0.067521 seconds.
+[decoder]: time=0.050170
+decompression time = 0.063567 seconds.
+===fse===
+intervals=128
+fse_size=1976801, streamSize=426731
+[fse]: 		ratio=4.775356, outsize=2403540, time=0.013984
+totalByteLength=2455518
+compression time = 0.053481
+intervals=128
+fse_size=1976801, streamSize=426731
+[fse]: 		ratio=4.775356, outsize=2403540, time=0.013741
+totalByteLength=2455518
+compression time = 0.053333
+intervals=128
+fse_size=1976801, streamSize=426731
+[fse]: 		ratio=4.775356, outsize=2403540, time=0.014090
+totalByteLength=2455518
+compression time = 0.052742
+2450583/11477760
+[decoder]: time=0.025349
+decompression time = 0.040684 seconds.
+[decoder]: time=0.022843
+decompression time = 0.037802 seconds.
+[decoder]: time=0.022968
+decompression time = 0.037798 seconds.
+CNT:
+EB: 80
+FILE: vx.dat2
+===huffman===
+intervals=4096
+treeByteSize=59410, enCodeSize=3842546
+[huffman]: 	ratio=2.941534, outsize=3901964, time=0.017354
+totalByteLength=3902188
+compression time = 0.061982
+intervals=4096
+treeByteSize=59410, enCodeSize=3842546
+[huffman]: 	ratio=2.941534, outsize=3901964, time=0.017322
+totalByteLength=3902188
+compression time = 0.058541
+intervals=4096
+treeByteSize=59410, enCodeSize=3842546
+[huffman]: 	ratio=2.941534, outsize=3901964, time=0.017692
+totalByteLength=3902188
+compression time = 0.058763
+3871175/11477760
+[decoder]: time=0.081915
+decompression time = 0.095779 seconds.
+[decoder]: time=0.087833
+decompression time = 0.101640 seconds.
+[decoder]: time=0.078509
+decompression time = 0.090992 seconds.
+===fse===
+intervals=4096
+fse_size=1354207, streamSize=2509777
+[fse]: 		ratio=2.970441, outsize=3863992, time=0.014136
+totalByteLength=3864216
+compression time = 0.054888
+intervals=4096
+fse_size=1354207, streamSize=2509777
+[fse]: 		ratio=2.970441, outsize=3863992, time=0.014636
+totalByteLength=3864216
+compression time = 0.055048
+intervals=4096
+fse_size=1354207, streamSize=2509777
+[fse]: 		ratio=2.970441, outsize=3863992, time=0.014165
+totalByteLength=3864216
+compression time = 0.055777
+3864316/11477760
+[decoder]: time=0.020805
+decompression time = 0.036564 seconds.
+[decoder]: time=0.016300
+decompression time = 0.031692 seconds.
+[decoder]: time=0.016340
+decompression time = 0.031299 seconds.
+FILE: vy.dat2
+===huffman===
+intervals=4096
+treeByteSize=61174, enCodeSize=3860086
+[huffman]: 	ratio=2.927053, outsize=3921268, time=0.017308
+totalByteLength=3921463
+compression time = 0.060705
+intervals=4096
+treeByteSize=61174, enCodeSize=3860086
+[huffman]: 	ratio=2.927053, outsize=3921268, time=0.017762
+totalByteLength=3921463
+compression time = 0.058657
+intervals=4096
+treeByteSize=61174, enCodeSize=3860086
+[huffman]: 	ratio=2.927053, outsize=3921268, time=0.017114
+totalByteLength=3921463
+compression time = 0.065999
+3890165/11477760
+[decoder]: time=0.086915
+decompression time = 0.100816 seconds.
+[decoder]: time=0.086834
+decompression time = 0.100614 seconds.
+[decoder]: time=0.082653
+decompression time = 0.095754 seconds.
+===fse===
+intervals=4096
+fse_size=1351326, streamSize=2529117
+[fse]: 		ratio=2.957842, outsize=3880451, time=0.014242
+totalByteLength=3880646
+compression time = 0.054935
+intervals=4096
+fse_size=1351326, streamSize=2529117
+[fse]: 		ratio=2.957842, outsize=3880451, time=0.014408
+totalByteLength=3880646
+compression time = 0.055071
+intervals=4096
+fse_size=1351326, streamSize=2529117
+[fse]: 		ratio=2.957842, outsize=3880451, time=0.014407
+totalByteLength=3880646
+compression time = 0.055046
+3880746/11477760
+[decoder]: time=0.016853
+decompression time = 0.034275 seconds.
+[decoder]: time=0.016408
+decompression time = 0.031424 seconds.
+[decoder]: time=0.016071
+decompression time = 0.031246 seconds.
+FILE: vz.dat2
+===huffman===
+intervals=4096
+treeByteSize=59788, enCodeSize=3848474
+[huffman]: 	ratio=2.936788, outsize=3908270, time=0.017419
+totalByteLength=3908397
+compression time = 0.058802
+intervals=4096
+treeByteSize=59788, enCodeSize=3848474
+[huffman]: 	ratio=2.936788, outsize=3908270, time=0.017296
+totalByteLength=3908397
+compression time = 0.058404
+intervals=4096
+treeByteSize=59788, enCodeSize=3848474
+[huffman]: 	ratio=2.936788, outsize=3908270, time=0.017360
+totalByteLength=3908397
+compression time = 0.058061
+3877119/11477760
+[decoder]: time=0.082673
+decompression time = 0.096597 seconds.
+[decoder]: time=0.087713
+decompression time = 0.101750 seconds.
+[decoder]: time=0.085652
+decompression time = 0.099702 seconds.
+===fse===
+intervals=4096
+fse_size=1352066, streamSize=2517569
+[fse]: 		ratio=2.966103, outsize=3869643, time=0.014496
+totalByteLength=3869770
+compression time = 0.055643
+intervals=4096
+fse_size=1352066, streamSize=2517569
+[fse]: 		ratio=2.966103, outsize=3869643, time=0.013979
+totalByteLength=3869770
+compression time = 0.055291
+intervals=4096
+fse_size=1352066, streamSize=2517569
+[fse]: 		ratio=2.966103, outsize=3869643, time=0.014504
+totalByteLength=3869770
+compression time = 0.055439
+3869870/11477760
+[decoder]: time=0.020228
+decompression time = 0.036770 seconds.
+[decoder]: time=0.016297
+decompression time = 0.031622 seconds.
+[decoder]: time=0.016201
+decompression time = 0.031152 seconds.
+FILE: xx.dat2
+===huffman===
+intervals=1024
+treeByteSize=18424, enCodeSize=3449682
+[huffman]: 	ratio=3.309511, outsize=3468114, time=0.016592
+totalByteLength=3499044
+compression time = 0.064599
+intervals=1024
+treeByteSize=18424, enCodeSize=3449682
+[huffman]: 	ratio=3.309511, outsize=3468114, time=0.016225
+totalByteLength=3499044
+compression time = 0.059038
+intervals=1024
+treeByteSize=18424, enCodeSize=3449682
+[huffman]: 	ratio=3.309511, outsize=3468114, time=0.016024
+totalByteLength=3499044
+compression time = 0.057216
+3488484/11477760
+[decoder]: time=0.066287
+decompression time = 0.080423 seconds.
+[decoder]: time=0.064058
+decompression time = 0.077333 seconds.
+[decoder]: time=0.064493
+decompression time = 0.078094 seconds.
+===fse===
+intervals=1024
+fse_size=1426548, streamSize=2043673
+[fse]: 		ratio=3.307494, outsize=3470229, time=0.014119
+totalByteLength=3501159
+compression time = 0.054887
+intervals=1024
+fse_size=1426548, streamSize=2043673
+[fse]: 		ratio=3.307494, outsize=3470229, time=0.014338
+totalByteLength=3501159
+compression time = 0.056421
+intervals=1024
+fse_size=1426548, streamSize=2043673
+[fse]: 		ratio=3.307494, outsize=3470229, time=0.014304
+totalByteLength=3501159
+compression time = 0.055254
+3499390/11477760
+[decoder]: time=0.021264
+decompression time = 0.036868 seconds.
+[decoder]: time=0.016789
+decompression time = 0.031862 seconds.
+[decoder]: time=0.016711
+decompression time = 0.031895 seconds.
+FILE: yy.dat2
+===huffman===
+intervals=1024
+treeByteSize=18424, enCodeSize=3432696
+[huffman]: 	ratio=3.325800, outsize=3451128, time=0.016019
+totalByteLength=3466080
+compression time = 0.061203
+intervals=1024
+treeByteSize=18424, enCodeSize=3432696
+[huffman]: 	ratio=3.325800, outsize=3451128, time=0.015734
+totalByteLength=3466080
+compression time = 0.057855
+intervals=1024
+treeByteSize=18424, enCodeSize=3432696
+[huffman]: 	ratio=3.325800, outsize=3451128, time=0.015977
+totalByteLength=3466080
+compression time = 0.055908
+3456975/11477760
+[decoder]: time=0.068364
+decompression time = 0.081961 seconds.
+[decoder]: time=0.065493
+decompression time = 0.079798 seconds.
+[decoder]: time=0.059389
+decompression time = 0.072398 seconds.
+===fse===
+intervals=1024
+fse_size=1443293, streamSize=2013409
+[fse]: 		ratio=3.320429, outsize=3456710, time=0.014071
+totalByteLength=3471662
+compression time = 0.054175
+intervals=1024
+fse_size=1443293, streamSize=2013409
+[fse]: 		ratio=3.320429, outsize=3456710, time=0.014220
+totalByteLength=3471662
+compression time = 0.053985
+intervals=1024
+fse_size=1443293, streamSize=2013409
+[fse]: 		ratio=3.320429, outsize=3456710, time=0.013935
+totalByteLength=3471662
+compression time = 0.053873
+3471753/11477760
+[decoder]: time=0.018870
+decompression time = 0.034399 seconds.
+[decoder]: time=0.016352
+decompression time = 0.031280 seconds.
+[decoder]: time=0.016762
+decompression time = 0.031739 seconds.
+FILE: zz.dat2
+===huffman===
+intervals=2048
+treeByteSize=35344, enCodeSize=3620565
+[huffman]: 	ratio=3.139502, outsize=3655917, time=0.016637
+totalByteLength=3657187
+compression time = 0.062081
+intervals=2048
+treeByteSize=35344, enCodeSize=3620565
+[huffman]: 	ratio=3.139502, outsize=3655917, time=0.017167
+totalByteLength=3657187
+compression time = 0.058100
+intervals=2048
+treeByteSize=35344, enCodeSize=3620565
+[huffman]: 	ratio=3.139502, outsize=3655917, time=0.016488
+totalByteLength=3657187
+compression time = 0.056657
+3640004/11477760
+[decoder]: time=0.072189
+decompression time = 0.085223 seconds.
+[decoder]: time=0.074662
+decompression time = 0.089368 seconds.
+[decoder]: time=0.076584
+decompression time = 0.091226 seconds.
+===fse===
+intervals=2048
+fse_size=1381778, streamSize=2257029
+[fse]: 		ratio=3.154258, outsize=3638815, time=0.013961
+totalByteLength=3640085
+compression time = 0.054213
+intervals=2048
+fse_size=1381778, streamSize=2257029
+[fse]: 		ratio=3.154258, outsize=3638815, time=0.014346
+totalByteLength=3640085
+compression time = 0.054569
+intervals=2048
+fse_size=1381778, streamSize=2257029
+[fse]: 		ratio=3.154258, outsize=3638815, time=0.014074
+totalByteLength=3640085
+compression time = 0.059424
+3640179/11477760
+[decoder]: time=0.016106
+decompression time = 0.031009 seconds.
+[decoder]: time=0.016015
+decompression time = 0.030796 seconds.
+[decoder]: time=0.016008
+decompression time = 0.030462 seconds.
+CNT:
+EB: 100
+FILE: vx.dat2
+===huffman===
+intervals=32768
+treeByteSize=504640, enCodeSize=5037147
+[huffman]: 	ratio=2.071127, outsize=5541795, time=0.031535
+totalByteLength=5543895
+compression time = 0.076808
+intervals=32768
+treeByteSize=504640, enCodeSize=5037147
+[huffman]: 	ratio=2.071127, outsize=5541795, time=0.031467
+totalByteLength=5543895
+compression time = 0.077104
+intervals=32768
+treeByteSize=504640, enCodeSize=5037147
+[huffman]: 	ratio=2.071127, outsize=5541795, time=0.032224
+totalByteLength=5543895
+compression time = 0.077711
+5254413/11477760
+[decoder]: time=0.150582
+decompression time = 0.166134 seconds.
+[decoder]: time=0.143621
+decompression time = 0.157959 seconds.
+[decoder]: time=0.144381
+decompression time = 0.158762 seconds.
+===fse===
+intervals=32768
+fse_size=1283199, streamSize=3774799
+[fse]: 		ratio=2.269226, outsize=5058006, time=0.014688
+totalByteLength=5060106
+compression time = 0.064337
+intervals=32768
+fse_size=1283199, streamSize=3774799
+[fse]: 		ratio=2.269226, outsize=5058006, time=0.014758
+totalByteLength=5060106
+compression time = 0.057649
+intervals=32768
+fse_size=1283199, streamSize=3774799
+[fse]: 		ratio=2.269226, outsize=5058006, time=0.015052
+totalByteLength=5060106
+compression time = 0.057790
+5060233/11477760
+[decoder]: time=0.021783
+decompression time = 0.039098 seconds.
+[decoder]: time=0.015489
+decompression time = 0.031230 seconds.
+[decoder]: time=0.015538
+decompression time = 0.031199 seconds.
+FILE: vy.dat2
+===huffman===
+intervals=32768
+treeByteSize=518230, enCodeSize=5054026
+[huffman]: 	ratio=2.059802, outsize=5572264, time=0.032117
+totalByteLength=5574862
+compression time = 0.079912
+intervals=32768
+treeByteSize=518230, enCodeSize=5054026
+[huffman]: 	ratio=2.059802, outsize=5572264, time=0.032047
+totalByteLength=5574862
+compression time = 0.077714
+intervals=32768
+treeByteSize=518230, enCodeSize=5054026
+[huffman]: 	ratio=2.059802, outsize=5572264, time=0.032060
+totalByteLength=5574862
+compression time = 0.084752
+5275965/11477760
+[decoder]: time=0.149298
+decompression time = 0.164736 seconds.
+[decoder]: time=0.143481
+decompression time = 0.158342 seconds.
+[decoder]: time=0.145298
+decompression time = 0.159690 seconds.
+===fse===
+intervals=32768
+fse_size=1283251, streamSize=3791535
+[fse]: 		ratio=2.261719, outsize=5074794, time=0.014660
+totalByteLength=5077392
+compression time = 0.057073
+intervals=32768
+fse_size=1283251, streamSize=3791535
+[fse]: 		ratio=2.261719, outsize=5074794, time=0.014658
+totalByteLength=5077392
+compression time = 0.062364
+intervals=32768
+fse_size=1283251, streamSize=3791535
+[fse]: 		ratio=2.261719, outsize=5074794, time=0.014828
+totalByteLength=5077392
+compression time = 0.056780
+5077519/11477760
+[decoder]: time=0.019447
+decompression time = 0.036792 seconds.
+[decoder]: time=0.015274
+decompression time = 0.030864 seconds.
+[decoder]: time=0.018138
+decompression time = 0.034453 seconds.
+FILE: vz.dat2
+===huffman===
+intervals=32768
+treeByteSize=507934, enCodeSize=5043000
+[huffman]: 	ratio=2.067714, outsize=5550942, time=0.031354
+totalByteLength=5553709
+compression time = 0.082057
+intervals=32768
+treeByteSize=507934, enCodeSize=5043000
+[huffman]: 	ratio=2.067714, outsize=5550942, time=0.031456
+totalByteLength=5553709
+compression time = 0.076652
+intervals=32768
+treeByteSize=507934, enCodeSize=5043000
+[huffman]: 	ratio=2.067714, outsize=5550942, time=0.031593
+totalByteLength=5553709
+compression time = 0.076773
+5264845/11477760
+[decoder]: time=0.147071
+decompression time = 0.162862 seconds.
+[decoder]: time=0.146910
+decompression time = 0.162458 seconds.
+[decoder]: time=0.142454
+decompression time = 0.157649 seconds.
+===fse===
+intervals=32768
+fse_size=1282825, streamSize=3781083
+[fse]: 		ratio=2.266578, outsize=5063916, time=0.014918
+totalByteLength=5066683
+compression time = 0.059316
+intervals=32768
+fse_size=1282825, streamSize=3781083
+[fse]: 		ratio=2.266578, outsize=5063916, time=0.014822
+totalByteLength=5066683
+compression time = 0.062399
+intervals=32768
+fse_size=1282825, streamSize=3781083
+[fse]: 		ratio=2.266578, outsize=5063916, time=0.014707
+totalByteLength=5066683
+compression time = 0.057319
+5066810/11477760
+[decoder]: time=0.019421
+decompression time = 0.036938 seconds.
+[decoder]: time=0.015334
+decompression time = 0.031019 seconds.
+[decoder]: time=0.017064
+decompression time = 0.033381 seconds.
+FILE: xx.dat2
+===huffman===
+intervals=16384
+treeByteSize=238690, enCodeSize=4655410
+[huffman]: 	ratio=2.345220, outsize=4894108, time=0.023012
+totalByteLength=4896448
+compression time = 0.067972
+intervals=16384
+treeByteSize=238690, enCodeSize=4655410
+[huffman]: 	ratio=2.345220, outsize=4894108, time=0.022565
+totalByteLength=4896448
+compression time = 0.065788
+intervals=16384
+treeByteSize=238690, enCodeSize=4655410
+[huffman]: 	ratio=2.345220, outsize=4894108, time=0.022449
+totalByteLength=4896448
+compression time = 0.065723
+4761605/11477760
+[decoder]: time=0.117686
+decompression time = 0.132348 seconds.
+[decoder]: time=0.114195
+decompression time = 0.128519 seconds.
+[decoder]: time=0.110708
+decompression time = 0.124420 seconds.
+===fse===
+intervals=16384
+fse_size=1280976, streamSize=3394524
+[fse]: 		ratio=2.454869, outsize=4675508, time=0.014521
+totalByteLength=4677848
+compression time = 0.056513
+intervals=16384
+fse_size=1280976, streamSize=3394524
+[fse]: 		ratio=2.454869, outsize=4675508, time=0.014480
+totalByteLength=4677848
+compression time = 0.063888
+intervals=16384
+fse_size=1280976, streamSize=3394524
+[fse]: 		ratio=2.454869, outsize=4675508, time=0.014376
+totalByteLength=4677848
+compression time = 0.056260
+4677966/11477760
+[decoder]: time=0.017581
+decompression time = 0.033779 seconds.
+[decoder]: time=0.015657
+decompression time = 0.031591 seconds.
+[decoder]: time=0.019297
+decompression time = 0.036324 seconds.
+FILE: yy.dat2
+===huffman===
+intervals=16384
+treeByteSize=227188, enCodeSize=4631866
+[huffman]: 	ratio=2.362135, outsize=4859062, time=0.022120
+totalByteLength=4861253
+compression time = 0.072404
+intervals=16384
+treeByteSize=227188, enCodeSize=4631866
+[huffman]: 	ratio=2.362135, outsize=4859062, time=0.022087
+totalByteLength=4861253
+compression time = 0.065591
+intervals=16384
+treeByteSize=227188, enCodeSize=4631866
+[huffman]: 	ratio=2.362135, outsize=4859062, time=0.022867
+totalByteLength=4861253
+compression time = 0.065744
+4733076/11477760
+[decoder]: time=0.115325
+decompression time = 0.129749 seconds.
+[decoder]: time=0.110760
+decompression time = 0.124193 seconds.
+[decoder]: time=0.111340
+decompression time = 0.125055 seconds.
+===fse===
+intervals=16384
+fse_size=1283919, streamSize=3365776
+[fse]: 		ratio=2.468493, outsize=4649703, time=0.014507
+totalByteLength=4651894
+compression time = 0.056189
+intervals=16384
+fse_size=1283919, streamSize=3365776
+[fse]: 		ratio=2.468493, outsize=4649703, time=0.015554
+totalByteLength=4651894
+compression time = 0.062843
+intervals=16384
+fse_size=1283919, streamSize=3365776
+[fse]: 		ratio=2.468493, outsize=4649703, time=0.014398
+totalByteLength=4651894
+compression time = 0.056175
+4652012/11477760
+[decoder]: time=0.019516
+decompression time = 0.036677 seconds.
+[decoder]: time=0.015331
+decompression time = 0.031213 seconds.
+[decoder]: time=0.015537
+decompression time = 0.030894 seconds.
+FILE: zz.dat2
+===huffman===
+intervals=16384
+treeByteSize=287200, enCodeSize=4804319
+[huffman]: 	ratio=2.254286, outsize=5091527, time=0.024507
+totalByteLength=5097163
+compression time = 0.068635
+intervals=16384
+treeByteSize=287200, enCodeSize=4804319
+[huffman]: 	ratio=2.254286, outsize=5091527, time=0.024241
+totalByteLength=5097163
+compression time = 0.070851
+intervals=16384
+treeByteSize=287200, enCodeSize=4804319
+[huffman]: 	ratio=2.254286, outsize=5091527, time=0.024445
+totalByteLength=5097163
+compression time = 0.068377
+4930984/11477760
+[decoder]: time=0.108153
+decompression time = 0.122761 seconds.
+[decoder]: time=0.102487
+decompression time = 0.116425 seconds.
+[decoder]: time=0.104002
+decompression time = 0.117753 seconds.
+===fse===
+intervals=16384
+fse_size=1275412, streamSize=3557932
+[fse]: 		ratio=2.374700, outsize=4833352, time=0.014500
+totalByteLength=4838988
+compression time = 0.056546
+intervals=16384
+fse_size=1275412, streamSize=3557932
+[fse]: 		ratio=2.374700, outsize=4833352, time=0.014516
+totalByteLength=4838988
+compression time = 0.057395
+intervals=16384
+fse_size=1275412, streamSize=3557932
+[fse]: 		ratio=2.374700, outsize=4833352, time=0.014775
+totalByteLength=4838988
+compression time = 0.056853
+4839109/11477760
+[decoder]: time=0.017749
+decompression time = 0.034113 seconds.
+[decoder]: time=0.016091
+decompression time = 0.032323 seconds.
+[decoder]: time=0.018675
+decompression time = 0.034956 seconds.
+CNT:
+EB: 120
+FILE: vx.dat2
+===huffman===
+intervals=65536
+treeByteSize=1703924, enCodeSize=3719560
+[huffman]: 	ratio=2.116304, outsize=5423492, time=0.052995
+totalByteLength=9771463
+compression time = 0.147881
+intervals=65536
+treeByteSize=1703924, enCodeSize=3719560
+[huffman]: 	ratio=2.116304, outsize=5423492, time=0.053292
+totalByteLength=9771463
+compression time = 0.152879
+intervals=65536
+treeByteSize=1703924, enCodeSize=3719560
+[huffman]: 	ratio=2.116304, outsize=5423492, time=0.053009
+totalByteLength=9771463
+compression time = 0.143971
+8021939/11477760
+[decoder]: time=0.147470
+decompression time = 0.191054 seconds.
+[decoder]: time=0.147767
+decompression time = 0.189030 seconds.
+[decoder]: time=0.148190
+decompression time = 0.189660 seconds.
+===fse===
+intervals=65536
+fse_size=1009104, streamSize=2711239
+[fse]: 		ratio=3.085128, outsize=3720351, time=0.019036
+totalByteLength=8068322
+compression time = 0.105969
+intervals=65536
+fse_size=1009104, streamSize=2711239
+[fse]: 		ratio=3.085128, outsize=3720351, time=0.019054
+totalByteLength=8068322
+compression time = 0.102049
+intervals=65536
+fse_size=1009104, streamSize=2711239
+[fse]: 		ratio=3.085128, outsize=3720351, time=0.018990
+totalByteLength=8068322
+compression time = 0.101738
+7472542/11477760
+[decoder]: time=0.021224
+decompression time = 0.065239 seconds.
+[decoder]: time=0.020930
+decompression time = 0.062178 seconds.
+[decoder]: time=0.021006
+decompression time = 0.062951 seconds.
+FILE: vy.dat2
+===huffman===
+intervals=65536
+treeByteSize=1703924, enCodeSize=3637266
+[huffman]: 	ratio=2.148911, outsize=5341198, time=0.052618
+totalByteLength=9844155
+compression time = 0.147105
+intervals=65536
+treeByteSize=1703924, enCodeSize=3637266
+[huffman]: 	ratio=2.148911, outsize=5341198, time=0.053136
+totalByteLength=9844155
+compression time = 0.145755
+intervals=65536
+treeByteSize=1703924, enCodeSize=3637266
+[huffman]: 	ratio=2.148911, outsize=5341198, time=0.052972
+totalByteLength=9844155
+compression time = 0.151820
+8070856/11477760
+[decoder]: time=0.150340
+decompression time = 0.198825 seconds.
+[decoder]: time=0.146967
+decompression time = 0.189199 seconds.
+[decoder]: time=0.146994
+decompression time = 0.190146 seconds.
+===fse===
+intervals=65536
+fse_size=994312, streamSize=2646362
+[fse]: 		ratio=3.152640, outsize=3640682, time=0.019582
+totalByteLength=8143639
+compression time = 0.104542
+intervals=65536
+fse_size=994312, streamSize=2646362
+[fse]: 		ratio=3.152640, outsize=3640682, time=0.019296
+totalByteLength=8143639
+compression time = 0.103159
+intervals=65536
+fse_size=994312, streamSize=2646362
+[fse]: 		ratio=3.152640, outsize=3640682, time=0.019565
+totalByteLength=8143639
+compression time = 0.108997
+7524461/11477760
+[decoder]: time=0.021032
+decompression time = 0.066326 seconds.
+[decoder]: time=0.021466
+decompression time = 0.064134 seconds.
+[decoder]: time=0.021403
+decompression time = 0.064138 seconds.
+FILE: vz.dat2
+===huffman===
+intervals=65536
+treeByteSize=1703924, enCodeSize=3694357
+[huffman]: 	ratio=2.126185, outsize=5398289, time=0.054014
+totalByteLength=9791514
+compression time = 0.146694
+intervals=65536
+treeByteSize=1703924, enCodeSize=3694357
+[huffman]: 	ratio=2.126185, outsize=5398289, time=0.053610
+totalByteLength=9791514
+compression time = 0.146467
+intervals=65536
+treeByteSize=1703924, enCodeSize=3694357
+[huffman]: 	ratio=2.126185, outsize=5398289, time=0.053974
+totalByteLength=9791514
+compression time = 0.145968
+8039748/11477760
+[decoder]: time=0.148941
+decompression time = 0.193823 seconds.
+[decoder]: time=0.148170
+decompression time = 0.190375 seconds.
+[decoder]: time=0.149455
+decompression time = 0.192156 seconds.
+===fse===
+intervals=65536
+fse_size=1003942, streamSize=2692193
+[fse]: 		ratio=3.105334, outsize=3696143, time=0.019553
+totalByteLength=8089368
+compression time = 0.103557
+intervals=65536
+fse_size=1003942, streamSize=2692193
+[fse]: 		ratio=3.105334, outsize=3696143, time=0.019145
+totalByteLength=8089368
+compression time = 0.103306
+intervals=65536
+fse_size=1003942, streamSize=2692193
+[fse]: 		ratio=3.105334, outsize=3696143, time=0.019027
+totalByteLength=8089368
+compression time = 0.107513
+7490710/11477760
+[decoder]: time=0.020922
+decompression time = 0.064990 seconds.
+[decoder]: time=0.022921
+decompression time = 0.067477 seconds.
+[decoder]: time=0.021334
+decompression time = 0.062990 seconds.
+FILE: xx.dat2
+===huffman===
+intervals=65536
+treeByteSize=1703924, enCodeSize=5343077
+[huffman]: 	ratio=1.628742, outsize=7047009, time=0.058451
+totalByteLength=7992445
+compression time = 0.122562
+intervals=65536
+treeByteSize=1703924, enCodeSize=5343077
+[huffman]: 	ratio=1.628742, outsize=7047009, time=0.057929
+totalByteLength=7992445
+compression time = 0.121338
+intervals=65536
+treeByteSize=1703924, enCodeSize=5343077
+[huffman]: 	ratio=1.628742, outsize=7047009, time=0.060044
+totalByteLength=7992445
+compression time = 0.128087
+6784850/11477760
+[decoder]: time=0.211164
+decompression time = 0.236159 seconds.
+[decoder]: time=0.207556
+decompression time = 0.232231 seconds.
+[decoder]: time=0.211160
+decompression time = 0.235815 seconds.
+===fse===
+intervals=65536
+fse_size=1241138, streamSize=4108402
+[fse]: 		ratio=2.145557, outsize=5349548, time=0.015851
+totalByteLength=6294984
+compression time = 0.075192
+intervals=65536
+fse_size=1241138, streamSize=4108402
+[fse]: 		ratio=2.145557, outsize=5349548, time=0.015893
+totalByteLength=6294984
+compression time = 0.068857
+intervals=65536
+fse_size=1241138, streamSize=4108402
+[fse]: 		ratio=2.145557, outsize=5349548, time=0.015967
+totalByteLength=6294984
+compression time = 0.069232
+6219243/11477760
+[decoder]: time=0.017575
+decompression time = 0.041161 seconds.
+[decoder]: time=0.016712
+decompression time = 0.039050 seconds.
+[decoder]: time=0.016761
+decompression time = 0.038896 seconds.
+FILE: yy.dat2
+===huffman===
+intervals=65536
+treeByteSize=1703924, enCodeSize=5374701
+[huffman]: 	ratio=1.621466, outsize=7078633, time=0.058344
+totalByteLength=7836834
+compression time = 0.123975
+intervals=65536
+treeByteSize=1703924, enCodeSize=5374701
+[huffman]: 	ratio=1.621466, outsize=7078633, time=0.058780
+totalByteLength=7836834
+compression time = 0.120615
+intervals=65536
+treeByteSize=1703924, enCodeSize=5374701
+[huffman]: 	ratio=1.621466, outsize=7078633, time=0.058304
+totalByteLength=7836834
+compression time = 0.120050
+6652915/11477760
+[decoder]: time=0.217197
+decompression time = 0.241155 seconds.
+[decoder]: time=0.214082
+decompression time = 0.235295 seconds.
+[decoder]: time=0.215555
+decompression time = 0.239636 seconds.
+===fse===
+intervals=65536
+fse_size=1252281, streamSize=4128649
+[fse]: 		ratio=2.133041, outsize=5380938, time=0.016080
+totalByteLength=6139139
+compression time = 0.068789
+intervals=65536
+fse_size=1252281, streamSize=4128649
+[fse]: 		ratio=2.133041, outsize=5380938, time=0.015650
+totalByteLength=6139139
+compression time = 0.073033
+intervals=65536
+fse_size=1252281, streamSize=4128649
+[fse]: 		ratio=2.133041, outsize=5380938, time=0.015901
+totalByteLength=6139139
+compression time = 0.072647
+6085025/11477760
+[decoder]: time=0.020544
+decompression time = 0.043120 seconds.
+[decoder]: time=0.022845
+decompression time = 0.045505 seconds.
+[decoder]: time=0.020220
+decompression time = 0.043726 seconds.
+FILE: zz.dat2
+===huffman===
+intervals=65536
+treeByteSize=1703924, enCodeSize=4753971
+[huffman]: 	ratio=1.777320, outsize=6457903, time=0.057278
+totalByteLength=8671436
+compression time = 0.132945
+intervals=65536
+treeByteSize=1703924, enCodeSize=4753971
+[huffman]: 	ratio=1.777320, outsize=6457903, time=0.056532
+totalByteLength=8671436
+compression time = 0.131483
+intervals=65536
+treeByteSize=1703924, enCodeSize=4753971
+[huffman]: 	ratio=1.777320, outsize=6457903, time=0.056617
+totalByteLength=8671436
+compression time = 0.135344
+7284369/11477760
+[decoder]: time=0.192419
+decompression time = 0.224580 seconds.
+[decoder]: time=0.190101
+decompression time = 0.219245 seconds.
+[decoder]: time=0.189515
+decompression time = 0.219598 seconds.
+===fse===
+intervals=65536
+fse_size=1171606, streamSize=3588822
+[fse]: 		ratio=2.411073, outsize=4760436, time=0.016856
+totalByteLength=6973969
+compression time = 0.083054
+intervals=65536
+fse_size=1171606, streamSize=3588822
+[fse]: 		ratio=2.411073, outsize=4760436, time=0.017588
+totalByteLength=6973969
+compression time = 0.083271
+intervals=65536
+fse_size=1171606, streamSize=3588822
+[fse]: 		ratio=2.411073, outsize=4760436, time=0.017005
+totalByteLength=6973969
+compression time = 0.082536
+6727543/11477760
+[decoder]: time=0.021768
+decompression time = 0.053723 seconds.
+[decoder]: time=0.018489
+decompression time = 0.047943 seconds.
+[decoder]: time=0.023611
+decompression time = 0.057998 seconds.
+CNT:
+EBMODE: NORM
+EB: 1E5
+FILE: vx.dat2
+===huffman===
+intervals=32
+treeByteSize=218, enCodeSize=927511
+[huffman]: 	ratio=12.371782, outsize=927737, time=0.012779
+totalByteLength=927827
+compression time = 0.049234
+intervals=32
+treeByteSize=218, enCodeSize=927511
+[huffman]: 	ratio=12.371782, outsize=927737, time=0.012994
+totalByteLength=927827
+compression time = 0.048921
+intervals=32
+treeByteSize=218, enCodeSize=927511
+[huffman]: 	ratio=12.371782, outsize=927737, time=0.012865
+totalByteLength=927827
+compression time = 0.051479
+927860/11477760
+[decoder]: time=0.031736
+decompression time = 0.044274 seconds.
+[decoder]: time=0.030572
+decompression time = 0.043290 seconds.
+[decoder]: time=0.024130
+decompression time = 0.036372 seconds.
+===fse===
+intervals=32
+fse_size=914707, streamSize=1
+[fse]: 		ratio=12.547895, outsize=914716, time=0.012665
+totalByteLength=914806
+compression time = 0.055636
+intervals=32
+fse_size=914707, streamSize=1
+[fse]: 		ratio=12.547895, outsize=914716, time=0.013081
+totalByteLength=914806
+compression time = 0.053605
+intervals=32
+fse_size=914707, streamSize=1
+[fse]: 		ratio=12.547895, outsize=914716, time=0.012993
+totalByteLength=914806
+compression time = 0.055942
+914836/11477760
+[decoder]: time=0.015661
+decompression time = 0.029151 seconds.
+[decoder]: time=0.015529
+decompression time = 0.029056 seconds.
+[decoder]: time=0.015425
+decompression time = 0.033099 seconds.
+FILE: vy.dat2
+===huffman===
+intervals=32
+treeByteSize=218, enCodeSize=927429
+[huffman]: 	ratio=12.372876, outsize=927655, time=0.012704
+totalByteLength=927745
+compression time = 0.049764
+intervals=32
+treeByteSize=218, enCodeSize=927429
+[huffman]: 	ratio=12.372876, outsize=927655, time=0.012854
+totalByteLength=927745
+compression time = 0.050529
+intervals=32
+treeByteSize=218, enCodeSize=927429
+[huffman]: 	ratio=12.372876, outsize=927655, time=0.012848
+totalByteLength=927745
+compression time = 0.049494
+907889/11477760
+[decoder]: time=0.031027
+decompression time = 0.044290 seconds.
+[decoder]: time=0.028333
+decompression time = 0.041233 seconds.
+[decoder]: time=0.023518
+decompression time = 0.035718 seconds.
+===fse===
+intervals=32
+fse_size=914676, streamSize=1
+[fse]: 		ratio=12.548320, outsize=914685, time=0.012978
+totalByteLength=914775
+compression time = 0.048602
+intervals=32
+fse_size=914676, streamSize=1
+[fse]: 		ratio=12.548320, outsize=914685, time=0.013007
+totalByteLength=914775
+compression time = 0.048755
+intervals=32
+fse_size=914676, streamSize=1
+[fse]: 		ratio=12.548320, outsize=914685, time=0.012888
+totalByteLength=914775
+compression time = 0.048708
+914805/11477760
+[decoder]: time=0.017771
+decompression time = 0.033528 seconds.
+[decoder]: time=0.016492
+decompression time = 0.034180 seconds.
+[decoder]: time=0.012424
+decompression time = 0.025922 seconds.
+FILE: vz.dat2
+===huffman===
+intervals=32
+treeByteSize=232, enCodeSize=927388
+[huffman]: 	ratio=12.373236, outsize=927628, time=0.012358
+totalByteLength=927718
+compression time = 0.052516
+intervals=32
+treeByteSize=232, enCodeSize=927388
+[huffman]: 	ratio=12.373236, outsize=927628, time=0.012688
+totalByteLength=927718
+compression time = 0.052697
+intervals=32
+treeByteSize=232, enCodeSize=927388
+[huffman]: 	ratio=12.373236, outsize=927628, time=0.012688
+totalByteLength=927718
+compression time = 0.056636
+899619/11477760
+[decoder]: time=0.026029
+decompression time = 0.038753 seconds.
+[decoder]: time=0.022944
+decompression time = 0.034963 seconds.
+[decoder]: time=0.023239
+decompression time = 0.035028 seconds.
+===fse===
+intervals=32
+fse_size=914690, streamSize=1
+[fse]: 		ratio=12.548128, outsize=914699, time=0.012654
+totalByteLength=914789
+compression time = 0.047737
+intervals=32
+fse_size=914690, streamSize=1
+[fse]: 		ratio=12.548128, outsize=914699, time=0.012934
+totalByteLength=914789
+compression time = 0.048661
+intervals=32
+fse_size=914690, streamSize=1
+[fse]: 		ratio=12.548128, outsize=914699, time=0.012905
+totalByteLength=914789
+compression time = 0.048610
+914819/11477760
+[decoder]: time=0.015370
+decompression time = 0.028768 seconds.
+[decoder]: time=0.012698
+decompression time = 0.025842 seconds.
+[decoder]: time=0.012656
+decompression time = 0.025813 seconds.
+FILE: xx.dat2
+===huffman===
+all same data!
+compression time = 0.003829
+all same data!
+compression time = 0.003694
+all same data!
+compression time = 0.003866
+44/11477760
+===fse===
+all same data!
+compression time = 0.003801
+all same data!
+compression time = 0.003899
+all same data!
+compression time = 0.002774
+44/11477760
+FILE: yy.dat2
+===huffman===
+all same data!
+compression time = 0.003795
+all same data!
+compression time = 0.003704
+all same data!
+compression time = 0.003806
+44/11477760
+===fse===
+all same data!
+compression time = 0.002878
+all same data!
+compression time = 0.002693
+all same data!
+compression time = 0.003471
+44/11477760
+FILE: zz.dat2
+===huffman===
+all same data!
+compression time = 0.003855
+all same data!
+compression time = 0.002857
+all same data!
+compression time = 0.002825
+44/11477760
+decompression time = 0.007924 seconds.
+decompression time = 0.006715 seconds.
+decompression time = 0.006805 seconds.
+===fse===
+all same data!
+compression time = 0.003675
+all same data!
+compression time = 0.003742
+all same data!
+compression time = 0.003676
+44/11477760
+decompression time = 0.008936 seconds.
+decompression time = 0.006813 seconds.
+decompression time = 0.008642 seconds.
+CNT:
+EB: 1E4
+FILE: vx.dat2
+===huffman===
+intervals=128
+treeByteSize=1758, enCodeSize=2092960
+[huffman]: 	ratio=5.479361, outsize=2094726, time=0.016258
+totalByteLength=2094828
+compression time = 0.054041
+intervals=128
+treeByteSize=1758, enCodeSize=2092960
+[huffman]: 	ratio=5.479361, outsize=2094726, time=0.016157
+totalByteLength=2094828
+compression time = 0.053598
+intervals=128
+treeByteSize=1758, enCodeSize=2092960
+[huffman]: 	ratio=5.479361, outsize=2094726, time=0.016460
+totalByteLength=2094828
+compression time = 0.053599
+2094886/11477760
+[decoder]: time=0.050401
+decompression time = 0.065645 seconds.
+[decoder]: time=0.043794
+decompression time = 0.055565 seconds.
+[decoder]: time=0.043784
+decompression time = 0.055604 seconds.
+===fse===
+intervals=128
+fse_size=1958053, streamSize=127778
+[fse]: 		ratio=5.502707, outsize=2085839, time=0.013636
+totalByteLength=2085941
+compression time = 0.051029
+intervals=128
+fse_size=1958053, streamSize=127778
+[fse]: 		ratio=5.502707, outsize=2085839, time=0.013349
+totalByteLength=2085941
+compression time = 0.050566
+intervals=128
+fse_size=1958053, streamSize=127778
+[fse]: 		ratio=5.502707, outsize=2085839, time=0.013481
+totalByteLength=2085941
+compression time = 0.056072
+2085999/11477760
+[decoder]: time=0.024272
+decompression time = 0.039342 seconds.
+[decoder]: time=0.019284
+decompression time = 0.033208 seconds.
+[decoder]: time=0.020037
+decompression time = 0.034337 seconds.
+FILE: vy.dat2
+===huffman===
+intervals=128
+treeByteSize=1772, enCodeSize=2092953
+[huffman]: 	ratio=5.479343, outsize=2094733, time=0.016379
+totalByteLength=2094838
+compression time = 0.059045
+intervals=128
+treeByteSize=1772, enCodeSize=2092953
+[huffman]: 	ratio=5.479343, outsize=2094733, time=0.016493
+totalByteLength=2094838
+compression time = 0.054043
+intervals=128
+treeByteSize=1772, enCodeSize=2092953
+[huffman]: 	ratio=5.479343, outsize=2094733, time=0.016450
+totalByteLength=2094838
+compression time = 0.054192
+2094896/11477760
+[decoder]: time=0.047140
+decompression time = 0.059682 seconds.
+[decoder]: time=0.049770
+decompression time = 0.063348 seconds.
+[decoder]: time=0.043985
+decompression time = 0.055824 seconds.
+===fse===
+intervals=128
+fse_size=1958366, streamSize=127589
+[fse]: 		ratio=5.502379, outsize=2085963, time=0.013635
+totalByteLength=2086068
+compression time = 0.050917
+intervals=128
+fse_size=1958366, streamSize=127589
+[fse]: 		ratio=5.502379, outsize=2085963, time=0.013449
+totalByteLength=2086068
+compression time = 0.051579
+intervals=128
+fse_size=1958366, streamSize=127589
+[fse]: 		ratio=5.502379, outsize=2085963, time=0.013616
+totalByteLength=2086068
+compression time = 0.050963
+2086126/11477760
+[decoder]: time=0.024292
+decompression time = 0.038565 seconds.
+[decoder]: time=0.018993
+decompression time = 0.033047 seconds.
+[decoder]: time=0.019249
+decompression time = 0.032994 seconds.
+FILE: vz.dat2
+===huffman===
+intervals=128
+treeByteSize=1786, enCodeSize=2092885
+[huffman]: 	ratio=5.479484, outsize=2094679, time=0.016467
+totalByteLength=2094788
+compression time = 0.055396
+intervals=128
+treeByteSize=1786, enCodeSize=2092885
+[huffman]: 	ratio=5.479484, outsize=2094679, time=0.016329
+totalByteLength=2094788
+compression time = 0.058520
+intervals=128
+treeByteSize=1786, enCodeSize=2092885
+[huffman]: 	ratio=5.479484, outsize=2094679, time=0.016252
+totalByteLength=2094788
+compression time = 0.053414
+2094846/11477760
+[decoder]: time=0.050276
+decompression time = 0.062587 seconds.
+[decoder]: time=0.043677
+decompression time = 0.055517 seconds.
+[decoder]: time=0.047764
+decompression time = 0.060461 seconds.
+===fse===
+intervals=128
+fse_size=1957972, streamSize=127671
+[fse]: 		ratio=5.503203, outsize=2085651, time=0.013456
+totalByteLength=2085760
+compression time = 0.051363
+intervals=128
+fse_size=1957972, streamSize=127671
+[fse]: 		ratio=5.503203, outsize=2085651, time=0.013948
+totalByteLength=2085760
+compression time = 0.051686
+intervals=128
+fse_size=1957972, streamSize=127671
+[fse]: 		ratio=5.503203, outsize=2085651, time=0.013342
+totalByteLength=2085760
+compression time = 0.050956
+2085818/11477760
+[decoder]: time=0.024641
+decompression time = 0.040358 seconds.
+[decoder]: time=0.018442
+decompression time = 0.033112 seconds.
+[decoder]: time=0.026598
+decompression time = 0.041490 seconds.
+FILE: xx.dat2
+===huffman===
+intervals=32
+treeByteSize=92, enCodeSize=439561
+[huffman]: 	ratio=26.105932, outsize=439661, time=0.009849
+totalByteLength=439750
+compression time = 0.047610
+intervals=32
+treeByteSize=92, enCodeSize=439561
+[huffman]: 	ratio=26.105932, outsize=439661, time=0.009526
+totalByteLength=439750
+compression time = 0.047274
+intervals=32
+treeByteSize=92, enCodeSize=439561
+[huffman]: 	ratio=26.105932, outsize=439661, time=0.009800
+totalByteLength=439750
+compression time = 0.047645
+181559/11477760
+[decoder]: time=0.015051
+decompression time = 0.028893 seconds.
+[decoder]: time=0.011393
+decompression time = 0.023182 seconds.
+[decoder]: time=0.011491
+decompression time = 0.023350 seconds.
+===fse===
+intervals=32
+fse_size=273729, streamSize=1
+[fse]: 		ratio=41.929728, outsize=273738, time=0.012787
+totalByteLength=273827
+compression time = 0.047386
+intervals=32
+fse_size=273729, streamSize=1
+[fse]: 		ratio=41.929728, outsize=273738, time=0.012609
+totalByteLength=273827
+compression time = 0.047115
+intervals=32
+fse_size=273729, streamSize=1
+[fse]: 		ratio=41.929728, outsize=273738, time=0.012693
+totalByteLength=273827
+compression time = 0.047330
+273845/11477760
+[decoder]: time=0.017563
+decompression time = 0.032413 seconds.
+[decoder]: time=0.013972
+decompression time = 0.026822 seconds.
+[decoder]: time=0.012645
+decompression time = 0.025497 seconds.
+FILE: yy.dat2
+===huffman===
+intervals=32
+treeByteSize=78, enCodeSize=424541
+[huffman]: 	ratio=27.030217, outsize=424627, time=0.010369
+totalByteLength=424715
+compression time = 0.048443
+intervals=32
+treeByteSize=78, enCodeSize=424541
+[huffman]: 	ratio=27.030217, outsize=424627, time=0.009768
+totalByteLength=424715
+compression time = 0.046197
+intervals=32
+treeByteSize=78, enCodeSize=424541
+[huffman]: 	ratio=27.030217, outsize=424627, time=0.009543
+totalByteLength=424715
+compression time = 0.046619
+157505/11477760
+[decoder]: time=0.014066
+decompression time = 0.025615 seconds.
+[decoder]: time=0.011112
+decompression time = 0.022830 seconds.
+[decoder]: time=0.010254
+decompression time = 0.023604 seconds.
+===fse===
+intervals=32
+fse_size=236845, streamSize=1
+[fse]: 		ratio=48.459220, outsize=236854, time=0.012730
+totalByteLength=236942
+compression time = 0.052598
+intervals=32
+fse_size=236845, streamSize=1
+[fse]: 		ratio=48.459220, outsize=236854, time=0.013107
+totalByteLength=236942
+compression time = 0.047658
+intervals=32
+fse_size=236845, streamSize=1
+[fse]: 		ratio=48.459220, outsize=236854, time=0.012944
+totalByteLength=236942
+compression time = 0.047752
+236957/11477760
+[decoder]: time=0.016363
+decompression time = 0.029625 seconds.
+[decoder]: time=0.013468
+decompression time = 0.026642 seconds.
+[decoder]: time=0.017166
+decompression time = 0.031728 seconds.
+FILE: zz.dat2
+===huffman===
+intervals=32
+treeByteSize=78, enCodeSize=517476
+[huffman]: 	ratio=22.176589, outsize=517562, time=0.010831
+totalByteLength=517651
+compression time = 0.049731
+intervals=32
+treeByteSize=78, enCodeSize=517476
+[huffman]: 	ratio=22.176589, outsize=517562, time=0.010981
+totalByteLength=517651
+compression time = 0.049641
+intervals=32
+treeByteSize=78, enCodeSize=517476
+[huffman]: 	ratio=22.176589, outsize=517562, time=0.011337
+totalByteLength=517651
+compression time = 0.054868
+295348/11477760
+[decoder]: time=0.015003
+decompression time = 0.027286 seconds.
+[decoder]: time=0.014285
+decompression time = 0.026336 seconds.
+[decoder]: time=0.018565
+decompression time = 0.031587 seconds.
+===fse===
+intervals=32
+fse_size=420406, streamSize=1
+[fse]: 		ratio=27.301024, outsize=420415, time=0.012685
+totalByteLength=420504
+compression time = 0.047678
+intervals=32
+fse_size=420406, streamSize=1
+[fse]: 		ratio=27.301024, outsize=420415, time=0.012885
+totalByteLength=420504
+compression time = 0.052945
+intervals=32
+fse_size=420406, streamSize=1
+[fse]: 		ratio=27.301024, outsize=420415, time=0.012903
+totalByteLength=420504
+compression time = 0.052778
+420525/11477760
+[decoder]: time=0.017471
+decompression time = 0.033193 seconds.
+[decoder]: time=0.012813
+decompression time = 0.025751 seconds.
+[decoder]: time=0.012738
+decompression time = 0.025740 seconds.
+CNT:
+EB: 1E3
+FILE: vx.dat2
+===huffman===
+intervals=1024
+treeByteSize=18424, enCodeSize=3289076
+[huffman]: 	ratio=3.470214, outsize=3307508, time=0.015935
+totalByteLength=3308711
+compression time = 0.055954
+intervals=1024
+treeByteSize=18424, enCodeSize=3289076
+[huffman]: 	ratio=3.470214, outsize=3307508, time=0.016555
+totalByteLength=3308711
+compression time = 0.056254
+intervals=1024
+treeByteSize=18424, enCodeSize=3289076
+[huffman]: 	ratio=3.470214, outsize=3307508, time=0.016091
+totalByteLength=3308711
+compression time = 0.060427
+3299997/11477760
+[decoder]: time=0.064108
+decompression time = 0.077088 seconds.
+[decoder]: time=0.058813
+decompression time = 0.071254 seconds.
+[decoder]: time=0.067283
+decompression time = 0.080347 seconds.
+===fse===
+intervals=1024
+fse_size=1512057, streamSize=1791629
+[fse]: 		ratio=3.474220, outsize=3303694, time=0.013841
+totalByteLength=3304897
+compression time = 0.053515
+intervals=1024
+fse_size=1512057, streamSize=1791629
+[fse]: 		ratio=3.474220, outsize=3303694, time=0.014120
+totalByteLength=3304897
+compression time = 0.053739
+intervals=1024
+fse_size=1512057, streamSize=1791629
+[fse]: 		ratio=3.474220, outsize=3303694, time=0.014191
+totalByteLength=3304897
+compression time = 0.053727
+3304985/11477760
+[decoder]: time=0.023912
+decompression time = 0.040036 seconds.
+[decoder]: time=0.016865
+decompression time = 0.031376 seconds.
+[decoder]: time=0.016799
+decompression time = 0.031268 seconds.
+FILE: vy.dat2
+===huffman===
+intervals=1024
+treeByteSize=18424, enCodeSize=3289024
+[huffman]: 	ratio=3.470268, outsize=3307456, time=0.015806
+totalByteLength=3308594
+compression time = 0.059982
+intervals=1024
+treeByteSize=18424, enCodeSize=3289024
+[huffman]: 	ratio=3.470268, outsize=3307456, time=0.015832
+totalByteLength=3308594
+compression time = 0.055416
+intervals=1024
+treeByteSize=18424, enCodeSize=3289024
+[huffman]: 	ratio=3.470268, outsize=3307456, time=0.016013
+totalByteLength=3308594
+compression time = 0.061300
+3299898/11477760
+[decoder]: time=0.066959
+decompression time = 0.080226 seconds.
+[decoder]: time=0.059602
+decompression time = 0.072256 seconds.
+[decoder]: time=0.059164
+decompression time = 0.071908 seconds.
+===fse===
+intervals=1024
+fse_size=1511989, streamSize=1791479
+[fse]: 		ratio=3.474449, outsize=3303476, time=0.014160
+totalByteLength=3304614
+compression time = 0.061202
+intervals=1024
+fse_size=1511989, streamSize=1791479
+[fse]: 		ratio=3.474449, outsize=3303476, time=0.014147
+totalByteLength=3304614
+compression time = 0.053665
+intervals=1024
+fse_size=1511989, streamSize=1791479
+[fse]: 		ratio=3.474449, outsize=3303476, time=0.014114
+totalByteLength=3304614
+compression time = 0.053482
+3304702/11477760
+[decoder]: time=0.021472
+decompression time = 0.036916 seconds.
+[decoder]: time=0.022023
+decompression time = 0.039105 seconds.
+[decoder]: time=0.019599
+decompression time = 0.034705 seconds.
+FILE: vz.dat2
+===huffman===
+intervals=1024
+treeByteSize=18424, enCodeSize=3289100
+[huffman]: 	ratio=3.470189, outsize=3307532, time=0.015774
+totalByteLength=3308630
+compression time = 0.056727
+intervals=1024
+treeByteSize=18424, enCodeSize=3289100
+[huffman]: 	ratio=3.470189, outsize=3307532, time=0.015743
+totalByteLength=3308630
+compression time = 0.060229
+intervals=1024
+treeByteSize=18424, enCodeSize=3289100
+[huffman]: 	ratio=3.470189, outsize=3307532, time=0.015900
+totalByteLength=3308630
+compression time = 0.055750
+3299992/11477760
+[decoder]: time=0.064520
+decompression time = 0.079649 seconds.
+[decoder]: time=0.059389
+decompression time = 0.071677 seconds.
+[decoder]: time=0.063844
+decompression time = 0.076862 seconds.
+===fse===
+intervals=1024
+fse_size=1511602, streamSize=1791958
+[fse]: 		ratio=3.474353, outsize=3303568, time=0.014023
+totalByteLength=3304666
+compression time = 0.053704
+intervals=1024
+fse_size=1511602, streamSize=1791958
+[fse]: 		ratio=3.474353, outsize=3303568, time=0.014192
+totalByteLength=3304666
+compression time = 0.053372
+intervals=1024
+fse_size=1511602, streamSize=1791958
+[fse]: 		ratio=3.474353, outsize=3303568, time=0.013548
+totalByteLength=3304666
+compression time = 0.052911
+3304754/11477760
+[decoder]: time=0.019336
+decompression time = 0.034332 seconds.
+[decoder]: time=0.016903
+decompression time = 0.031379 seconds.
+[decoder]: time=0.016952
+decompression time = 0.031648 seconds.
+FILE: xx.dat2
+===huffman===
+intervals=32
+treeByteSize=442, enCodeSize=1177784
+[huffman]: 	ratio=9.741494, outsize=1178234, time=0.014068
+totalByteLength=1178358
+compression time = 0.052348
+intervals=32
+treeByteSize=442, enCodeSize=1177784
+[huffman]: 	ratio=9.741494, outsize=1178234, time=0.014012
+totalByteLength=1178358
+compression time = 0.051289
+intervals=32
+treeByteSize=442, enCodeSize=1177784
+[huffman]: 	ratio=9.741494, outsize=1178234, time=0.013943
+totalByteLength=1178358
+compression time = 0.055863
+1178395/11477760
+[decoder]: time=0.032822
+decompression time = 0.044687 seconds.
+[decoder]: time=0.035508
+decompression time = 0.047241 seconds.
+[decoder]: time=0.036348
+decompression time = 0.048277 seconds.
+===fse===
+intervals=32
+fse_size=1161817, streamSize=1
+[fse]: 		ratio=9.879070, outsize=1161826, time=0.013067
+totalByteLength=1161950
+compression time = 0.049299
+intervals=32
+fse_size=1161817, streamSize=1
+[fse]: 		ratio=9.879070, outsize=1161826, time=0.013185
+totalByteLength=1161950
+compression time = 0.049412
+intervals=32
+fse_size=1161817, streamSize=1
+[fse]: 		ratio=9.879070, outsize=1161826, time=0.013072
+totalByteLength=1161950
+compression time = 0.053931
+1161987/11477760
+[decoder]: time=0.016848
+decompression time = 0.031964 seconds.
+[decoder]: time=0.012651
+decompression time = 0.026097 seconds.
+[decoder]: time=0.012455
+decompression time = 0.026310 seconds.
+FILE: yy.dat2
+===huffman===
+intervals=32
+treeByteSize=442, enCodeSize=1182856
+[huffman]: 	ratio=9.699740, outsize=1183306, time=0.013852
+totalByteLength=1183467
+compression time = 0.050452
+intervals=32
+treeByteSize=442, enCodeSize=1182856
+[huffman]: 	ratio=9.699740, outsize=1183306, time=0.014110
+totalByteLength=1183467
+compression time = 0.050842
+intervals=32
+treeByteSize=442, enCodeSize=1182856
+[huffman]: 	ratio=9.699740, outsize=1183306, time=0.013939
+totalByteLength=1183467
+compression time = 0.050317
+1183507/11477760
+[decoder]: time=0.036679
+decompression time = 0.048966 seconds.
+[decoder]: time=0.037223
+decompression time = 0.050084 seconds.
+[decoder]: time=0.030034
+decompression time = 0.041277 seconds.
+===fse===
+intervals=32
+fse_size=1167101, streamSize=1
+[fse]: 		ratio=9.834343, outsize=1167110, time=0.013124
+totalByteLength=1167271
+compression time = 0.048660
+intervals=32
+fse_size=1167101, streamSize=1
+[fse]: 		ratio=9.834343, outsize=1167110, time=0.012899
+totalByteLength=1167271
+compression time = 0.048620
+intervals=32
+fse_size=1167101, streamSize=1
+[fse]: 		ratio=9.834343, outsize=1167110, time=0.012896
+totalByteLength=1167271
+compression time = 0.048768
+1167308/11477760
+[decoder]: time=0.018854
+decompression time = 0.034161 seconds.
+[decoder]: time=0.012794
+decompression time = 0.026325 seconds.
+[decoder]: time=0.013544
+decompression time = 0.027135 seconds.
+FILE: zz.dat2
+===huffman===
+intervals=32
+treeByteSize=428, enCodeSize=1178935
+[huffman]: 	ratio=9.732103, outsize=1179371, time=0.013870
+totalByteLength=1179476
+compression time = 0.051321
+intervals=32
+treeByteSize=428, enCodeSize=1178935
+[huffman]: 	ratio=9.732103, outsize=1179371, time=0.013727
+totalByteLength=1179476
+compression time = 0.051015
+intervals=32
+treeByteSize=428, enCodeSize=1178935
+[huffman]: 	ratio=9.732103, outsize=1179371, time=0.013783
+totalByteLength=1179476
+compression time = 0.050818
+1179513/11477760
+[decoder]: time=0.035754
+decompression time = 0.047830 seconds.
+[decoder]: time=0.029621
+decompression time = 0.041707 seconds.
+[decoder]: time=0.030401
+decompression time = 0.042237 seconds.
+===fse===
+intervals=32
+fse_size=1162366, streamSize=1
+[fse]: 		ratio=9.874404, outsize=1162375, time=0.013294
+totalByteLength=1162480
+compression time = 0.049620
+intervals=32
+fse_size=1162366, streamSize=1
+[fse]: 		ratio=9.874404, outsize=1162375, time=0.013478
+totalByteLength=1162480
+compression time = 0.052003
+intervals=32
+fse_size=1162366, streamSize=1
+[fse]: 		ratio=9.874404, outsize=1162375, time=0.013088
+totalByteLength=1162480
+compression time = 0.054023
+1162517/11477760
+[decoder]: time=0.017008
+decompression time = 0.032313 seconds.
+[decoder]: time=0.012620
+decompression time = 0.025805 seconds.
+[decoder]: time=0.016381
+decompression time = 0.029789 seconds.
+CNT:
+EB: 1E2
+FILE: vx.dat2
+===huffman===
+intervals=8192
+treeByteSize=147448, enCodeSize=4463475
+[huffman]: 	ratio=2.489250, outsize=4610931, time=0.019708
+totalByteLength=4632267
+compression time = 0.067607
+intervals=8192
+treeByteSize=147448, enCodeSize=4463475
+[huffman]: 	ratio=2.489250, outsize=4610931, time=0.019849
+totalByteLength=4632267
+compression time = 0.062754
+intervals=8192
+treeByteSize=147448, enCodeSize=4463475
+[huffman]: 	ratio=2.489250, outsize=4610931, time=0.019898
+totalByteLength=4632267
+compression time = 0.070599
+4547317/11477760
+[decoder]: time=0.094361
+decompression time = 0.109054 seconds.
+[decoder]: time=0.088800
+decompression time = 0.102521 seconds.
+[decoder]: time=0.093439
+decompression time = 0.107983 seconds.
+===fse===
+intervals=8192
+fse_size=1295703, streamSize=3187960
+[fse]: 		ratio=2.559902, outsize=4483671, time=0.014536
+totalByteLength=4505007
+compression time = 0.056416
+intervals=8192
+fse_size=1295703, streamSize=3187960
+[fse]: 		ratio=2.559902, outsize=4483671, time=0.014523
+totalByteLength=4505007
+compression time = 0.056543
+intervals=8192
+fse_size=1295703, streamSize=3187960
+[fse]: 		ratio=2.559902, outsize=4483671, time=0.014696
+totalByteLength=4505007
+compression time = 0.056670
+4503647/11477760
+[decoder]: time=0.015642
+decompression time = 0.031026 seconds.
+[decoder]: time=0.015686
+decompression time = 0.030857 seconds.
+[decoder]: time=0.015617
+decompression time = 0.030828 seconds.
+FILE: vy.dat2
+===huffman===
+intervals=8192
+treeByteSize=147448, enCodeSize=4463291
+[huffman]: 	ratio=2.489349, outsize=4610747, time=0.019744
+totalByteLength=4632168
+compression time = 0.064522
+intervals=8192
+treeByteSize=147448, enCodeSize=4463291
+[huffman]: 	ratio=2.489349, outsize=4610747, time=0.019814
+totalByteLength=4632168
+compression time = 0.062662
+intervals=8192
+treeByteSize=147448, enCodeSize=4463291
+[huffman]: 	ratio=2.489349, outsize=4610747, time=0.019729
+totalByteLength=4632168
+compression time = 0.062669
+4547579/11477760
+[decoder]: time=0.091377
+decompression time = 0.105695 seconds.
+[decoder]: time=0.088560
+decompression time = 0.102056 seconds.
+[decoder]: time=0.090027
+decompression time = 0.103780 seconds.
+===fse===
+intervals=8192
+fse_size=1295835, streamSize=3187862
+[fse]: 		ratio=2.559883, outsize=4483705, time=0.014686
+totalByteLength=4505126
+compression time = 0.056216
+intervals=8192
+fse_size=1295835, streamSize=3187862
+[fse]: 		ratio=2.559883, outsize=4483705, time=0.014570
+totalByteLength=4505126
+compression time = 0.060749
+intervals=8192
+fse_size=1295835, streamSize=3187862
+[fse]: 		ratio=2.559883, outsize=4483705, time=0.014450
+totalByteLength=4505126
+compression time = 0.055783
+4503793/11477760
+[decoder]: time=0.017718
+decompression time = 0.034121 seconds.
+[decoder]: time=0.016274
+decompression time = 0.032390 seconds.
+[decoder]: time=0.019002
+decompression time = 0.035289 seconds.
+FILE: vz.dat2
+===huffman===
+intervals=8192
+treeByteSize=147448, enCodeSize=4463657
+[huffman]: 	ratio=2.489152, outsize=4611113, time=0.019618
+totalByteLength=4631768
+compression time = 0.067386
+intervals=8192
+treeByteSize=147448, enCodeSize=4463657
+[huffman]: 	ratio=2.489152, outsize=4611113, time=0.019464
+totalByteLength=4631768
+compression time = 0.062624
+intervals=8192
+treeByteSize=147448, enCodeSize=4463657
+[huffman]: 	ratio=2.489152, outsize=4611113, time=0.020143
+totalByteLength=4631768
+compression time = 0.062914
+4547211/11477760
+[decoder]: time=0.095821
+decompression time = 0.110524 seconds.
+[decoder]: time=0.093161
+decompression time = 0.107271 seconds.
+[decoder]: time=0.088881
+decompression time = 0.102226 seconds.
+===fse===
+intervals=8192
+fse_size=1294873, streamSize=3189169
+[fse]: 		ratio=2.559686, outsize=4484050, time=0.014193
+totalByteLength=4504705
+compression time = 0.055951
+intervals=8192
+fse_size=1294873, streamSize=3189169
+[fse]: 		ratio=2.559686, outsize=4484050, time=0.014479
+totalByteLength=4504705
+compression time = 0.061571
+intervals=8192
+fse_size=1294873, streamSize=3189169
+[fse]: 		ratio=2.559686, outsize=4484050, time=0.014399
+totalByteLength=4504705
+compression time = 0.056284
+4503408/11477760
+[decoder]: time=0.019702
+decompression time = 0.036991 seconds.
+[decoder]: time=0.015534
+decompression time = 0.031544 seconds.
+[decoder]: time=0.015647
+decompression time = 0.031123 seconds.
+FILE: xx.dat2
+===huffman===
+intervals=128
+treeByteSize=1786, enCodeSize=2345282
+[huffman]: 	ratio=4.890238, outsize=2347076, time=0.016766
+totalByteLength=2360738
+compression time = 0.056153
+intervals=128
+treeByteSize=1786, enCodeSize=2345282
+[huffman]: 	ratio=4.890238, outsize=2347076, time=0.016375
+totalByteLength=2360738
+compression time = 0.057593
+intervals=128
+treeByteSize=1786, enCodeSize=2345282
+[huffman]: 	ratio=4.890238, outsize=2347076, time=0.016820
+totalByteLength=2360738
+compression time = 0.059767
+2360805/11477760
+[decoder]: time=0.043839
+decompression time = 0.056495 seconds.
+[decoder]: time=0.041166
+decompression time = 0.053235 seconds.
+[decoder]: time=0.041206
+decompression time = 0.053469 seconds.
+===fse===
+intervals=128
+fse_size=1988103, streamSize=355243
+[fse]: 		ratio=4.898005, outsize=2343354, time=0.013617
+totalByteLength=2357016
+compression time = 0.051835
+intervals=128
+fse_size=1988103, streamSize=355243
+[fse]: 		ratio=4.898005, outsize=2343354, time=0.014010
+totalByteLength=2357016
+compression time = 0.052616
+intervals=128
+fse_size=1988103, streamSize=355243
+[fse]: 		ratio=4.898005, outsize=2343354, time=0.013843
+totalByteLength=2357016
+compression time = 0.052245
+2357080/11477760
+[decoder]: time=0.025221
+decompression time = 0.039718 seconds.
+[decoder]: time=0.030953
+decompression time = 0.046121 seconds.
+[decoder]: time=0.030969
+decompression time = 0.046193 seconds.
+FILE: yy.dat2
+===huffman===
+intervals=128
+treeByteSize=1786, enCodeSize=2350626
+[huffman]: 	ratio=4.879129, outsize=2352420, time=0.016772
+totalByteLength=2363644
+compression time = 0.059418
+intervals=128
+treeByteSize=1786, enCodeSize=2350626
+[huffman]: 	ratio=4.879129, outsize=2352420, time=0.016616
+totalByteLength=2363644
+compression time = 0.055062
+intervals=128
+treeByteSize=1786, enCodeSize=2350626
+[huffman]: 	ratio=4.879129, outsize=2352420, time=0.016551
+totalByteLength=2363644
+compression time = 0.055063
+2363535/11477760
+[decoder]: time=0.050312
+decompression time = 0.062778 seconds.
+[decoder]: time=0.048281
+decompression time = 0.062609 seconds.
+[decoder]: time=0.041201
+decompression time = 0.053532 seconds.
+===fse===
+intervals=128
+fse_size=1989197, streamSize=359695
+[fse]: 		ratio=4.886440, outsize=2348900, time=0.013755
+totalByteLength=2360124
+compression time = 0.060024
+intervals=128
+fse_size=1989197, streamSize=359695
+[fse]: 		ratio=4.886440, outsize=2348900, time=0.013531
+totalByteLength=2360124
+compression time = 0.056721
+intervals=128
+fse_size=1989197, streamSize=359695
+[fse]: 		ratio=4.886440, outsize=2348900, time=0.013533
+totalByteLength=2360124
+compression time = 0.051991
+2360191/11477760
+[decoder]: time=0.031344
+decompression time = 0.046430 seconds.
+[decoder]: time=0.028473
+decompression time = 0.046498 seconds.
+[decoder]: time=0.023322
+decompression time = 0.037524 seconds.
+FILE: zz.dat2
+===huffman===
+intervals=128
+treeByteSize=1786, enCodeSize=2346195
+[huffman]: 	ratio=4.888336, outsize=2347989, time=0.016701
+totalByteLength=2358493
+compression time = 0.056073
+intervals=128
+treeByteSize=1786, enCodeSize=2346195
+[huffman]: 	ratio=4.888336, outsize=2347989, time=0.017057
+totalByteLength=2358493
+compression time = 0.055474
+intervals=128
+treeByteSize=1786, enCodeSize=2346195
+[huffman]: 	ratio=4.888336, outsize=2347989, time=0.017305
+totalByteLength=2358493
+compression time = 0.056448
+2358557/11477760
+[decoder]: time=0.044241
+decompression time = 0.057268 seconds.
+[decoder]: time=0.049841
+decompression time = 0.061995 seconds.
+[decoder]: time=0.040882
+decompression time = 0.052978 seconds.
+===fse===
+intervals=128
+fse_size=1988124, streamSize=356468
+[fse]: 		ratio=4.895402, outsize=2344600, time=0.013718
+totalByteLength=2355104
+compression time = 0.057059
+intervals=128
+fse_size=1988124, streamSize=356468
+[fse]: 		ratio=4.895402, outsize=2344600, time=0.013697
+totalByteLength=2355104
+compression time = 0.057270
+intervals=128
+fse_size=1988124, streamSize=356468
+[fse]: 		ratio=4.895402, outsize=2344600, time=0.013393
+totalByteLength=2355104
+compression time = 0.059711
+2355168/11477760
+[decoder]: time=0.023020
+decompression time = 0.037574 seconds.
+[decoder]: time=0.023464
+decompression time = 0.037471 seconds.
+[decoder]: time=0.023807
+decompression time = 0.037673 seconds.
+CNT:
+EB: 1E1
+FILE: vx.dat2
+===huffman===
+intervals=65536
+treeByteSize=1703274, enCodeSize=5578126
+[huffman]: 	ratio=1.576311, outsize=7281408, time=0.057961
+totalByteLength=7427735
+compression time = 0.116376
+intervals=65536
+treeByteSize=1703274, enCodeSize=5578126
+[huffman]: 	ratio=1.576311, outsize=7281408, time=0.057373
+totalByteLength=7427735
+compression time = 0.111874
+intervals=65536
+treeByteSize=1703274, enCodeSize=5578126
+[huffman]: 	ratio=1.576311, outsize=7281408, time=0.057251
+totalByteLength=7427735
+compression time = 0.111168
+6293696/11477760
+[decoder]: time=0.227750
+decompression time = 0.247351 seconds.
+[decoder]: time=0.225617
+decompression time = 0.243104 seconds.
+[decoder]: time=0.227960
+decompression time = 0.247439 seconds.
+===fse===
+intervals=65536
+fse_size=1273646, streamSize=4327127
+[fse]: 		ratio=2.049314, outsize=5600781, time=0.015193
+totalByteLength=5747108
+compression time = 0.060580
+intervals=65536
+fse_size=1273646, streamSize=4327127
+[fse]: 		ratio=2.049314, outsize=5600781, time=0.015549
+totalByteLength=5747108
+compression time = 0.060603
+intervals=65536
+fse_size=1273646, streamSize=4327127
+[fse]: 		ratio=2.049314, outsize=5600781, time=0.015437
+totalByteLength=5747108
+compression time = 0.060542
+5735895/11477760
+[decoder]: time=0.016185
+decompression time = 0.034189 seconds.
+[decoder]: time=0.022150
+decompression time = 0.041586 seconds.
+[decoder]: time=0.016661
+decompression time = 0.035301 seconds.
+FILE: vy.dat2
+===huffman===
+intervals=65536
+treeByteSize=1703404, enCodeSize=5578021
+[huffman]: 	ratio=1.576305, outsize=7281433, time=0.058690
+totalByteLength=7427550
+compression time = 0.114237
+intervals=65536
+treeByteSize=1703404, enCodeSize=5578021
+[huffman]: 	ratio=1.576305, outsize=7281433, time=0.058649
+totalByteLength=7427550
+compression time = 0.113028
+intervals=65536
+treeByteSize=1703404, enCodeSize=5578021
+[huffman]: 	ratio=1.576305, outsize=7281433, time=0.058112
+totalByteLength=7427550
+compression time = 0.112184
+6293476/11477760
+[decoder]: time=0.230624
+decompression time = 0.249914 seconds.
+[decoder]: time=0.233555
+decompression time = 0.253250 seconds.
+[decoder]: time=0.232533
+decompression time = 0.252448 seconds.
+===fse===
+intervals=65536
+fse_size=1273572, streamSize=4326928
+[fse]: 		ratio=2.049414, outsize=5600508, time=0.015518
+totalByteLength=5746625
+compression time = 0.064579
+intervals=65536
+fse_size=1273572, streamSize=4326928
+[fse]: 		ratio=2.049414, outsize=5600508, time=0.015317
+totalByteLength=5746625
+compression time = 0.060979
+intervals=65536
+fse_size=1273572, streamSize=4326928
+[fse]: 		ratio=2.049414, outsize=5600508, time=0.015193
+totalByteLength=5746625
+compression time = 0.060757
+5735528/11477760
+[decoder]: time=0.016240
+decompression time = 0.034518 seconds.
+[decoder]: time=0.015936
+decompression time = 0.032799 seconds.
+[decoder]: time=0.015854
+decompression time = 0.032812 seconds.
+FILE: vz.dat2
+===huffman===
+intervals=65536
+treeByteSize=1703274, enCodeSize=5578946
+[huffman]: 	ratio=1.576133, outsize=7282228, time=0.058350
+totalByteLength=7427003
+compression time = 0.119998
+intervals=65536
+treeByteSize=1703274, enCodeSize=5578946
+[huffman]: 	ratio=1.576133, outsize=7282228, time=0.057812
+totalByteLength=7427003
+compression time = 0.112763
+intervals=65536
+treeByteSize=1703274, enCodeSize=5578946
+[huffman]: 	ratio=1.576133, outsize=7282228, time=0.058231
+totalByteLength=7427003
+compression time = 0.113183
+6292150/11477760
+[decoder]: time=0.231493
+decompression time = 0.251034 seconds.
+[decoder]: time=0.231363
+decompression time = 0.250757 seconds.
+[decoder]: time=0.231686
+decompression time = 0.249374 seconds.
+===fse===
+intervals=65536
+fse_size=1272916, streamSize=4328659
+[fse]: 		ratio=2.049021, outsize=5601583, time=0.014919
+totalByteLength=5746358
+compression time = 0.067072
+intervals=65536
+fse_size=1272916, streamSize=4328659
+[fse]: 		ratio=2.049021, outsize=5601583, time=0.015104
+totalByteLength=5746358
+compression time = 0.059856
+intervals=65536
+fse_size=1272916, streamSize=4328659
+[fse]: 		ratio=2.049021, outsize=5601583, time=0.015128
+totalByteLength=5746358
+compression time = 0.059720
+5737317/11477760
+[decoder]: time=0.015588
+decompression time = 0.032761 seconds.
+[decoder]: time=0.015783
+decompression time = 0.032727 seconds.
+[decoder]: time=0.015531
+decompression time = 0.032483 seconds.
+FILE: xx.dat2
+===huffman===
+intervals=2048
+treeByteSize=35092, enCodeSize=3541881
+[huffman]: 	ratio=3.208784, outsize=3576981, time=0.016550
+totalByteLength=3578054
+compression time = 0.056977
+intervals=2048
+treeByteSize=35092, enCodeSize=3541881
+[huffman]: 	ratio=3.208784, outsize=3576981, time=0.016656
+totalByteLength=3578054
+compression time = 0.056883
+intervals=2048
+treeByteSize=35092, enCodeSize=3541881
+[huffman]: 	ratio=3.208784, outsize=3576981, time=0.016529
+totalByteLength=3578054
+compression time = 0.056384
+3560840/11477760
+[decoder]: time=0.072986
+decompression time = 0.086409 seconds.
+[decoder]: time=0.070752
+decompression time = 0.083536 seconds.
+[decoder]: time=0.072923
+decompression time = 0.086110 seconds.
+===fse===
+intervals=2048
+fse_size=1404839, streamSize=2156415
+[fse]: 		ratio=3.222947, outsize=3561262, time=0.014271
+totalByteLength=3562335
+compression time = 0.054411
+intervals=2048
+fse_size=1404839, streamSize=2156415
+[fse]: 		ratio=3.222947, outsize=3561262, time=0.014200
+totalByteLength=3562335
+compression time = 0.059911
+intervals=2048
+fse_size=1404839, streamSize=2156415
+[fse]: 		ratio=3.222947, outsize=3561262, time=0.013929
+totalByteLength=3562335
+compression time = 0.054049
+3562429/11477760
+[decoder]: time=0.018312
+decompression time = 0.033767 seconds.
+[decoder]: time=0.018959
+decompression time = 0.034319 seconds.
+[decoder]: time=0.016716
+decompression time = 0.031297 seconds.
+FILE: yy.dat2
+===huffman===
+intervals=2048
+treeByteSize=35236, enCodeSize=3547419
+[huffman]: 	ratio=3.203695, outsize=3582663, time=0.016206
+totalByteLength=3584444
+compression time = 0.061010
+intervals=2048
+treeByteSize=35236, enCodeSize=3547419
+[huffman]: 	ratio=3.203695, outsize=3582663, time=0.016481
+totalByteLength=3584444
+compression time = 0.056863
+intervals=2048
+treeByteSize=35236, enCodeSize=3547419
+[huffman]: 	ratio=3.203695, outsize=3582663, time=0.016509
+totalByteLength=3584444
+compression time = 0.058896
+3567340/11477760
+[decoder]: time=0.077955
+decompression time = 0.091241 seconds.
+[decoder]: time=0.072306
+decompression time = 0.084925 seconds.
+[decoder]: time=0.072326
+decompression time = 0.085132 seconds.
+===fse===
+intervals=2048
+fse_size=1409244, streamSize=2154667
+[fse]: 		ratio=3.220545, outsize=3563919, time=0.013922
+totalByteLength=3565700
+compression time = 0.054013
+intervals=2048
+fse_size=1409244, streamSize=2154667
+[fse]: 		ratio=3.220545, outsize=3563919, time=0.013995
+totalByteLength=3565700
+compression time = 0.053987
+intervals=2048
+fse_size=1409244, streamSize=2154667
+[fse]: 		ratio=3.220545, outsize=3563919, time=0.014149
+totalByteLength=3565700
+compression time = 0.054638
+3565794/11477760
+[decoder]: time=0.017666
+decompression time = 0.033174 seconds.
+[decoder]: time=0.016593
+decompression time = 0.031475 seconds.
+[decoder]: time=0.016394
+decompression time = 0.031183 seconds.
+FILE: zz.dat2
+===huffman===
+intervals=2048
+treeByteSize=33454, enCodeSize=3543622
+[huffman]: 	ratio=3.208692, outsize=3577084, time=0.016421
+totalByteLength=3577850
+compression time = 0.058554
+intervals=2048
+treeByteSize=33454, enCodeSize=3543622
+[huffman]: 	ratio=3.208692, outsize=3577084, time=0.016418
+totalByteLength=3577850
+compression time = 0.064536
+intervals=2048
+treeByteSize=33454, enCodeSize=3543622
+[huffman]: 	ratio=3.208692, outsize=3577084, time=0.016516
+totalByteLength=3577850
+compression time = 0.056665
+3561708/11477760
+[decoder]: time=0.079038
+decompression time = 0.092283 seconds.
+[decoder]: time=0.071499
+decompression time = 0.084282 seconds.
+[decoder]: time=0.071191
+decompression time = 0.083720 seconds.
+===fse===
+intervals=2048
+fse_size=1396584, streamSize=2164331
+[fse]: 		ratio=3.223254, outsize=3560923, time=0.014261
+totalByteLength=3561689
+compression time = 0.054577
+intervals=2048
+fse_size=1396584, streamSize=2164331
+[fse]: 		ratio=3.223254, outsize=3560923, time=0.014185
+totalByteLength=3561689
+compression time = 0.054265
+intervals=2048
+fse_size=1396584, streamSize=2164331
+[fse]: 		ratio=3.223254, outsize=3560923, time=0.014157
+totalByteLength=3561689
+compression time = 0.053945
+3561783/11477760
+[decoder]: time=0.023047
+decompression time = 0.039679 seconds.
+[decoder]: time=0.017489
+decompression time = 0.032602 seconds.
+[decoder]: time=0.016507
+decompression time = 0.031292 seconds.
+CNT:
+FINISHED.

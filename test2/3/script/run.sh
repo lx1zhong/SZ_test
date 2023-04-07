@@ -7,7 +7,7 @@ DIM=1
 filesize_set_rows="2869440"
 
 
-output=/home/zhongyu/test/paper_test/test2/3/output/result.txt
+output=./output/result.txt
 echo "START" > $output
 run() {
     echo "EBMODE: $ERROR_BOUND_MODE" >> $output

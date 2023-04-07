@@ -1,7 +1,5 @@
 #!/bin/bash
 
-# 压缩率随压缩粒度的变化
-
 # DIR--SIZE--FILE
 
 SZ_PATH=/home/zhongyu/sz/sz1/bin
@@ -9,6 +7,8 @@ TEST_DIR=/home/zhongyu/test
 ERROR_BOUND_MODE=ABS
 ERROR_BOUND_Fs="1E-2 1E-3 1E-4" # "1E-2 5E-3 1E-3 5E-4 1E-4 5E-5 1E-5 5E-6 1E-6 5E-7 1E-7" 
 ERROR_BOUND_D="1E-7"
+
+
 DIM=1
 TYPE=f
 

@@ -9,7 +9,7 @@ import numpy as np
 import glob2
 
 
-input_files = glob2.glob("/home/zhongyu/test/paper_test/test1/2/output/*.txt")
+input_files = glob2.glob("./output/*.txt")
 
 ID = ['SIZE_HUF_PART','TIME_HUF_PART','SIZE_ZSTD_PART','TIME_ZSTD_PART','SIZE_HUF_ALL','TIME_HUF_ALL','SIZE_ZSTD_ALL','TIME_ZSTD_ALL']
 SIZE_HUF_PART = 0       #compressed size (huffman / fse) (encoder)
@@ -212,9 +212,9 @@ plt.subplots_adjust(left=0.1,right=0.96,bottom=0.17,top=0.96,wspace=0.32,hspace=
 # plt.subplots_adjust(left=0.06,right=0.96,bottom=0.16,top=0.95,wspace=0.4,hspace=0.6) 
 # plt.tight_layout()
 # plt.legend(loc = 'upper right')
-picpath = '/home/zhongyu/test/paper_test/test1/2/fig/ratio_part2.png'
+picpath = './fig/ratio_part2.png'
 plt.savefig(picpath)
-picpath_pdf = '/home/zhongyu/test/paper_test/test1/2/fig/ratio_part2.pdf'
+picpath_pdf = './fig/ratio_part2.pdf'
 plt.savefig(picpath_pdf)
 print(picpath_pdf)
 # plt.show()
