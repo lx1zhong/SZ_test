@@ -409,4 +409,6 @@ for input_file in input_files:
     plt.savefig(picpath)
     picpath_pdf = './fig/rate_part.pdf'
     plt.savefig(picpath_pdf)
+    picpath_pdf = '../../Figure6-encoder_throughput.pdf'
+    plt.savefig(picpath_pdf)
     print(picpath_pdf)

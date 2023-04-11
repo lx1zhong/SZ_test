@@ -379,6 +379,8 @@ for input_file in input_files:
     plt.savefig(picpath)
     picpath_pdf = './fig/decom_' + ebMode + '_overall.pdf'
     plt.savefig(picpath_pdf)
+    picpath_pdf = '../../Figure8-overall_decomp_throughput.pdf'
+    plt.savefig(picpath_pdf)
     print(picpath_pdf)
 
     # overall compression ratio

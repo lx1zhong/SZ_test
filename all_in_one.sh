@@ -2,9 +2,9 @@
 
 # Complete everything from SZ_ADT installation, dataset download, to test and drawing.
 # Corresponding to Figure.6 and Figure.8 in paper.
-
-
-
+echo "=== dependencies ===“
+sudo apt install python3 python3-pip 
+pip install matplotlib numpy glob2 brewer2mpl
 
 path=`pwd`
 echo "=== download SZ_ADT==="
@@ -21,7 +21,7 @@ sudo make install
 cd ../
 
 echo "=== download dataset ==="
-# ./download_dataset.sh
+./download_dataset.sh
 
 echo "=== run Figure.6 test ==="
 cd test1/3
