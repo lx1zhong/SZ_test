@@ -2,8 +2,8 @@
 
 # DIR--SIZE--FILE
 
-SZ_PATH=/home/zhongyu/sz/sz1/bin
-TEST_DIR=/home/zhongyu/test
+SZ_PATH=../../sz_install/bin
+TEST_DIR=../../data
 ERROR_BOUND_MODE=ABS
 ERROR_BOUND_Fs="1E-2 1E-3 1E-4" # "1E-2 5E-3 1E-3 5E-4 1E-4 5E-5 1E-5 5E-6 1E-6 5E-7 1E-7" 
 ERROR_BOUND_D="1E-7"
@@ -17,7 +17,7 @@ TYPE=f
 filesize_set_KBs="1048576 262144 65536 16384 4096 1024 256 64 16"
 for ERROR_BOUND_F in $ERROR_BOUND_Fs
 do
-output=/home/zhongyu/test/paper_test/test1/1/output/${ERROR_BOUND_MODE}_${ERROR_BOUND_F}.txt
+output=./output/${ERROR_BOUND_MODE}_${ERROR_BOUND_F}.txt
 echo $ERROR_BOUND_F
 
 dims=(1 1 1 1)

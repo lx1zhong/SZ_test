@@ -1,3 +1,5 @@
+# SZ_ADT
+
 SZ_test includes evaluation scripts for [ADT-FSE]([lx1zhong/SZ_ADT at develop (github.com)](https://github.com/lx1zhong/SZ_ADT/tree/develop)).
 
 
@@ -10,37 +12,58 @@ All evaluations are divided into 4 parts:
 
 
 
-### Guide
+## Guide
 
-- Before evaluation, you should install SZ_ADT(ADT-FSE-enhanced SZ) [here]([lx1zhong/SZ_ADT at develop (github.com)](https://github.com/lx1zhong/SZ_ADT/tree/develop)). The "./easytest.sh" script there may help you have a quick look of our work. Please remember your install path.
+For short, you can do the main evaluation by simply running one script:
 
-- then download datasets from [here]([https://sdrbench.github.io](https://sdrbench.github.io/)). Make sure the directory will be in this format:
+```
+git clone https://github.com/lx1zhong/SZ_test.git
+cd SZ_test
+sudo ./all_in_one.sh
+```
 
-  ```
-  test/
-  -SDRBENCH-CESM_ATM-1800x3600-f/
-  -SDRBENCH-EXAALT_HELIUM-7852x1037-f
-  -SDRBENCH-Miranda-256x384x384-d
-  ......
-  ```
+This will give Figure 6 and Figure 8 in the paper.
 
-  
 
-- For each test, go to the specified directory, such as `SZ_test/test1/1/`, then scripts can be found in `script` directory. Before execute any script, **edit SZ install path and datasets path** firtst!
 
-- First, execute shell script. 
+---
 
-  ```
-  ./script/run_multithread_abs.sh
-  ```
+If you want to do the full evaluation, follow these steps: 
 
-  then results will be written into `output` directory.  
+1. **Installation**: if you have installed, ignore it.
 
-- After done, you can execute python scripts to draw the figure.
+   1. Before evaluation, you should install SZ_ADT(ADT-FSE-enhanced SZ) [here]([lx1zhong/SZ_ADT at develop (github.com)](https://github.com/lx1zhong/SZ_ADT/tree/develop)). The "./easytest.sh" script there may help you have a quick look of our work. Please remember your install path.
 
-  ```
-  python3 ./script/figure.py
-  ```
+   2. Then install another tool ZFP [here]([LLNL/zfp: Compressed numerical arrays that support high-speed random access (github.com)](https://github.com/LLNL/zfp)). This is for comparison with SZ_ADT.
 
-  
+2. **Dataset**: then download datasets from [here]([https://sdrbench.github.io](https://sdrbench.github.io/)) (SDRBENCH) and [here](https://github.com/taovcu/LossyCompressStudy/tree/master/inputdata) (small data). Make sure the directory will be in this format: [SDRBENCH/SMALL]-name-d1xd2xd3-[f/d], for example:
+
+   ```
+   test/
+   -SDRBENCH-CESM_ATM-1800x3600-f/
+   -SDRBENCH-EXAALT_HELIUM-7852x1037-f/
+   -SDRBENCH-Miranda-256x384x384-d/
+   -SMALL-dump_dense-55692-d/
+   ......
+   ```
+
+   
+
+3. **Edit script**: For each test, go to the specified directory, such as `SZ_test/test1/1/`, then scripts can be found in `script` directory. Before execute any script, **be sure SZ/ZFP install paths and datasets path are right**!
+
+4. **Run**: First, execute shell script. 
+
+   ```
+   ./script/run_multithread_abs.sh
+   ```
+
+   then results will be written into `output` directory.  
+
+5. **Draw**: After done, you can execute python scripts to draw the figure.
+
+   ```
+   python3 ./script/figure.py
+   ```
+
+   
 

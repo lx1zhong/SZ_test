@@ -4,8 +4,8 @@
 
 # DIR--EB--FILE
 
-SZ_PATH=/home/zhongyu/sz/sz1/bin
-TEST_DIR=/home/zhongyu/test
+SZ_PATH=../../sz_install/bin
+TEST_DIR=../../data
 ERROR_BOUND_MODE=PW_REL
 ERROR_BOUND_Fs="1E-1 1E-2 1E-3 1E-4 1E-5 1E-6 1E-7" # "1E-2 5E-3 1E-3 5E-4 1E-4 5E-5 1E-5 5E-6 1E-6 5E-7 1E-7" 
 ERROR_BOUND_Ds=$ERROR_BOUND_Fs #"1E-3 1E-4 1E-5 1E-6 1E-7 1E-8"
@@ -13,7 +13,7 @@ DIM=1
 TYPE=f
 
 
-output=/home/zhongyu/test/paper_test/test1/3/output/2${ERROR_BOUND_MODE}.txt
+output=./output/${ERROR_BOUND_MODE}.txt
 
 dims=(1 1 1 1)
 

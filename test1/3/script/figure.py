@@ -1,4 +1,4 @@
-# 压缩/解压时延随EB的变化柱状图，每个数据集一个图
+# [Bar chart] (De)Compression throughput ~ Error bound
 
 # DIR--EB--FILE
 
@@ -78,10 +78,8 @@ for input_file in input_files:
     f = open(input_file, 'r')
 
 
-    # # 最后打印数据
+    # final data
     stat = [ {} for i in range(TOTAL_NUM)]
-    # stats_com = {}
-    # stats_decom = {}
     dataset_names = []
 
     file_count = 0
@@ -327,20 +325,18 @@ for input_file in input_files:
     bmap = brewer2mpl.get_map('set1', 'qualitative', 9)
     colors = bmap.mpl_colors
 
-    filter = ['EXAALT_HELIUM', 'Hurricane', 'Miranda', 'EXASKY_NYX']
+    filter = ['bump_dense', 'EXAALT', 'Hurricane', 'Miranda']
 
     # filter = ['bump_dense', 'eddy_velx_f4', 'EXAALT', 'CESM_ATM', 'Hurricane', 'Miranda', 'EXASKY_NYX', 'QMCPack']
     # filter = dataset_names
 
-    # bottom = [3,2,1,3,4,3,1,1]
-    # top    = [8,7,6,8,8,8,6,6]
 
     i = 1
     r=2
     l=4
     size = [12,5*r/2]
 
-    # 局部压缩时间
+    # compression throughput
     fig = plt.figure(figsize=size, dpi=100)
     # ylims=[0,850,1350,850,550,500,1300,500,580]
     for dataset in filter:
@@ -367,12 +363,11 @@ for input_file in input_files:
         plt.xticks(x,stat[CTIME_PART][dataset][0].keys())
         # plt.ylim([0,ylims[i]])
 
-        plt.legend([c0,c1,c2],['Huff','Zstd','ADT-FSE'],bbox_to_anchor=(0.5,1.18),frameon=False,fontsize=8,loc='upper center',ncol=3,columnspacing=1) #去掉图例边框
-        # plt.legend(loc='best',frameon=False) #去掉图例边框
+        if i==1:
+            plt.legend([c0,c1,c2],['Huff','Zstd','ADT-FSE'],fontsize=11,loc=[1.5, 1.1],ncol=4,columnspacing=3) #去掉图例边框
         i += 1
 
-    # 局部解压时间
-    # ylims=[0,750,1100,700,500,700,1300,550,550]
+    # decompression throughput
     for dataset in filter:
         print(dataset)
         print(stat[DTIME_PART][dataset][HUFFMAN])
@@ -402,27 +397,12 @@ for input_file in input_files:
         plt.xticks(x,stat[DTIME_PART][dataset][0].keys())
         # plt.ylim([0,ylims[i]])
 
-        plt.legend([c0,c1,c2],['Huff','Zstd','ADT-FSE'],bbox_to_anchor=(0.5,1.18),frameon=False,fontsize=8,loc='upper center',ncol=3,columnspacing=1) #去掉图例边框
+        # plt.legend([c0,c1,c2],['Huff','Zstd','ADT-FSE'],bbox_to_anchor=(0.5,1.18),frameon=False,fontsize=8,loc='upper center',ncol=3,columnspacing=1) #去掉图例边框
         # plt.legend(loc='best',frameon=False) #去掉图例边框
         i += 1
 
-        # 网格线
-        # plt.grid(linestyle=":",lw=0.1, color="black",axis='y',zorder=0)
-        # c0=plt.bar(x-width,stat[DTIME_PART][dataset][HUFFMAN].values(),width=width-0.06,label='Huffman',lw=0.02,edgecolor='Black',color='w',zorder=100)
-        # # matplotlib.rcParams['hatch.color']=colors[0]
-        # matplotlib.rcParams['hatch.linewidth']=0.04
-        # c1=plt.bar(x,stat[DTIME_PART][dataset][ZSTD].values(),width=width-0.06,label='Zstd',lw=0.01,edgecolor=colors[0],hatch='//////',color='w')
-        # plt.bar(x,stat[DTIME_PART][dataset][ZSTD].values(),width=width-0.06,label='Zstd1',lw=0.02,edgecolor='Black',color='none')
-        # c2=plt.bar(x+width,stat[DTIME_PART][dataset][FSE].values(),width=width-0.06,label='ADT-FSE',lw=0.01,edgecolor=colors[2],hatch='\\\\\\\\\/////////',color='w')
-        # plt.bar(x+width,stat[DTIME_PART][dataset][FSE].values(),width=width-0.06,label='ADT-FSE1',lw=0.02,edgecolor='Black',color='none')
-        
-        # plt.xticks(x,stat[DTIME_PART][dataset][0].keys())
-        # plt.ylim([0,ylims[i]])
 
-    # matplotlib.rcParams['font.family']='SimHei'
-    # matplotlib.rcParams['figure.figsize']=[12,8]
-
-    plt.subplots_adjust(left=0.06,right=0.96,bottom=0.16,top=0.94,wspace=0.4,hspace=0.7) 
+    plt.subplots_adjust(left=0.06,right=0.96,bottom=0.16,top=0.9,wspace=0.4,hspace=0.75) 
     # plt.tight_layout()
     # plt.legend(loc = 'upper right')
     picpath = './fig/rate_part.png'
@@ -430,11 +410,3 @@ for input_file in input_files:
     picpath_pdf = './fig/rate_part.pdf'
     plt.savefig(picpath_pdf)
     print(picpath_pdf)
-
-
-
-from matplotlib import font_manager
- 
-# for font in font_manager.fontManager.ttflist:
-#     # 查看字体名以及对应的字体文件名
-#     print(font.name, '-', font.fname)

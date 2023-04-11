@@ -4,21 +4,21 @@
 
 # DIR--SIZE--FILE
 
-SZ_PATH=/home/zhongyu/sz/sz1/bin
-TEST_DIR=/home/zhongyu/test
+SZ_PATH=../../sz_install/bin
+TEST_DIR=../../data
 ERROR_BOUND_MODE=PW_REL
 ERROR_BOUND_Fs="1E-2 1E-3 1E-4" # "1E-2 5E-3 1E-3 5E-4 1E-4 5E-5 1E-5 5E-6 1E-6 5E-7 1E-7" 
 filesize_set_KBs="1048576 262144 65536 16384 4096 1024 256 64 16"
 
 run(){
 
-    thread_dir=/home/zhongyu/p${ERROR_BOUND_F}
+    thread_dir=~/p${ERROR_BOUND_F}
     mkdir $thread_dir
     rm -rf $thread_dir/*
 
     DIM=1
     TYPE=f
-    output=/home/zhongyu/test/paper_test/test1/1/output/${ERROR_BOUND_MODE}_${ERROR_BOUND_F}.txt
+    output=./output/${ERROR_BOUND_MODE}_${ERROR_BOUND_F}.txt
     echo $ERROR_BOUND_F
 
     dims=(1 1 1 1)

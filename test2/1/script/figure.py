@@ -263,8 +263,8 @@ for input_file in input_files:
                         if j == RATIO_ALL:
                             stat[j][dir_name][k][error_bound] = (t_eb[j][k]/file_count)
                         else:
-                            stat[j][dir_name][k][error_bound] = ((t_eb[j][k]/file_count/3) * 1000)
-            
+                            stat[j][dir_name][k][error_bound] = dirs_size[dir_name]  / ((t_eb[j][k]/file_count/3) * 1000) if t_eb[j][k] != 0 else 0 
+                        
         elif "FINISHED" in line:
             break 
             
@@ -278,31 +278,23 @@ for input_file in input_files:
     bmap = brewer2mpl.get_map('set1', 'qualitative', 9)
     colors = bmap.mpl_colors
 
-    filter = ['bump_dense', 'eddy_velx_f4', 'EXAALT', 'CESM_ATM', 'Hurricane', 'Miranda', 'EXASKY_NYX', 'QMCPack']
-    # filter = dataset_names
-
-    # bottom = [3,2,1,3,4,3,1,1]
-    # top    = [8,7,6,8,8,8,6,6]
-
     i = 1
     r=2
     l=4
-    size = [12,5*r/2]
 
-    filter2 = ['bump_dense', 'eddy_velx_f4', 'EXAALT', 'CESM_ATM']
+    filter = ['bump_dense', 'EXAALT', 'Hurricane', 'Miranda']
     
+    # overall compression throughput
     for dataset in filter:
         print(dataset)
         print(stat[CTIME_ALL][dataset][HUFFMAN])
         # print(stat[CTIME_ALL][dataset][ZFP])
         print(stat[CTIME_ALL][dataset][FSE])
 
-
-    # overall compression throughput
     i = 1
     ylims=[0,12.6,55,160,240,880,1400,6500,7000]
     fig3 = plt.figure(figsize=[6,5], dpi=100)
-    for dataset in filter2:
+    for dataset in filter:
         # print(dataset)
         # print(stat[CTIME_ALL][dataset][HUFFMAN])
         # print(stat[CTIME_ALL][dataset][ZFP])
@@ -328,7 +320,7 @@ for input_file in input_files:
         c1=plt.bar(x,stat[CTIME_ALL][dataset][ZFP].values(),width=width-0.01,label='ZFP',lw=0.01,edgecolor='black',color='#87CEFA',zorder=2)
         c2=plt.bar(x+width,stat[CTIME_ALL][dataset][FSE].values(),width=width-0.01,label='SZ_ADT',lw=0.01,edgecolor='black',color='#ff9912',zorder=2)
         plt.xticks(x,stat[CTIME_ALL][dataset][0].keys())
-        plt.ylim([0,ylims[i]])
+        # plt.ylim([0,ylims[i]])
 
         plt.legend([c0,c1,c2],['SZ','ZFP','SZ_ADT'],frameon=False,fontsize=7,loc='upper center',ncol=3,columnspacing=1) #去掉图例边框
         # plt.legend(loc='best',frameon=False) #去掉图例边框
@@ -344,21 +336,18 @@ for input_file in input_files:
     plt.savefig(picpath_pdf)
     print(picpath_pdf)
 
-
-
-
     # overall decompression throughput
     i = 1
-    fig4 = plt.figure(figsize=size, dpi=100)
+    fig4 = plt.figure(figsize=[12,2.8], dpi=100)
     for dataset in filter:
         # print(dataset)
         # print(stat[DTIME_ALL][dataset][HUFFMAN])
         # print(stat[DTIME_ALL][dataset][ZFP])
         # print(stat[DTIME_ALL][dataset][FSE])
-        ax = fig4.add_subplot(r,l,i)
+        ax = fig4.add_subplot(1,l,i)
         ax.set_title('('+ chr(ord('a')+i-1) +') '+ dataset + ' (' + num2tag(dirs_size[dataset]) + 'B)', y=-0.5, fontsize=14)
         # if (i-1)%l==0:
-        ax.set_ylabel('Decompression Time (ms)')
+        ax.set_ylabel('Decomp. Throughput (MB/s)')
         if 'ABS' in ebMode:  
             ax.set_xlabel('Absolute Error Bounds')
         elif 'PW_REL' in ebMode:  
@@ -377,13 +366,13 @@ for input_file in input_files:
         c2=plt.bar(x+width,stat[DTIME_ALL][dataset][FSE].values(),width=width-0.01,label='SZ_ADT',lw=0.01,edgecolor='black',color='#ff9912',zorder=2)
         plt.xticks(x,stat[DTIME_ALL][dataset][0].keys())
         # plt.ylim([0,ylims[i]])
-
-        plt.legend([c0,c1,c2],['SZ','ZFP','SZ_ADT'],frameon=False,bbox_to_anchor=(0.5,1.18),fontsize=8,loc='upper center',ncol=3,columnspacing=1) #去掉图例边框
+        if i==1:
+            plt.legend([c0,c1,c2],['SZ','ZFP','SZ_ADT'],fontsize=11,loc=[1.5,1.05],ncol=3,columnspacing=4) #去掉图例边框
         # plt.legend(loc='best',frameon=False) #去掉图例边框
         i += 1
 
 
-    plt.subplots_adjust(left=0.06,right=0.96,bottom=0.16,top=0.94,wspace=0.4,hspace=0.7) 
+    plt.subplots_adjust(left=0.06,right=0.96,bottom=0.30,top=0.84,wspace=0.4,hspace=0.7) 
     # plt.tight_layout()
     # plt.legend(loc = 'upper right')
     picpath = './fig/decom_' + ebMode + '_overall.png'
@@ -391,9 +380,6 @@ for input_file in input_files:
     picpath_pdf = './fig/decom_' + ebMode + '_overall.pdf'
     plt.savefig(picpath_pdf)
     print(picpath_pdf)
-
-
-
 
     # overall compression ratio
     i = 1
@@ -409,7 +395,7 @@ for input_file in input_files:
         [0,1,2,4,8],
         [0,1,4,16]
     ]
-    for dataset in filter2:
+    for dataset in filter:
         # print(dataset)
         # print(stat[RATIO_ALL][dataset][HUFFMAN])
         # print(stat[RATIO_ALL][dataset][ZFP])
@@ -435,7 +421,8 @@ for input_file in input_files:
         c2=plt.bar(x+width,stat[RATIO_ALL][dataset][FSE].values(),width=width-0.01,label='SZ_ADT',lw=0.01,edgecolor='black',color='#ff9912',zorder=2)
         plt.xticks(x,stat[RATIO_ALL][dataset][0].keys())
 
-        plt.legend([c0,c1,c2],['SZ','ZFP','SZ_ADT'],frameon=True,fontsize=7,loc='upper right',ncol=1,columnspacing=1) #去掉图例边框
+        if i==1:
+            plt.legend([c0,c1,c2],['SZ','ZFP','SZ_ADT'],frameon=True,fontsize=11,loc=[0.45,1.05],ncol=3,columnspacing=1) #去掉图例边框
         
 
         ax.set_yscale('log',base=2)
@@ -443,7 +430,7 @@ for input_file in input_files:
         ax.set_yticklabels(ylabels[i])
         i += 1
     
-    plt.subplots_adjust(left=0.1,right=0.96,bottom=0.17,top=0.96,wspace=0.32,hspace=0.6) 
+    plt.subplots_adjust(left=0.1,right=0.96,bottom=0.17,top=0.92,wspace=0.32,hspace=0.6) 
 
     # plt.subplots_adjust(left=0.06,right=0.96,bottom=0.33,top=0.93,wspace=0.4,hspace=0.6) 
     # plt.tight_layout()
@@ -453,10 +440,3 @@ for input_file in input_files:
     plt.savefig(picpath_pdf)
     print(picpath_pdf)
     # os.system('rm -f {} {}' .format(picpath,picpath_pdf))
-
-
-# from matplotlib import font_manager
- 
-# for font in font_manager.fontManager.ttflist:
-#     # 查看字体名以及对应的字体文件名
-#     print(font.name, '-', font.fname)

@@ -10,19 +10,7 @@ import glob2
 
 
 input_files = glob2.glob("./output/*.txt")
-
-ID = ['SIZE_HUF_PART','TIME_HUF_PART','SIZE_ZSTD_PART','TIME_ZSTD_PART','SIZE_HUF_ALL','TIME_HUF_ALL','SIZE_ZSTD_ALL','TIME_ZSTD_ALL']
-SIZE_HUF_PART = 0       #compressed size (huffman / fse) (encoder)
-TIME_HUF_PART = 1       #compression time (huffman / fse) (encoder)
-SIZE_ZSTD_PART = 2      #compressed size (zstd / fse) (encoder)
-TIME_ZSTD_PART = 3      #compression time (zstd / fse) (encoder)
-SIZE_HUF_ALL = 4        #compressed size (huffman / fse) (sz)
-TIME_HUF_ALL = 5        #compression time (huffman / fse) (sz)
-SIZE_ZSTD_ALL = 6       #compressed size (zstd / fse) (sz)
-TIME_ZSTD_ALL = 7       #compression time (zstd / fse) (sz)
-DTIME_HUF_ALL = 8       #decompression time (huffman / fse) (sz)
-DTIME_ZSTD_ALL = 9      #decompression time (zstd / fse) (sz)
-TOTAL_NUM = 10
+filter = ['EXAALT_HELIUM', 'Hurricane', 'Miranda', 'EXASKY_NYX']
 
 HUFFMAN = 0
 ZSTD = 1
@@ -164,8 +152,6 @@ print(dataset_names)
 # matplotlib.rcParams['font.family']='SimHei'
 fig = plt.figure(figsize=[6,5], dpi=100)
 
-# filter = ['CESM_ATM', 'EXAALT', 'EXAALT_HELIUM', 'EXASKY_NYX', 'Hurricane', 'Miranda', 'QMCPack',  'SCALE']
-filter = ['EXAALT_HELIUM', 'Hurricane', 'Miranda', 'EXASKY_NYX']
 
 i = 1
 r=2

@@ -1,8 +1,8 @@
 #!/bin/bash
 
-SZ_PATH=/home/zhongyu/sz/sz1
-TEST_FILE=/home/zhongyu/test/SDRBENCH-EXAALT-2869440-f/vx.dat2
-TEST_DIR=/home/zhongyu/test/SDRBENCH-EXAALT-2869440-f
+SZ_PATH=../../sz_install/bin
+TEST_FILE=../../data/SDRBENCH-EXAALT-2869440-f/vx.dat2
+TEST_DIR=../../data/SDRBENCH-EXAALT-2869440-f
 DIM=1
 filesize_set_rows="2869440"
 
