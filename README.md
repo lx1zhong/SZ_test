@@ -32,11 +32,11 @@ If you want to do the full evaluation, follow these steps:
 
 1. **Installation**: if you have installed, ignore it.
 
-   1. Before evaluation, you should install SZ_ADT(ADT-FSE-enhanced SZ) [here]([lx1zhong/SZ_ADT at develop (github.com)](https://github.com/lx1zhong/SZ_ADT/tree/develop)). The "./easytest.sh" script there may help you have a quick look of our work. Please remember your install path.
+   1. Before evaluation, you should install SZ_ADT(ADT-FSE-enhanced SZ) here: ([lx1zhong/SZ_ADT at develop (github.com)](https://github.com/lx1zhong/SZ_ADT/tree/develop)). The "./easytest.sh" script there may help you have a quick look of our work. Please remember your install path.
 
-   2. Then install another tool ZFP [here]([LLNL/zfp: Compressed numerical arrays that support high-speed random access (github.com)](https://github.com/LLNL/zfp)). This is for comparison with SZ_ADT.
+   2. Then install another tool ZFP here: ([lx1zhong/zfp: Add performance statistic output (github.com)](https://github.com/lx1zhong/zfp)). This is for comparison with SZ_ADT.
 
-2. **Dataset**: then download datasets from [here]([https://sdrbench.github.io](https://sdrbench.github.io/)) (SDRBENCH) and [here](https://github.com/taovcu/LossyCompressStudy/tree/master/inputdata) (small data). Make sure the directory will be in this format: [SDRBENCH/SMALL]-name-d1xd2xd3-[f/d], for example:
+2. **Dataset**: then download datasets from [here](https://sdrbench.github.io/) (SDRBENCH) and [here](https://github.com/taovcu/LossyCompressStudy/tree/master/inputdata) (small data). Make sure the directory will be in this format: [SDRBENCH/SMALL]-name-d1xd2xd3-[f/d], for example:
 
    ```
    test/
@@ -65,5 +65,10 @@ If you want to do the full evaluation, follow these steps:
    python3 ./script/figure.py
    ```
 
-   
+
+## Further more
+
+We have integrated ADT-FSE into TDengine, a time-series database. You can get the full implementation here: [lx1zhong/TDengine (github.com)](https://github.com/lx1zhong/TDengine).
+
+The UK-DALE dataset in paper can be found here: [The UK-DALE dataset, domestic appliance-level electricity demand and whole-house demand from five UK homes | Scientific Data (nature.com)](https://www.nature.com/articles/sdata20157)
 
