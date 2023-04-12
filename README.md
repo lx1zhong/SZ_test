@@ -1,10 +1,10 @@
-# SZ_ADT
+# SZ_test
 
-SZ_test includes evaluation scripts for [ADT-FSE]([lx1zhong/SZ_ADT at develop (github.com)](https://github.com/lx1zhong/SZ_ADT/tree/develop)).
+SZ_test includes evaluation scripts for **ADT-FSE**([lx1zhong/SZ_ADT at develop (github.com)](https://github.com/lx1zhong/SZ_ADT/tree/develop)).
 
 
 
-All evaluations are divided into 4 parts:
+All evaluations are divided into 3 parts:
 
 - test1 for performance only of encoders.
 - test2 for overall performance.

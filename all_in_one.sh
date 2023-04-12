@@ -2,7 +2,7 @@
 
 # Complete everything from SZ_ADT installation, dataset download, to test and drawing.
 # Corresponding to Figure.6 and Figure.8 in paper.
-echo "=== dependencies ===“
+echo "=== dependencies ==="
 sudo apt install python3 python3-pip 
 pip install matplotlib numpy glob2 brewer2mpl
 
@@ -32,7 +32,7 @@ python3 ./script/figure.py
 cd ../../
 
 echo "=== install ZFP ==="
-git clone https://github.com/LLNL/zfp.git
+git clone https://github.com/lx1zhong/zfp.git
 cd zfp
 mkdir build
 cd build
