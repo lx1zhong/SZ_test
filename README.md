@@ -103,6 +103,6 @@ If you want to do the full evaluation, follow these steps:
 
 ## Further more
 
-We have integrated ADT-FSE into TDengine, a time-series database. You can get the full implementation here: [lx1zhong/TDengine (github.com)](https://github.com/lx1zhong/TDengine).
+We have integrated ADT-FSE into TDengine, a time-series database. You can get the full implementation here: [TDengine (github.com)](https://github.com/zbsun-code/TDengine-SZ_ADT).
 
 The UK-DALE dataset in paper can be found here: [The UK-DALE dataset, domestic appliance-level electricity demand and whole-house demand from five UK homes | Scientific Data (nature.com)](https://www.nature.com/articles/sdata20157)
