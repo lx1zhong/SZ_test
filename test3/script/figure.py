@@ -187,8 +187,8 @@ plt.legend(frameon=True,fontsize=8,loc='upper left',ncol=1,columnspacing=1)
     
 
 ax.set_ylim(bottom=0)
-picpath = './output/avg_pred.png'
+picpath = './fig/avg_pred.png'
 plt.savefig(picpath)
-picpath_pdf = './output/avg_pred.pdf'
+picpath_pdf = './fig/avg_pred.pdf'
 plt.savefig(picpath_pdf)
 print(picpath_pdf)

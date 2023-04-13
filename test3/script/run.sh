@@ -1,11 +1,27 @@
 #!/bin/bash
 
-output=/home/zhongyu/test/paper_test/test3/output/SZ-5.txt
-output2=/home/zhongyu/test/paper_test/test3/output/SZ_ADT-5.txt
+#download datasets first 
+# cd ../
+# wget https://g-8d6b0.fd635.8443.data.globus.org/ds131.2/Data-Reduction-Repo/raw-data/CESM-ATM/SDRBENCH-CESM-ATM-1800x3600.tar.gz
+# wget https://github.com/taovcu/LossyCompressStudy/raw/master/inputdata/eddy_velx_f4.dat
+# wget https://g-8d6b0.fd635.8443.data.globus.org/ds131.2/Data-Reduction-Repo/raw-data/EXAALT/SDRBENCH-exaalt-helium.tar.gz
+
+# tar -xvzf SDRBENCH-CESM-ATM-1800x3600.tar.gz -C data
+# mv data/1800x3600 data/SDRBENCH-CESM_ATM-1800x3600-f
+
+# tar -xvzf SDRBENCH-exaalt-helium.tar.gz -C data
+# mv data/SDRBENCH-exaalt-helium data/SDRBENCH-EXAALT_HELIUM-7852x1037-f
+
+# mkdir data/SMALL-eddy_velx_f4-282616-d
+# mv eddy_velx_f4.dat data/SMALL-eddy_velx_f4-282616-d
+# cd test3
+
+output=./output/SZ-5.txt
+output2=./output/SZ_ADT-5.txt
 
 
-SZ_PATH=/home/zhongyu/sz/sz2
-TEST_FILE=/home/zhongyu/test/SDRBENCH-EXAALT-2869440-f/vx.dat2
+SZ_PATH=../sz_install/
+TEST_FILE=../data/SDRBENCH-EXAALT-2869440-f/vx.dat2
 DIM=1
 filesize_set_rows="2869440"
 
@@ -53,8 +69,8 @@ run
 
 echo "CNT." >> $output
 
-SZ_PATH=/home/zhongyu/sz/sz2
-TEST_FILE=/home/zhongyu/test/SDRBENCH-EXAALT_HELIUM-7852x1037-f/dataset1-7852x1037.x.f32.dat
+SZ_PATH=../sz_install/
+TEST_FILE=../data/SDRBENCH-EXAALT_HELIUM-7852x1037-f/dataset1-7852x1037.x.f32.dat
 DIM=2
 filesize_set_rows="1037 7852"
 
@@ -102,8 +118,8 @@ run
 
 echo "CNT." >> $output
 
-SZ_PATH=/home/zhongyu/sz/sz2
-TEST_FILE=/home/zhongyu/test/SDRBENCH-CESM_ATM-1800x3600-f/FSNSC_1_1800_3600.f32
+SZ_PATH=../sz_install/
+TEST_FILE=../data/SDRBENCH-CESM_ATM-1800x3600-f/FSNSC_1_1800_3600.f32
 DIM=2
 filesize_set_rows="3600 1800"
 
@@ -151,8 +167,8 @@ run
 
 echo "CNT." >> $output
 
-SZ_PATH=/home/zhongyu/sz/sz2
-TEST_FILE=/home/zhongyu/test/SMALL-eddy_velx_f4-282616-d/eddy_velx_f4.dat
+SZ_PATH=../sz_install/
+TEST_FILE=../data/SMALL-eddy_velx_f4-282616-d/eddy_velx_f4.dat
 DIM=1
 filesize_set_rows="282616"
 
@@ -202,8 +218,8 @@ echo "FINISHED." >> $output
 
 # FSE
 
-SZ_PATH=/home/zhongyu/sz/sz2
-TEST_FILE=/home/zhongyu/test/SDRBENCH-EXAALT-2869440-f/vx.dat2
+SZ_PATH=../sz_install/
+TEST_FILE=../data/SDRBENCH-EXAALT-2869440-f/vx.dat2
 DIM=1
 filesize_set_rows="2869440"
 
@@ -250,8 +266,8 @@ run
 
 echo "CNT." >> $output2
 
-SZ_PATH=/home/zhongyu/sz/sz2
-TEST_FILE=/home/zhongyu/test/SDRBENCH-EXAALT_HELIUM-7852x1037-f/dataset1-7852x1037.x.f32.dat
+SZ_PATH=../sz_install/
+TEST_FILE=../data/SDRBENCH-EXAALT_HELIUM-7852x1037-f/dataset1-7852x1037.x.f32.dat
 DIM=2
 filesize_set_rows="1037 7852"
 
@@ -298,8 +314,8 @@ run
 
 echo "CNT." >> $output2
 
-SZ_PATH=/home/zhongyu/sz/sz2
-TEST_FILE=/home/zhongyu/test/SDRBENCH-CESM_ATM-1800x3600-f/FSNSC_1_1800_3600.f32
+SZ_PATH=../sz_install/
+TEST_FILE=../data/SDRBENCH-CESM_ATM-1800x3600-f/FSNSC_1_1800_3600.f32
 DIM=2
 filesize_set_rows="3600 1800"
 
@@ -348,8 +364,8 @@ run
 
 echo "CNT." >> $output2
 
-SZ_PATH=/home/zhongyu/sz/sz2
-TEST_FILE=/home/zhongyu/test/SMALL-eddy_velx_f4-282616-d/eddy_velx_f4.dat
+SZ_PATH=../sz_install/
+TEST_FILE=../data/SMALL-eddy_velx_f4-282616-d/eddy_velx_f4.dat
 DIM=1
 filesize_set_rows="282616"
 
