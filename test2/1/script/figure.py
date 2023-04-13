@@ -386,17 +386,6 @@ for input_file in input_files:
     # overall compression ratio
     i = 1
     fig5 = plt.figure(figsize=[6,5], dpi=100)
-    ylabels=[ 
-        [],
-        [0,1,4,16],
-        [0,1,2],
-        [0,1,2],
-        [0,1,4,16,64],
-        [0,1,4,16,64,256],
-        [0,1,4,16,64],
-        [0,1,2,4,8],
-        [0,1,4,16]
-    ]
     for dataset in filter:
         # print(dataset)
         # print(stat[RATIO_ALL][dataset][HUFFMAN])
@@ -429,7 +418,6 @@ for input_file in input_files:
 
         ax.set_yscale('log',base=2)
         ax.set_ylim(bottom=1)
-        ax.set_yticklabels(ylabels[i])
         i += 1
     
     plt.subplots_adjust(left=0.1,right=0.96,bottom=0.17,top=0.92,wspace=0.32,hspace=0.6) 
