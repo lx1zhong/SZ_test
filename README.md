@@ -1,4 +1,4 @@
-# SZ_test
+# SZ_test ![](https://zenodo.org/badge/DOI/10.5281/zenodo.8080927.svg)
 
 SZ_test includes evaluation scripts for **ADT-FSE**([lx1zhong/SZ_ADT at develop (github.com)](https://github.com/lx1zhong/SZ_ADT/tree/develop)).
 
